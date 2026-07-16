@@ -1,4 +1,3 @@
-# Core 108 Essential Sādhana Resources
 
 Status: Draft
 
