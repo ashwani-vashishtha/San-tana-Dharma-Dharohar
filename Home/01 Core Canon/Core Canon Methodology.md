@@ -215,3 +215,47 @@ Every inclusion should answer two questions:
 2. Why is it preferred over similar candidates?
 
 If these questions cannot be answered satisfactorily, the resource should not enter the Core Canon.
+
+## Editorial Workflow
+
+Stage 1
+
+Repository Architecture
+
+Completed
+
+Stage 2
+
+Governance
+
+Completed
+
+Stage 3
+
+Master Candidate List
+
+Completed
+
+Stage 4
+
+Editorial Review
+
+Pending
+
+Stage 5
+
+Freeze Final 108
+
+Pending
+
+Stage 6
+
+Assign Canon IDs
+
+Pending
+
+Stage 7
+
+Write Sādhana Sheets
+
+Pending

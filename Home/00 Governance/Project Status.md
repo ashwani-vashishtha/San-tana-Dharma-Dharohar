@@ -73,3 +73,24 @@ Open Decisions
 • Core vs Extended Canon boundary
 
 • Inclusion threshold
+
+## Current Status
+
+Current Yātrā
+- Jijñāsā
+
+Current Milestone
+- Milestone 2 — Core Canon Architecture
+
+Status
+- ✅ Repository Structure Frozen
+- ✅ Governance Documents Frozen
+- ✅ Research & Citation Policy Frozen
+- ✅ Core Canon Editorial Principles Frozen
+- ✅ Core Canon High-Level Taxonomy Frozen
+- ✅ Master Candidate List v0.2 Created
+- ⏳ Editorial Review of Candidates Pending
+- ⏳ Final 108 Core Canon Pending
+
+Next Milestone
+- Editorial Review and Selection of the Final 108 Core Canon Resources

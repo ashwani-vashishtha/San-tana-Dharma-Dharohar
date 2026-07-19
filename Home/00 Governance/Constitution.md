@@ -18,3 +18,16 @@ It defines:
 - Project Roadmap
 
 No article shall contradict this Constitution.
+
+## Article 8
+
+Core Canon Editorial Principles
+
+The Core Canon shall:
+
+- Represent the breadth of Sanātana Dharma.
+- Remain non-sectarian.
+- Use descriptive editorial language.
+- Distinguish scriptural authority from traditional belief.
+- Preserve historical authenticity.
+- Remain stable once finalized.
