@@ -2,137 +2,296 @@
 
 Status: Working Draft
 
-## Purpose
+---
 
-This document represents the complete editorial universe of candidate resources from which the **Final 108 Core Canon** will be curated.
+# Purpose
 
-Inclusion in this list **does not imply acceptance** into the Core Canon. It serves as the master editorial inventory during the selection process.
+This document serves as the complete editorial inventory of works considered for inclusion in the **Sanātana Dharma Dharohar** repository.
 
-The final selection is governed by the principles defined in the Constitution and documented through the Editorial Decision Ledger.
+It is the primary working catalogue used during editorial evaluation and provides the source from which the **Core Canon**, **Extended Canon**, and **Research Archive** are curated.
+
+Inclusion in this list **does not imply acceptance** into the Core Canon.
+
+Editorial evaluation is governed by the [[00 Governance/Constitution]], implemented through the [[01 Core Canon/Core Canon Methodology]], and documented in the [[00 Governance/Decision Ledger]].
 
 ---
 
-# Candidate Sections
+# Editorial Status
 
-## I. Śruti (Finalized)
+The following classifications indicate the **editorial importance of a work during the evaluation process**. They are **not** the final repository classifications.
 
-### Vedas
-
-- Ṛgveda
-- Yajurveda
-- Sāmaveda
-- Atharvaveda
-
-### Principal Upaniṣads
-
-- Īśa
-- Kena
-- Kaṭha
-- Praśna
-- Muṇḍaka
-- Māṇḍūkya
-- Taittirīya
-- Aitareya
-- Chāndogya
-- Bṛhadāraṇyaka
-- Śvetāśvatara
-- Kaivalya
-- Maitrī
-
-### Additional Candidates
-
-- Gaṇapati Atharvaśīrṣa
-- Kauṣītaki Upaniṣad
+| Status | Meaning |
+|---------|---------|
+| 🟢 Core Candidate | Essential representative of its tradition and a strong candidate for the Core Canon |
+| 🔵 Major Candidate | Highly influential work with broad historical or doctrinal significance |
+| 🟡 Supplementary Candidate | Valuable for deeper study or specialised traditions |
+| ⚪ Reference Candidate | Primarily retained for historical, comparative, or research purposes |
 
 ---
 
-## II. Itihāsa & Civilizational Epics (Finalized)
+# Repository Classification
 
-- Vālmīki Rāmāyaṇa
-- Mahābhārata
-- Bhagavad Gītā
-- Rāmcharitmānas
-- Harivaṃśa
+After editorial review, accepted works are assigned one of the following repository classifications:
 
----
-
-## III. Purāṇa (Finalized)
-
-### Core
-
-- Viṣṇu Purāṇa
-- Śrīmad Bhāgavata Mahāpurāṇa
-- Śiva Purāṇa
-- Mārkaṇḍeya Purāṇa
-- Devī Bhāgavata Purāṇa
-- Skanda Purāṇa
-
-### Extended Candidates
-
-- Brahma Purāṇa
-- Padma Purāṇa
-- Vāmana Purāṇa
-- Kūrma Purāṇa
-- Matsya Purāṇa
-- Agni Purāṇa
-- Liṅga Purāṇa
-- Brahmāṇḍa Purāṇa
-- Brahmavaivarta Purāṇa
-- Nārada Purāṇa
-- Garuḍa Purāṇa
-- Bhaviṣya Purāṇa
-- Varāha Purāṇa
+| Classification | Purpose |
+|---------------|---------|
+| Core Canon | Essential works forming the primary corpus of Sanātana Dharma Dharohar |
+| Extended Canon | Important works that expand and deepen the Core Canon |
+| Research Archive | Works preserved for historical, scholarly, or comparative reference |
 
 ---
 
-## IV. Dharma & Vedānta (Under Review)
+# I. Śruti *(Finalized)*
 
-### Dharma
+## Vedas
 
-- Manusmṛti
+| Work | Status |
+|------|--------|
+| Ṛgveda | 🟢 |
+| Yajurveda | 🟢 |
+| Sāmaveda | 🟢 |
+| Atharvaveda | 🟢 |
 
-### Foundational Vedānta
+---
 
-- Brahma Sūtra
+## Principal Upaniṣads
 
-### Advaita Vedānta
+| Work | Status |
+|------|--------|
+| Īśa | 🟢 |
+| Kena | 🟢 |
+| Kaṭha | 🟢 |
+| Praśna | 🟢 |
+| Muṇḍaka | 🟢 |
+| Māṇḍūkya | 🟢 |
+| Taittirīya | 🟢 |
+| Aitareya | 🟢 |
+| Chāndogya | 🟢 |
+| Bṛhadāraṇyaka | 🟢 |
+| Śvetāśvatara | 🟢 |
+| Kaivalya | 🔵 |
+| Maitrī | 🔵 |
 
-- Tattva Bodha
-- Ātma Bodha
-- Vivekacūḍāmaṇi
-- Pañcadaśī
-- Yoga Vāsiṣṭha
+---
+
+## Additional Candidates
+
+| Work | Status |
+|------|--------|
+| Gaṇapati Atharvaśīrṣa | ⚪ |
+| Kauṣītaki Upaniṣad | 🔵 |
+
+---
+
+# II. Itihāsa & Civilizational Epics *(Finalized)*
+
+| Work | Status |
+|------|--------|
+| Vālmīki Rāmāyaṇa | 🟢 |
+| Mahābhārata | 🟢 |
+| Bhagavad Gītā | 🟢 |
+| Rāmcharitmānas | 🟢 |
+| Harivaṃśa | 🔵 |
+
+---
+
+# III. Purāṇa *(Finalized)*
+
+## Core Candidates
+
+| Work | Status |
+|------|--------|
+| Viṣṇu Purāṇa | 🟢 |
+| Śrīmad Bhāgavata Mahāpurāṇa | 🟢 |
+| Śiva Purāṇa | 🟢 |
+| Mārkaṇḍeya Purāṇa | 🟢 |
+| Devī Bhāgavata Purāṇa | 🟢 |
+| Skanda Purāṇa | 🟢 |
+
+---
+
+## Major Candidates
+
+| Work | Status |
+|------|--------|
+| Brahma Purāṇa | 🔵 |
+| Padma Purāṇa | 🔵 |
+| Matsya Purāṇa | 🔵 |
+| Kūrma Purāṇa | 🔵 |
+| Agni Purāṇa | 🔵 |
+| Liṅga Purāṇa | 🔵 |
+| Brahmāṇḍa Purāṇa | 🔵 |
+| Garuḍa Purāṇa | 🔵 |
+| Nārada Purāṇa | 🔵 |
+| Varāha Purāṇa | 🔵 |
+| Brahmavaivarta Purāṇa | 🔵 |
+| Bhaviṣya Purāṇa | 🔵 |
+| Vāmana Purāṇa | 🔵 |
+
+---
+
+# IV. Dharma, Darśana & Philosophical Traditions
+
+## IV-A. Dharma Literature
+
+### Dharma Sūtras
+
+| Work | Status |
+|------|--------|
+| Gautama Dharma Sūtra | 🟢 |
+| Āpastamba Dharma Sūtra | 🟢 |
+| Baudhāyana Dharma Sūtra | 🔵 |
+| Vasiṣṭha Dharma Sūtra | 🟡 |
+| Hiraṇyakeśin Dharma Sūtra | ⚪ |
+
+---
+
+### Dharma Śāstras
+
+| Work | Status |
+|------|--------|
+| Manusmṛti | 🟢 |
+| Yājñavalkya Smṛti | 🟢 |
+| Nārada Smṛti | 🔵 |
+| Parāśara Smṛti | 🔵 |
+| Bṛhaspati Smṛti | 🟡 |
+| Kātyāyana Smṛti | 🟡 |
+
+---
+
+### Nīti Literature
+
+| Work | Status |
+|------|--------|
+| Pañcatantra | 🟢 |
+| Nītiśataka | 🟢 |
+| Chanakya Nīti | 🔵 |
+| Hitopadeśa | 🟡 |
+| Vidura Nīti *(represented through the Mahābhārata)* | ⚪ |
+
+---
+
+## IV-B. Ṣaḍ-Darśanas
+
+### Nyāya
+
+| Work | Status |
+|------|--------|
+| Nyāya Sūtra | 🟢 |
+| Nyāya Bhāṣya | 🔵 |
+
+---
+
+### Vaiśeṣika
+
+| Work | Status |
+|------|--------|
+| Vaiśeṣika Sūtra | 🟢 |
+| Padārtha Dharma Saṅgraha | 🔵 |
+
+---
+
+### Sāṅkhya
+
+| Work | Status |
+|------|--------|
+| Sāṅkhya Kārikā | 🟢 |
+| Tattva Kaumudī | 🔵 |
+
+---
+
+### Yoga Darśana
+
+| Work | Status |
+|------|--------|
+| Yoga Sūtra | 🟢 |
+| Yoga Bhāṣya | 🔵 |
+
+---
+
+### Pūrva Mīmāṃsā
+
+| Work | Status |
+|------|--------|
+| Mīmāṃsā Sūtra | 🟢 |
+| Śabara Bhāṣya | 🔵 |
+
+---
+
+### Vedānta
+
+| Work | Status |
+|------|--------|
+| Brahma Sūtra | 🟢 |
+
+---
+
+## IV-C. Vedānta
+
+### Advaita
+
+| Work | Status |
+|------|--------|
+| Tattva Bodha | 🔵 |
+| Ātma Bodha | 🔵 |
+| Vivekacūḍāmaṇi | 🟢 |
+| Upadeśa Sāhasrī | 🟢 |
+| Pañcadaśī | 🔵 |
+
+---
+
+### Viśiṣṭādvaita
+
+*Editorial review pending.*
+
+---
+
+### Dvaita
+
+*Editorial review pending.*
+
+---
 
 ### Other Vedānta Traditions
 
-*(Under editorial review.)*
+*Editorial review pending.*
 
 ---
 
-## V. Tantra & Āgama
+# V. Tantra & Āgama
 
-*(Pending editorial review.)*
+Editorial review pending.
 
----
-
-## VI. Yoga
-
-*(Pending editorial review.)*
+Candidate works will be evaluated according to the Core Canon Methodology.
 
 ---
 
-## VII. Bhakti
+# VI. Yoga
 
-*(Pending editorial review.)*
+Editorial review pending.
 
----
-
-## VIII. Stotra, Sahasranāma & Kavaca
-
-*(Pending editorial review.)*
+Candidate works will be evaluated according to the Core Canon Methodology.
 
 ---
 
-## IX. Mantra & Sūkta
+# VII. Bhakti
 
-*(Pending editorial review.)*
+Editorial review pending.
+
+Candidate works will be evaluated according to the Core Canon Methodology.
+
+---
+
+# VIII. Stotra, Sahasranāma & Kavaca
+
+Editorial review pending.
+
+Candidate works will be evaluated according to the Core Canon Methodology.
+
+---
+
+# IX. Mantra & Sūkta
+
+Editorial review pending.
+
+Candidate works will be evaluated according to the Core Canon Methodology.

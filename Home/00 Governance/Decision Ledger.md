@@ -322,3 +322,144 @@ The Tantric and Āgamic traditions represent a major scriptural stream of Sanāt
 ## Status
 
 Accepted
+
+---
+# Decision DL-020
+
+## Title
+
+Knowledge Tradition Representation
+
+## Decision
+
+The Core Canon shall preserve the major knowledge traditions of Sanātana Dharma rather than merely enumerate individual texts.
+
+Each section of the Canon shall seek to represent the essential intellectual, philosophical, devotional, ritual, and spiritual traditions through their principal textual works.
+
+## Reason
+
+This approach preserves the structure of Sanātana Dharma as a living knowledge system rather than reducing the repository to a collection of books.
+
+## Status
+
+Accepted
+
+---
+
+# Decision DL-021
+
+## Title
+
+Three-Layer Canon Architecture
+
+## Decision
+
+The repository shall maintain three editorial layers.
+
+### Layer I
+
+Core Canon
+
+The essential works required for understanding Sanātana Dharma.
+
+### Layer II
+
+Extended Canon
+
+Works that substantially deepen understanding of individual traditions.
+
+### Layer III
+
+Research Archive
+
+Historical, regional, manuscript, specialized, and research material preserved for completeness.
+
+## Reason
+
+Separating the repository into editorial layers enables long-term expansion while preserving the stability of the Core Canon.
+
+## Status
+
+Accepted
+
+---
+
+# Decision DL-022
+
+## Title
+
+Textual Representation Model
+
+## Decision
+
+Where appropriate, every knowledge tradition shall be represented through the following editorial structure:
+
+- Tradition
+- Foundational Text
+- Classical Commentary
+- Advanced Literature
+
+## Reason
+
+Many traditions cannot be faithfully represented through a single work alone.
+
+This model preserves both the foundational scripture and the major interpretive tradition.
+
+## Status
+
+Accepted
+
+---
+
+# Decision DL-023
+
+## Title
+
+Section IV Architecture
+
+## Decision
+
+Section IV of the Core Canon shall be organized into the following permanent subsections:
+
+1. Dharma Literature
+2. Ṣaḍ-Darśanas
+3. Vedānta
+4. Yoga & Spiritual Realization
+5. Civilization & Statecraft
+
+Bhakti Theology shall be developed as an independent section of the Core Canon rather than being incorporated into Section IV.
+
+## Reason
+
+This structure better reflects the historical development of Hindu intellectual traditions while avoiding overlap between philosophical and devotional literature.
+
+## Status
+
+Accepted
+
+---
+
+# Decision DL-024
+
+## Title
+
+Editorial Classification Framework
+
+## Decision
+
+Candidate works shall be assigned one of the following editorial classifications during evaluation:
+
+- Core
+- Major
+- Supplementary
+- Reference
+
+These classifications guide editorial evaluation and do not constitute canonical status by themselves.
+
+## Reason
+
+The framework distinguishes indispensable works from important supporting literature while maintaining transparency during the editorial process.
+
+## Status
+
+Accepted

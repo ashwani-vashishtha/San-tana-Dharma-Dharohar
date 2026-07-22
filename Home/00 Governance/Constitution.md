@@ -1,6 +1,6 @@
 # Constitution of Sanātana Dharma Dharohar
 
-Version: 0.3
+Version: 0.4
 
 Status: Working Draft
 
@@ -15,81 +15,108 @@ It defines:
 - Repository Standards
 - Classification System
 - Metadata Standards
+- Canon Architecture Principles
 - Project Roadmap
 
 No article shall contradict this Constitution.
 
 ---
 
-## Article 8 — Core Canon Editorial Principles
+# Article 8 — Core Canon Editorial Principles
 
 The Core Canon shall:
 
-- Represent the breadth of **Sanātana Dharma**.
+- Represent the breadth of Sanātana Dharma.
 - Remain non-sectarian.
 - Use descriptive and academically neutral editorial language.
 - Distinguish scriptural authority from traditional belief and later interpretation.
 - Preserve historical authenticity.
 - Remain stable once finalized.
-- Represent major traditions proportionately without privileging any single **Sampradāya (सम्प्रदाय • Sampradāya)**.
-- Represent philosophical schools through their principal textual works rather than listing philosophical schools in isolation.
-- Distinguish clearly between **Primary Scriptures**, **Commentarial Literature**, and **Modern Interpretations**.
-- Recognize both scriptural authority and enduring civilizational influence when evaluating works for inclusion.
-- Preserve the integrity of literary traditions by representing embedded scriptures through their parent text unless an embedded work has attained universally recognized independent scriptural authority.
+- Represent major traditions proportionately without privileging any single Sampradāya.
+- Represent philosophical schools through their principal textual works.
+- Distinguish Primary Scriptures, Classical Commentaries, Practice Texts, and Modern Interpretations.
+- Recognize both scriptural authority and enduring civilizational influence.
+- Preserve literary traditions while avoiding unnecessary duplication.
 
-### Canon Evaluation Criteria
+## Canon Evaluation Criteria
 
-A work may qualify for inclusion in the Core Canon based on one or more of the following criteria:
+A work may qualify through one or more of:
 
-#### 1. Scriptural Authority
+1. Scriptural Authority
+2. Historical Significance
+3. Philosophical Importance
+4. Living Tradition
+5. Civilizational Impact
+6. Representative Value
 
-Recognition within the primary scriptural traditions of Sanātana Dharma.
+## Embedded Scripture Principle
 
-#### 2. Historical Significance
+Embedded scriptures shall normally be represented through their parent work.
 
-Demonstrable influence across multiple historical periods.
+Independent representation shall be reserved for works that have attained universally recognized independent authority.
 
-#### 3. Philosophical Importance
+Examples
 
-Foundational contribution to Hindu philosophical thought.
-
-#### 4. Living Tradition
-
-Continued use in worship, study, teaching, or spiritual practice.
-
-#### 5. Civilizational Impact
-
-Enduring influence on temples, festivals, literature, music, arts, pilgrimage, social customs, and the collective cultural memory of Sanātana Dharma.
-
-#### 6. Representative Value
-
-Faithful representation of a major tradition, philosophical school, or spiritual lineage within the broader Hindu tradition.
-
-### Embedded Scripture Principle
-
-As a constitutional rule:
-
-- Embedded scriptures shall normally be represented through their parent work.
-- Independent representation shall be reserved for works that have attained universally recognized independent scriptural authority.
-
-Examples:
-
-**Independent Core Canon Entries**
+Independent Entry
 
 - Bhagavad Gītā
 
-**Represented Through Parent Text**
+Represented through Parent
 
 - Devī Māhātmya → Mārkaṇḍeya Purāṇa
 
-Future embedded scriptures shall be evaluated individually using the Canon Evaluation Criteria.
+## Non-Duplication Principle
+
+Where the essential content of a work is already represented within another Core Canon entry, separate inclusion shall normally not be granted unless the work possesses independent scriptural, philosophical, historical, or devotional authority.
 
 ---
 
-## Amendment History
+# Article 9 — Canon Architecture
+
+The Core Canon preserves **knowledge traditions**, not merely individual books.
+
+The objective is to represent the complete intellectual structure of Sanātana Dharma through its foundational traditions.
+
+Representation shall take precedence over enumeration.
+
+---
+
+# Article 10 — Canon Layers
+
+The repository shall maintain three editorial layers.
+
+## Layer I — Core Canon
+
+The essential works required for understanding Sanātana Dharma.
+
+## Layer II — Extended Canon
+
+Works that substantially deepen understanding but are not indispensable to the Core Canon.
+
+## Layer III — Research Archive
+
+Historical, regional, manuscript, specialized, and research material preserved for completeness.
+
+---
+
+# Article 11 — Textual Representation
+
+Whenever applicable, every knowledge tradition shall be documented using four editorial components.
+
+1. Tradition
+2. Foundational Text
+3. Classical Commentary
+4. Advanced Literature
+
+This structure shall be applied consistently throughout the repository.
+
+---
+
+# Amendment History
 
 | Version | Summary |
 |---------|---------|
-| 0.1 | Initial Constitution. |
-| 0.2 | Expanded Core Canon Editorial Principles. |
-| 0.3 | Added Canon Evaluation Criteria, Embedded Scripture Principle, Representative Value, Civilizational Impact, and distinction between Primary Scriptures, Commentarial Literature, and Modern Interpretations. |
+| 0.1 | Initial Constitution |
+| 0.2 | Expanded Editorial Principles |
+| 0.3 | Added Canon Evaluation Criteria and Embedded Scripture Principle |
+| 0.4 | Added Canon Architecture, Canon Layers, Textual Representation and Non-Duplication Principle |
