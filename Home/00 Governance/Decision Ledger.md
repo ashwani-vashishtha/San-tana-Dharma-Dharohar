@@ -1,10 +1,61 @@
 # Decision Ledger
 
-Status: Active
+Version: 1.0
 
-This ledger records all governance, editorial, and structural decisions made during the development of **Sanātana Dharma Dharohar**.
+Status: Approved
 
-Superseded decisions are retained to preserve the project's editorial history.
+Created: 2026-07-19
+
+Last Updated: 2026-07-23
+
+Owner: Sanātana Dharma Dharohar Project
+
+Related Documents:
+- Constitution.md
+- Project Status.md
+- Core Canon Methodology.md
+- Core Canon Taxonomy.md
+- Core Canon Editorial Guide.md
+
+---
+
+# Purpose
+
+This ledger records all governance, editorial, structural, and architectural decisions made during the development of **Sanātana Dharma Dharohar**.
+
+It serves as the authoritative historical record of accepted project decisions.
+
+Superseded decisions are intentionally retained to preserve the evolution of the repository and provide historical context.
+
+---
+
+# Usage
+
+The Decision Ledger should be updated whenever a governance decision is made that affects:
+
+- Repository architecture
+- Editorial methodology
+- Core Canon structure
+- Inclusion principles
+- Taxonomy
+- Editorial standards
+- Repository governance
+
+Routine editorial work should **not** be recorded here.
+
+---
+
+# Decision Status
+
+The following decision states are used throughout this ledger.
+
+| Status | Meaning |
+|---------|---------|
+| Proposed | Under discussion; not yet adopted. |
+| Accepted | Approved and currently in effect. |
+| Frozen | Permanent decision that should rarely change. |
+| Superseded | Replaced by a later decision while retained for historical reference. |
+| Rejected | Considered but not adopted. |
 
 ---
 
@@ -26,440 +77,75 @@ Superseded decisions are retained to preserve the project's editorial history.
 | DL-017 | Philosophical Neutrality | Accepted |
 | DL-018 | Representation of Dharmaśāstra | Accepted |
 | DL-019 | Tantra & Āgama as Independent Canon Section | Accepted |
+| DL-020 | Knowledge Tradition Representation | Accepted |
+| DL-021 | Three-Layer Canon Architecture | Accepted |
+| DL-022 | Textual Representation Model | Accepted |
+| DL-023 | Section IV Architecture | Frozen |
+| DL-024 | Editorial Classification Framework | Accepted |
+| DL-025 | Section IV Structure Frozen | Frozen |
 
 ---
 
-# Decision DL-001
+# Decision Format
 
-## Title
+Each decision should contain, where applicable:
 
-Project Name
-
-## Decision
-
-The official name of the project shall be:
-
-**Sanātana Dharma Dharohar**
-
-## Status
-
-Frozen
+- Decision ID
+- Title
+- Decision
+- Reason
+- Status
+- Date
+- Supersedes / Superseded By (if applicable)
 
 ---
 
-# Decision DL-002
+# Decisions
 
-## Title
+## DL-025 — Section IV Structure Frozen
 
-Repository
+**Status:** Frozen
 
-## Decision
+**Date:** 2026-07-23
 
-The project's knowledge repository shall be maintained in **Obsidian**.
+### Decision
 
-## Status
+The structure of **Section IV – Dharma, Darśana & Philosophical Traditions (धर्म, दर्शन एवं दार्शनिक परम्पराएँ)** is frozen.
 
-Frozen
+Section IV shall comprise:
 
----
+- **IV-A. Dharma Literature (धर्म साहित्य)**
+  - Dharma Sūtras
+  - Dharma Śāstras
+  - Nīti Literature
 
-# Decision DL-008
+- **IV-B. Ṣaḍ-Darśanas (षड्दर्शन)**
+  - Nyāya
+  - Vaiśeṣika
+  - Sāṅkhya
+  - Yoga Darśana
+  - Pūrva Mīmāṃsā
+  - Vedānta (represented by the *Brahma Sūtra*)
 
-## Title
+- **IV-C. Vedānta (वेदान्त)**
+  - Advaita (अद्वैत)
+  - Viśiṣṭādvaita (विशिष्टाद्वैत)
+  - Dvaita (द्वैत)
 
-Core Canon Editorial Methodology
+The **Brahma Sūtra** represents Vedānta as one of the Ṣaḍ-Darśanas in Section IV-B. The principal Vedānta traditions and their representative literature are curated separately in Section IV-C.
 
-## Decision
+Section headings and philosophical traditions shall use the editorial convention:
 
-The Core Canon shall be created using a two-stage editorial process:
+**English / IAST (Devanāgarī)**
 
-1. Build a comprehensive Master Candidate List.
-2. Curate the Final 108 using defined editorial criteria.
+Future revisions to Section IV should normally be limited to:
 
-## Reason
+- candidate works,
+- editorial status,
+- canon placement,
 
-This minimizes omissions and creates a transparent editorial process.
+and should not alter the overall structure without a new governance decision.
 
-## Status
+### Reason
 
-Accepted
-
-## Date
-
-2026-07-19
-
----
-
-# Decision DL-009
-
-## Title
-
-Bhagavad Gītā as Independent Canon Entry
-
-## Decision
-
-Although contained within the Mahābhārata, the Bhagavad Gītā shall receive its own independent Core Canon entry.
-
-## Reason
-
-- Independent commentary tradition.
-- Independent recitation tradition.
-- Universal acceptance across major Sampradāyas.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-010
-
-## Title
-
-Rāmcharitmānas Classification
-
-## Decision
-
-Rāmcharitmānas shall be classified under Bhakti rather than Itihāsa.
-
-## Status
-
-Superseded
-
-## Superseded By
-
-DL-013
-
----
-
-# Decision DL-011
-
-## Title
-
-Editorial Neutrality
-
-## Decision
-
-All Core Canon descriptions shall be descriptive rather than promotional.
-
-Entries shall describe:
-
-- Nature
-- Primary Contribution
-- Traditional Use
-
-They shall avoid unverifiable promises and sectarian assertions.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-012
-
-## Title
-
-Core Canon Structure
-
-## Decision
-
-The Core Canon shall consist of the following permanent sections:
-
-1. Śruti
-2. Itihāsa & Civilizational Epics
-3. Purāṇa
-4. Dharma & Vedānta
-5. Tantra & Āgama
-6. Yoga
-7. Bhakti
-8. Stotra, Sahasranāma & Kavaca
-9. Mantra & Sūkta
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-013
-
-## Title
-
-Revision of Rāmcharitmānas Classification
-
-## Decision
-
-Rāmcharitmānas shall be included within the **Itihāsa & Civilizational Epics** section of the Core Canon.
-
-## Reason
-
-Although not one of the classical Itihāsas, the Rāmcharitmānas possesses exceptional civilizational influence across Sanātana Dharma and is therefore best represented within the Civilizational Epics.
-
-## Supersedes
-
-DL-010
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-014
-
-## Title
-
-Core Purāṇa Selection
-
-## Decision
-
-The following works constitute the Core Purāṇa section:
-
-- Viṣṇu Purāṇa
-- Śrīmad Bhāgavata Mahāpurāṇa
-- Śiva Purāṇa
-- Mārkaṇḍeya Purāṇa
-- Devī Bhāgavata Purāṇa
-- Skanda Purāṇa
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-015
-
-## Title
-
-Representation of Embedded Scriptures
-
-## Decision
-
-Embedded scriptures shall normally be represented through their parent work.
-
-Independent representation shall be reserved for embedded works that have attained universally recognised independent scriptural authority.
-
-## Examples
-
-Independent:
-
-- Bhagavad Gītā
-
-Represented through parent:
-
-- Devī Māhātmya → Mārkaṇḍeya Purāṇa
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-016
-
-## Title
-
-Representation of Darśanas
-
-## Decision
-
-The classical Darśanas shall be represented through their principal textual works rather than by listing the philosophical schools independently.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-017
-
-## Title
-
-Philosophical Neutrality
-
-## Decision
-
-The Core Canon shall represent the major Vedānta traditions proportionately and shall not privilege any single philosophical lineage.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-018
-
-## Title
-
-Representation of Dharmaśāstra
-
-## Decision
-
-Representative Dharmaśāstra literature shall be included with appropriate historical and contextual framing rather than presented as universally binding law for all times.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-019
-
-## Title
-
-Tantra & Āgama as an Independent Canon Section
-
-## Decision
-
-Tantra & Āgama shall constitute an independent section of the Core Canon.
-
-## Reason
-
-The Tantric and Āgamic traditions represent a major scriptural stream of Sanātana Dharma and deserve independent treatment within the Canon.
-
-## Status
-
-Accepted
-
----
-# Decision DL-020
-
-## Title
-
-Knowledge Tradition Representation
-
-## Decision
-
-The Core Canon shall preserve the major knowledge traditions of Sanātana Dharma rather than merely enumerate individual texts.
-
-Each section of the Canon shall seek to represent the essential intellectual, philosophical, devotional, ritual, and spiritual traditions through their principal textual works.
-
-## Reason
-
-This approach preserves the structure of Sanātana Dharma as a living knowledge system rather than reducing the repository to a collection of books.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-021
-
-## Title
-
-Three-Layer Canon Architecture
-
-## Decision
-
-The repository shall maintain three editorial layers.
-
-### Layer I
-
-Core Canon
-
-The essential works required for understanding Sanātana Dharma.
-
-### Layer II
-
-Extended Canon
-
-Works that substantially deepen understanding of individual traditions.
-
-### Layer III
-
-Research Archive
-
-Historical, regional, manuscript, specialized, and research material preserved for completeness.
-
-## Reason
-
-Separating the repository into editorial layers enables long-term expansion while preserving the stability of the Core Canon.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-022
-
-## Title
-
-Textual Representation Model
-
-## Decision
-
-Where appropriate, every knowledge tradition shall be represented through the following editorial structure:
-
-- Tradition
-- Foundational Text
-- Classical Commentary
-- Advanced Literature
-
-## Reason
-
-Many traditions cannot be faithfully represented through a single work alone.
-
-This model preserves both the foundational scripture and the major interpretive tradition.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-023
-
-## Title
-
-Section IV Architecture
-
-## Decision
-
-Section IV of the Core Canon shall be organized into the following permanent subsections:
-
-1. Dharma Literature
-2. Ṣaḍ-Darśanas
-3. Vedānta
-4. Yoga & Spiritual Realization
-5. Civilization & Statecraft
-
-Bhakti Theology shall be developed as an independent section of the Core Canon rather than being incorporated into Section IV.
-
-## Reason
-
-This structure better reflects the historical development of Hindu intellectual traditions while avoiding overlap between philosophical and devotional literature.
-
-## Status
-
-Accepted
-
----
-
-# Decision DL-024
-
-## Title
-
-Editorial Classification Framework
-
-## Decision
-
-Candidate works shall be assigned one of the following editorial classifications during evaluation:
-
-- Core
-- Major
-- Supplementary
-- Reference
-
-These classifications guide editorial evaluation and do not constitute canonical status by themselves.
-
-## Reason
-
-The framework distinguishes indispensable works from important supporting literature while maintaining transparency during the editorial process.
-
-## Status
-
-Accepted
+This decision finalizes the editorial architecture of Section IV, ensuring a clear distinction between the classical philosophical system of Vedānta and its principal interpretative traditions. It establishes a stable framework for future editorial work while maintaining consistency with the repository's representation model and governance principles.

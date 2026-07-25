@@ -1,45 +1,138 @@
 # Contributing
 
-Thank you for contributing to Sanātana Dharma Dharohar.
+Version: 1.0
 
-This repository values authenticity over volume.
+Status: Approved
 
----
+Created: 2026-07-19
 
-## Before Contributing
+Last Updated: 2026-07-23
 
-Read:
+Owner: Sanātana Dharma Dharohar Project
 
+Related Documents:
 - Constitution.md
-- AI_CONTEXT.md
-- PROJECT_STATUS.md
+- Decision Ledger.md
+- Project Status.md
+- AI Context.md
+- Core Canon Methodology.md
+- Core Canon Editorial Guide.md
+- Research & Citation Policy.md
 
 ---
 
-## Editorial Rules
+# Purpose
 
-- Follow Pramāṇa First.
-- Cite authentic sources whenever possible.
-- Clearly distinguish scripture from interpretation.
-- Do not overwrite established conclusions without evidence.
-- Preserve existing metadata and backlinks.
-- Keep notes atomic and well-linked.
+This document provides the editorial standards for contributing to the **Sanātana Dharma Dharohar** repository.
+
+Every contribution should strengthen the repository's authenticity, consistency, and long-term maintainability.
+
+Quality shall always take precedence over quantity.
 
 ---
 
-## Commit Messages
+# Before Contributing
 
-Use clear, descriptive commit messages.
+Before making changes, review the following documents in order:
+
+1. Constitution.md
+2. Decision Ledger.md
+3. Project Status.md
+4. AI Context.md
+5. Core Canon Methodology.md
+6. Core Canon Editorial Guide.md
+
+Contributors should ensure that no proposed change contradicts the established governance framework.
+
+---
+
+# Editorial Principles
+
+Every contribution shall:
+
+- Follow the Constitution and Decision Ledger.
+- Respect the established Editorial Methodology.
+- Prioritize **Pramāṇa (authoritative evidence)** over popularity.
+- Clearly distinguish scripture from commentary, interpretation, or personal opinion.
+- Preserve historical and philosophical neutrality.
+- Maintain consistency with the Core Canon Taxonomy.
+- Prefer authentic primary sources whenever available.
+
+---
+
+# Contribution Standards
+
+Contributors should:
+
+- Keep notes focused and atomic.
+- Preserve existing metadata.
+- Maintain internal links and backlinks.
+- Follow repository naming conventions.
+- Use consistent Sanskrit terminology and transliteration.
+- Avoid duplication of existing content.
+- Update cross-references when appropriate.
+
+---
+
+# Evidence & Citations
+
+Whenever practical:
+
+- Cite primary scriptures.
+- Cite authentic traditional commentaries.
+- Cite reputable academic sources where appropriate.
+- Clearly identify the source of quotations.
+- Distinguish established tradition from later interpretation.
+
+Unsupported claims should not be presented as fact.
+
+---
+
+# Commit Messages
+
+Use concise, descriptive commit messages.
 
 Examples:
 
 - Add Īśāvāsya Upaniṣad overview
-- Expand Rudram references
-- Refactor metadata template
-- Update Core Canon index
+- Expand Śrī Rudram references
+- Update Core Canon Taxonomy
+- Refine Editorial Methodology
+- Add Sādhana Sheet template
+- Correct Sanskrit transliteration
 
 ---
 
-## Goal
+# Pull Request Checklist
 
-Every contribution should improve clarity, authenticity, and navigability.
+Before submitting changes, verify that:
+
+- ☐ The Constitution has not been contradicted.
+- ☐ The Decision Ledger has been consulted.
+- ☐ Metadata remains intact.
+- ☐ Internal links are valid.
+- ☐ Sources have been cited where appropriate.
+- ☐ Existing content has not been duplicated.
+- ☐ The repository remains internally consistent.
+
+---
+
+# Repository Philosophy
+
+This repository values:
+
+- Authenticity over popularity.
+- Evidence over opinion.
+- Quality over quantity.
+- Clarity over complexity.
+- Long-term maintainability over rapid expansion.
+
+Every contribution should move the repository closer to becoming a trusted reference for the study and practice of **Sanātana Dharma**.
+
+---
+
+# Revision History
+
+| Version | Date | Summary |
+|---------|------|---------|
+| 1.0 | 2026-07-23 | Standardized contributor guidelines with governance metadata, editorial standards, evidence requirements, contribution workflow, pull request checklist, and repository philosophy. |

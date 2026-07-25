@@ -1,90 +1,180 @@
 # AI Context
 
-This repository is designed to be AI-independent.
+Version: 1.0
 
-Every AI assisting this project shall treat this document as its onboarding guide.
+Status: Approved
 
----
+Created: 2026-07-19
 
-## Mission
+Last Updated: 2026-07-23
 
-Preserve, organize, and explain Sanātana Dharma through authentic primary sources.
+Owner: Sanātana Dharma Dharohar Project
 
-The goal is not to create opinions.
-
-The goal is to organize authentic knowledge.
-
----
-
-## Editorial Principles
-
-Always follow the Constitution.
-
-Never contradict it.
+Related Documents:
+- Constitution.md
+- Decision Ledger.md
+- Project Status.md
+- Core Canon Methodology.md
+- Core Canon Taxonomy.md
+- Core Canon Editorial Guide.md
+- Research & Citation Policy.md
+- Session Starter.md
 
 ---
 
-## Evidence Hierarchy
+# Purpose
 
-1. Śruti
+This document serves as the onboarding and operating guide for any AI system assisting with the **Sanātana Dharma Dharohar** repository.
 
-2. Smṛti
+The repository is intentionally designed to be **AI-independent**. Any AI should be able to understand the repository's governance, editorial standards, and current state solely by consulting the governance documents.
 
-3. Itihāsa
-
-4. Purāṇa
-
-5. Darśana
-
-6. Traditional Commentaries
-
-7. Modern Scholars
-
-8. Personal Opinion
+This document supplements—but does not replace—the Constitution and other governance documents.
 
 ---
 
-## Writing Style
+# Mission
 
-Academic but readable.
+Preserve, organize, and explain the knowledge traditions of **Sanātana Dharma** through authentic, evidence-based, and editorially neutral documentation.
 
-Neutral.
+The objective is **not** to generate opinions or advocate particular viewpoints.
 
-Evidence-based.
-
-Avoid sensationalism.
-
-Always distinguish between:
-
-- scripture
-- commentary
-- interpretation
-- opinion
+The objective is to faithfully organize, document, and present authentic knowledge.
 
 ---
 
-## Naming Convention
+# Repository Philosophy
 
-Use dual names.
+The repository values:
 
-Example:
+- Authenticity over popularity.
+- Evidence over opinion.
+- Quality over quantity.
+- Clarity over complexity.
+- Long-term maintainability over rapid expansion.
 
-Bhagavad Gītā (भगवद्गीता)
-
-English equivalent where appropriate.
+When uncertainty exists, prefer caution over speculation.
 
 ---
 
-## Metadata
+# Governance Hierarchy
 
-Every permanent note should contain metadata.
+Always follow the repository governance in the following order:
+
+1. Constitution.md
+2. Decision Ledger.md
+3. Core Canon Methodology.md
+4. Core Canon Taxonomy.md
+5. Core Canon Editorial Guide.md
+6. Research & Citation Policy.md
+7. Project Status.md
+
+Higher governance documents always take precedence.
+
+---
+
+# Session Startup Workflow
+
+At the beginning of every new session:
+
+1. Ask whether the Obsidian vault has changed since the previous session.
+2. If governance documents have changed, review them before continuing.
+3. Read Project Status.md.
+4. Review the Decision Ledger for new governance decisions.
+5. Continue from the current work package and Next Task.
+6. Do not revisit completed milestones unless requested.
+
+---
+
+# Editorial Principles
+
+Always:
+
+- Follow the Constitution.
+- Respect the Decision Ledger.
+- Apply the Core Canon Methodology.
+- Follow the Core Canon Taxonomy.
+- Apply the Editorial Guide.
+- Follow the Research & Citation Policy.
+
+Never introduce editorial decisions that contradict repository governance.
+
+---
+
+# Research Principles
+
+Research should always prioritize:
+
+1. Primary Scriptures
+2. Traditional Commentaries
+3. Traditional Publications
+4. Modern Traditional Teachers
+5. Academic Research
+
+Clearly distinguish between:
+
+- Scripture
+- Commentary
+- Interpretation
+- Historical Context
+- Repository Summary
+
+Never present interpretation as scripture.
+
+---
+
+# Writing Style
+
+Every contribution should be:
+
+- factual
+- neutral
+- concise
+- well-structured
+- evidence-based
+- respectful of traditional understanding
+
+Avoid:
+
+- promotional language
+- sectarian advocacy
+- unsupported historical claims
+- sensationalism
+- speculation presented as fact
+
+---
+
+# Sanskrit & Naming Standards
+
+Use **IAST** as the repository standard.
+
+On first occurrence, include:
+
+- English Transliteration
+- Devanāgarī
+- IAST
+
+Example
+
+**Bhagavad Gītā (भगवद्गीता • Bhagavad Gītā)**
+
+Subsequent references may use the transliterated form alone.
+
+---
+
+# Metadata Standards
+
+Every permanent repository note should include appropriate metadata.
 
 Typical fields include:
 
 - Title
 - Sanskrit Name
+- Devanāgarī
+- IAST
 - Category
-- Pramāṇa
+- Tradition
+- Canon Status
+- Editorial Classification
 - Source
 - Related Notes
 - Status
@@ -92,26 +182,80 @@ Typical fields include:
 
 ---
 
-## Workflow
+# Working Principles
 
-Read:
+When editing the repository:
 
-1. Constitution.md
-
-2. PROJECT_STATUS.md
-
-3. CHANGELOG.md
-
-before beginning any new work.
-
-Never duplicate existing notes.
-
-Prefer extending existing notes.
-
-Maintain backlinks whenever appropriate.
+- Extend existing notes whenever appropriate.
+- Avoid unnecessary duplication.
+- Preserve backlinks and internal links.
+- Maintain consistent terminology.
+- Follow repository formatting conventions.
+- Preserve metadata integrity.
 
 ---
 
-## AI Objective
+# AI Responsibilities
 
-Leave the repository in a better state than it was found.
+AI may assist with:
+
+- drafting
+- summarization
+- organization
+- proofreading
+- metadata generation
+- editorial consistency
+- cross-link suggestions
+
+AI shall **not** be treated as an authoritative source.
+
+Every factual statement should ultimately be verified against reliable sources.
+
+---
+
+# AI Limitations
+
+AI should never:
+
+- Invent scriptural references.
+- Fabricate quotations.
+- Attribute teachings without evidence.
+- Merge differing traditions without attribution.
+- Replace primary sources with summaries.
+- Override established repository governance.
+- Present uncertain information as fact.
+
+When uncertain, explicitly acknowledge uncertainty.
+
+---
+
+# Session Completion
+
+Before ending a session, consider whether:
+
+- Project Status.md should be updated.
+- Decision Ledger.md requires a new entry.
+- Editorial progress has been recorded.
+- The Next Task has changed.
+
+Leave the repository in a more organized and consistent state than it was at the beginning of the session.
+
+---
+
+# Guiding Principle
+
+> Preserve Tradition.
+>
+> Present Evidence.
+>
+> Enable Practice.
+
+Every contribution should strengthen the repository's authenticity, clarity, consistency, and long-term maintainability.
+
+---
+
+# Revision History
+
+| Version | Date | Summary |
+|---------|------|---------|
+| 1.0 | 2026-07-23 | Established the AI operating guide for the repository, defining governance hierarchy, startup workflow, editorial principles, research standards, AI responsibilities, limitations, and session completion procedures. |

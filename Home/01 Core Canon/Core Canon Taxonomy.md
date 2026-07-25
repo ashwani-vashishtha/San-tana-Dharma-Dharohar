@@ -1,177 +1,255 @@
-> **Purpose**
->
-> This document defines the structural taxonomy used to organize the Core Canon of 108 Essential Sādhana Resources.
+# Core Canon Taxonomy
 
-The taxonomy provides the architectural framework of the Canon.
+Version: 2.0
 
-Individual resources will be assigned only after the taxonomy and category allocations have been finalized.
+Status: Approved
+
+Created: 2026-07-19
+
+Last Updated: 2026-07-23
+
+Owner: Sanātana Dharma Dharohar Project
+
+Related Documents:
+- Constitution.md
+- Decision Ledger.md
+- Core Canon Methodology.md
+- Core Canon Editorial Guide.md
+- Master Candidate List.md
+- Core Canon 108.md
 
 ---
 
-# Layer I — Śruti
+# Purpose
 
-The highest authority within Sanātana Dharma.
+This document defines the permanent editorial taxonomy of the **Core Canon of 108 Essential Sādhana Resources**.
 
-## Categories
+The taxonomy establishes the structural framework used to organize the Core Canon. It defines **sections and categories only**. It does **not** determine:
+
+- the final allocation of the 108 resources;
+- the sequence of study;
+- the editorial priority of individual works.
+
+Those decisions are governed by the Editorial Methodology and the Decision Ledger.
+
+---
+
+# Editorial Principles
+
+The taxonomy has been designed to:
+
+- represent the complete knowledge traditions of Sanātana Dharma;
+- minimize overlap between sections;
+- preserve historical and philosophical coherence;
+- remain neutral across Sampradāyas;
+- support long-term expansion through the Extended Canon and Research Archive;
+- align with the Constitution and Editorial Methodology.
+
+---
+
+# Core Canon Structure
+
+## Section I — Śruti
+
+The foundational revealed scriptures of Sanātana Dharma.
+
+### Categories
 
 - Vedas
 - Principal Upaniṣads
-- Vedāṅgas
+- Vedāṅga Literature
 
-Purpose:
+**Purpose**
 
-To establish revelation, language, ritual, pronunciation, meter, and sacred knowledge.
-
----
-
-# Layer II — Smṛti & Dharma
-
-The practical application of Vedic wisdom.
-
-## Categories
-
-- Itihāsa
-- Purāṇas
-- Dharma & Smṛti
-
-Purpose:
-
-To explain Dharma through history, law, ethics, and sacred narratives.
+To establish revelation, sacred knowledge, language, ritual, and the philosophical foundations of the tradition.
 
 ---
 
-# Layer III — Darśana
+## Section II — Itihāsa & Civilizational Epics
 
-The philosophical foundations of Sanātana Dharma.
+The great narrative traditions that communicate Dharma through history, dialogue, and civilizational memory.
 
-## Categories
+### Categories
 
-- Ṣaḍdarśanas
-- Vedānta Prakaraṇa Texts
+- Mahābhārata
+- Rāmāyaṇa
+- Civilizational Epics
+- Independent Epic Scriptures
 
-Purpose:
+**Purpose**
 
-To explain reality, consciousness, liberation, and the means to knowledge.
-
----
-
-# Layer IV — Yoga & Sādhana
-
-The practical disciplines leading toward realization.
-
-## Categories
-
-- Yoga Scriptures
-- Āgamas & Tantra
-
-Purpose:
-
-To preserve authentic methods of spiritual practice.
+To preserve the narrative foundations of Sanātana Dharma and their enduring cultural influence.
 
 ---
 
-# Layer V — Liturgical Corpus
+## Section III — Purāṇa
 
-The devotional and ritual literature used in daily and temple worship.
+The Purāṇic corpus representing cosmology, theology, sacred history, pilgrimage, and devotional traditions.
 
-## Categories
+### Categories
 
-- Vedic Sūktas
+- Vaiṣṇava Purāṇas
+- Śaiva Purāṇas
+- Śākta Purāṇas
+- Multi-tradition Purāṇas
+
+**Purpose**
+
+To preserve the principal Purāṇic traditions through representative texts.
+
+---
+
+## Section IV — Dharma & Vedānta
+
+The intellectual and philosophical corpus of Sanātana Dharma.
+
+### Categories
+
+- Dharma Literature
+- Ṣaḍ-Darśanas
+- Vedānta
+- Yoga & Spiritual Realization
+- Civilization & Statecraft
+
+**Purpose**
+
+To represent the philosophical, ethical, legal, educational, and contemplative traditions that interpret and apply Vedic knowledge.
+
+---
+
+## Section V — Tantra & Āgama
+
+The scriptural traditions governing temple worship, ritual systems, mantra, yantra, and advanced sādhana.
+
+### Categories
+
+- Śaiva Āgamas
+- Vaiṣṇava Āgamas
+- Śākta Tantras
+- General Tantric Literature
+
+**Purpose**
+
+To preserve the authentic Tantric and Āgamic traditions as an independent stream of Sanātana Dharma.
+
+---
+
+## Section VI — Yoga
+
+The principal textual traditions of Yoga and spiritual discipline.
+
+### Categories
+
+- Classical Yoga
+- Haṭha Yoga
+- Advanced Yogic Literature
+
+**Purpose**
+
+To preserve the major textual traditions of Yoga as systematic paths to spiritual realization.
+
+---
+
+## Section VII — Bhakti
+
+The devotional literature that has shaped the living practice of Sanātana Dharma.
+
+### Categories
+
+- Vaiṣṇava Bhakti
+- Śaiva Bhakti
+- Śākta Bhakti
+- Universal Devotional Literature
+
+**Purpose**
+
+To represent the major devotional traditions independently of philosophical literature.
+
+---
+
+## Section VIII — Stotra, Sahasranāma & Kavaca
+
+The liturgical corpus used in personal devotion and temple worship.
+
+### Categories
+
 - Stotras
 - Sahasranāmas
-- Kavachas
-- Daily Pāṭha
+- Kavacas
+- Daily Liturgical Texts
 
-Purpose:
+**Purpose**
 
-To support living devotional practice.
+To preserve the essential devotional and protective recitation traditions.
 
 ---
 
-# Layer VI — Mantra Corpus
+## Section IX — Mantra & Sūkta
 
-The foundational mantra traditions.
+The foundational corpus of sacred recitation.
 
-## Categories
+### Categories
 
+- Vedic Sūktas
 - Mahāmantras
-- Vedic Mantras
-- Gāyatrīs
-- Navagraha Mantras
+- Gāyatrī Mantras
 - Bīja & Mūla Mantras
+- Navagraha and Traditional Mantras
 
-Purpose:
+**Purpose**
 
-To preserve the essential mantra corpus of Sanātana Dharma.
-
----
-
-# Layer VII — Living Traditions
-
-The principal streams through which Sanātana Dharma continues to flourish.
-
-## Categories
-
-- Smārta
-- Vaiṣṇava
-- Śaiva
-- Śākta
-- Yoga
-
-Purpose:
-
-To provide traditional context for resources contained within the Canon.
+To preserve the principal mantra traditions of Sanātana Dharma.
 
 ---
 
-# Editorial Notes
+# Editorial Representation Model
 
-The taxonomy defines categories only.
+Where appropriate, each knowledge tradition should be represented through:
 
-It does **not** determine:
+- Foundational Text
+- Classical Commentary
+- Advanced Literature
 
-- category size
-- importance
-- sequence of study
-- allocation of the 108 resources
-
-These decisions will be finalized separately.
+This model guides editorial evaluation but does not require every Core Canon entry to include all three components.
 
 ---
 
-# Next Phase
+# Canon Architecture
 
-Phase 2
+The repository maintains three editorial layers.
 
-Allocate exactly 108 positions across the taxonomy.
+## Layer I — Core Canon
 
-Only after the allocation has been approved will individual resources be selected.
+The 108 essential resources required for a comprehensive understanding of Sanātana Dharma.
 
----
+## Layer II — Extended Canon
 
-# Design Principles
+Works that substantially deepen individual traditions and subjects.
 
-The taxonomy has been designed to satisfy the following objectives:
+## Layer III — Research Archive
 
-- Complete coverage of Sanātana Dharma
-- Minimal overlap between categories
-- Long-term scalability
-- Compatibility with the Obsidian knowledge graph
-- Alignment with the Constitution
-- Evidence-first organization
+Historical, regional, manuscript, comparative, and specialized literature preserved for research.
 
 ---
 
-# Status
+# Editorial Classification
 
-Current Version
+Candidate resources shall be evaluated using the following editorial classifications.
 
-Draft v1.0
+| Classification | Purpose |
+|---------------|---------|
+| Core | Essential for the Core Canon. |
+| Major | Highly significant but not indispensable for the Core Canon. |
+| Supplementary | Valuable for deeper study within a tradition. |
+| Reference | Useful for historical, comparative, or specialized research. |
 
-Status
+These classifications support editorial evaluation and do not themselves determine canonical status.
 
-Approved for allocation planning.
+---
 
-Next Revision
+# Revision History
 
-Following completion of the 108-slot allocation exercise.
+| Version | Date | Summary |
+|---------|------|---------|
+| 1.0 | 2026-07-19 | Initial taxonomy based on layered editorial model. |
+| 2.0 | 2026-07-23 | Reorganized into the nine permanent Core Canon sections. Added Canon Architecture, Editorial Representation Model, Editorial Classification Framework, document metadata, and governance alignment with Decisions DL-012, DL-019, DL-021, DL-022, DL-023, and DL-024. |

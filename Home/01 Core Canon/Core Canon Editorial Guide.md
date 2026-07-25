@@ -2,7 +2,21 @@
 
 Version: 1.0
 
-Status: Active
+Status: Approved
+
+Created: 2026-07-19
+
+Last Updated: 2026-07-23
+
+Owner: Sanātana Dharma Dharohar Project
+
+Related Documents:
+- Constitution.md
+- Decision Ledger.md
+- Project Status.md
+- Core Canon Methodology.md
+- Core Canon Taxonomy.md
+- Research & Citation Policy.md
 
 ---
 
@@ -10,7 +24,7 @@ Status: Active
 
 This guide establishes the editorial standards used throughout the **Sanātana Dharma Dharohar** repository.
 
-Its objective is to ensure that every entry is:
+Its objective is to ensure that every repository entry is:
 
 - accurate
 - consistent
@@ -18,7 +32,7 @@ Its objective is to ensure that every entry is:
 - respectful of traditional understanding
 - accessible to modern readers
 
-This guide supplements the Constitution and Core Canon Methodology.
+This guide supplements the Constitution, Core Canon Methodology, and Core Canon Taxonomy.
 
 ---
 
@@ -32,13 +46,13 @@ The repository shall:
 
 The role of the editor is neither apologetic nor revisionist.
 
-The editor documents the tradition faithfully while distinguishing:
+The editor faithfully documents the tradition while clearly distinguishing between:
 
-- scripture
-- tradition
-- commentary
-- historical development
-- academic scholarship
+- Scripture
+- Tradition
+- Commentary
+- Historical Development
+- Academic Scholarship
 
 ---
 
@@ -58,6 +72,7 @@ Avoid:
 - sectarian claims
 - unsupported historical assertions
 - sensationalism
+- speculative conclusions presented as established fact
 
 ---
 
@@ -71,23 +86,21 @@ Example
 
 ✔
 
-"The Bhagavad Gītā is one of the most influential scriptures of Hindu philosophy."
+> "The Bhagavad Gītā is one of the most influential scriptures of Hindu philosophy."
 
 ✘
 
-"The Bhagavad Gītā is the greatest book ever written."
+> "The Bhagavad Gītā is the greatest book ever written."
 
 ---
 
 # Sanskrit Style Guide
 
-Whenever Sanskrit terminology first appears, include:
+When Sanskrit terminology first appears, include:
 
-English
-
-Devanāgarī
-
-IAST
+- English Transliteration
+- Devanāgarī
+- IAST
 
 Example
 
@@ -95,35 +108,31 @@ Example
 
 **Ātman (आत्मन् • Ātman)**
 
-Subsequent references may use the English transliteration alone.
+Subsequent references may use the transliterated form alone.
 
 ---
 
 # Transliteration Standard
 
-IAST shall be the repository standard.
+The repository standard is **IAST**.
 
 Examples
 
-Śiva
-
-Viṣṇu
-
-Śruti
-
-Smṛti
-
-Vedānta
-
-Ātman
-
-Brahman
+- Śiva
+- Viṣṇu
+- Śruti
+- Smṛti
+- Vedānta
+- Ātman
+- Brahman
 
 ---
 
 # Capitalization
 
-Capitalize:
+Capitalize proper names and established textual traditions.
+
+Examples
 
 - Veda
 - Upaniṣad
@@ -135,21 +144,21 @@ Capitalize:
 - Dharma
 - Yoga (when referring to the Darśana)
 
-Do not capitalize generic words unless part of a formal title.
+Do not capitalize generic descriptive words unless part of an official title.
 
 ---
 
 # Naming Convention
 
-Primary title:
+Primary Title
 
-English transliteration
+English transliteration.
 
 Example
 
-Bhagavad Gītā
+**Bhagavad Gītā**
 
-Secondary references:
+Secondary references
 
 Native script where appropriate.
 
@@ -157,7 +166,7 @@ Native script where appropriate.
 
 # Metadata Standard
 
-Each major work should include:
+Every major work should include:
 
 - Title
 - Sanskrit Name
@@ -170,7 +179,9 @@ Each major work should include:
 - Language
 - Canon Status
 - Editorial Classification
-- Parent Work (if applicable)
+- Parent Work (where applicable)
+- Related Traditions
+- Related Canon Entries
 
 ---
 
@@ -193,105 +204,31 @@ Possible values
 - Supplementary
 - Reference
 
-These classifications assist editorial review and are independent of Canon Status.
+Editorial Classification supports evaluation and is independent of Canon Status.
 
 ---
 
 # Standard Entry Structure
 
-Every major entry should follow the same structure.
+Every major entry should normally follow this structure.
 
 ## Overview
 
-Brief description.
-
----
-
 ## Historical Context
-
-Origin and development.
-
----
 
 ## Traditional Attribution
 
-Traditional author or lineage.
-
----
-
 ## Structure
-
-Internal organization.
-
----
 
 ## Principal Teachings
 
-Major themes.
-
----
-
 ## Influence
-
-Historical and civilizational significance.
-
----
 
 ## Living Tradition
 
-Current role in study and practice.
-
----
-
 ## Related Works
 
-Cross references.
-
----
-
 ## References
-
-Primary sources.
-
-Secondary scholarship.
-
----
-
-# Embedded Scripture Rule
-
-Embedded scriptures should normally be documented within the parent work.
-
-Independent entries require constitutional justification.
-
-Examples
-
-Independent
-
-Bhagavad Gītā
-
-Represented through Parent
-
-Devī Māhātmya → Mārkaṇḍeya Purāṇa
-
----
-
-# Cross-Linking Standards
-
-Use Obsidian wiki links whenever possible.
-
-Examples
-
-[[Bhagavad Gītā]]
-
-[[Śrīmad Bhāgavata Mahāpurāṇa]]
-
-[[Advaita Vedānta]]
-
----
-
-# Citation Standards
-
-Separate clearly between:
 
 Primary Sources
 
@@ -299,7 +236,51 @@ Traditional Commentaries
 
 Modern Scholarship
 
-Do not mix these categories.
+---
+
+# Embedded Scripture Rule
+
+Embedded scriptures should normally be represented through their parent work.
+
+Independent representation requires constitutional justification.
+
+Example
+
+Independent Entry
+
+- Bhagavad Gītā
+
+Represented through Parent
+
+- Devī Māhātmya → Mārkaṇḍeya Purāṇa
+
+---
+
+# Cross-Linking Standards
+
+Use Obsidian wiki links whenever practical.
+
+Examples
+
+- [[Bhagavad Gītā]]
+- [[Śrīmad Bhāgavata Mahāpurāṇa]]
+- [[Advaita Vedānta]]
+
+Cross-links should improve navigation without becoming excessive.
+
+---
+
+# Citation Standards
+
+Clearly distinguish between:
+
+- Primary Sources
+- Traditional Commentaries
+- Modern Scholarship
+
+Do not mix these categories within citations.
+
+Refer to **Research & Citation Policy.md** for detailed citation standards.
 
 ---
 
@@ -307,18 +288,19 @@ Do not mix these categories.
 
 Images should support understanding rather than decoration.
 
-Preferred:
+Preferred
 
-- manuscript folios
-- temple iconography
-- traditional illustrations
-- historical maps
-- lineage diagrams
+- Manuscript folios
+- Temple iconography
+- Traditional illustrations
+- Historical maps
+- Lineage diagrams
 
-Avoid:
+Avoid
 
 - AI-generated sacred imagery presented as historical evidence
-- decorative images without educational value
+- Decorative images without educational value
+- Copyrighted material without appropriate permission
 
 ---
 
@@ -326,23 +308,17 @@ Avoid:
 
 Preferred wording
 
-"Traditionally regarded as..."
-
-"According to..."
-
-"The text teaches..."
-
-"Many scholars date..."
+- "Traditionally regarded as..."
+- "According to..."
+- "The text teaches..."
+- "Many scholars date..."
 
 Avoid
 
-"Proves..."
-
-"Undoubtedly..."
-
-"Everyone agrees..."
-
-"It is scientifically proven..."
+- "Proves..."
+- "Undoubtedly..."
+- "Everyone agrees..."
+- "It is scientifically proven..."
 
 unless supported by reliable evidence.
 
@@ -350,17 +326,17 @@ unless supported by reliable evidence.
 
 # Quotation Policy
 
-Use primary sources wherever possible.
+Prefer quotations from primary sources.
 
-Long quotations should be avoided unless necessary.
+Long quotations should be used sparingly.
 
-Summaries should preserve the author's original intent.
+Summaries should preserve the author's original meaning without introducing editorial bias.
 
 ---
 
 # Consistency Rules
 
-Every section should maintain consistent:
+Every repository entry should maintain consistent:
 
 - terminology
 - formatting
@@ -368,6 +344,7 @@ Every section should maintain consistent:
 - citation style
 - transliteration
 - heading hierarchy
+- internal linking
 
 ---
 
@@ -381,9 +358,9 @@ Artificial Intelligence may assist with:
 - proofreading
 - metadata generation
 
-AI shall never be treated as an authoritative source.
+AI is an editorial assistant—not an authoritative source.
 
-All factual content must ultimately be verified against reliable primary or secondary sources.
+All factual information must ultimately be verified against reliable primary or secondary sources.
 
 ---
 
@@ -391,27 +368,19 @@ All factual content must ultimately be verified against reliable primary or seco
 
 Before approving any entry, confirm:
 
-☐ Constitution followed
-
-☐ Methodology applied
-
-☐ Neutral language maintained
-
-☐ Metadata complete
-
-☐ Sanskrit formatting correct
-
-☐ Cross-links added
-
-☐ Sources verified
-
-☐ Parent work identified (if embedded)
-
-☐ Canon status assigned
-
-☐ Editorial classification assigned
-
-☐ Ready for publication
+- ☐ Constitution followed
+- ☐ Decision Ledger reviewed (if applicable)
+- ☐ Methodology applied
+- ☐ Taxonomy followed
+- ☐ Neutral language maintained
+- ☐ Metadata complete
+- ☐ Sanskrit formatting correct
+- ☐ Cross-links added
+- ☐ Sources verified
+- ☐ Parent work identified (if embedded)
+- ☐ Canon Status assigned
+- ☐ Editorial Classification assigned
+- ☐ Ready for publication
 
 ---
 
@@ -422,3 +391,11 @@ Before approving any entry, confirm:
 > Present Evidence.
 >
 > Enable Practice.
+
+---
+
+# Revision History
+
+| Version | Date | Summary |
+|---------|------|---------|
+| 1.0 | 2026-07-23 | Standardized governance metadata, aligned with the Constitution, Decision Ledger, Core Canon Methodology, and Core Canon Taxonomy. Expanded metadata standards, citation guidance, editorial consistency rules, and review checklist. |
