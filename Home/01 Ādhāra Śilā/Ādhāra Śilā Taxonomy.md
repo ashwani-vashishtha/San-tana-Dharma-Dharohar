@@ -1,36 +1,36 @@
-# Core Canon Taxonomy
+# Ādhāra Śilā Taxonomy
 
-Version: 2.0
+Version: 2.1
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-26
 
 Owner: Sanātana Dharma Dharohar Project
 
 Related Documents:
 - Constitution.md
 - Decision Ledger.md
-- Core Canon Methodology.md
-- Core Canon Editorial Guide.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Editorial Guide.md
 - Master Candidate List.md
-- Core Canon 108.md
+- Ādhāra Śilā 108.md
 
 ---
 
 # Purpose
 
-This document defines the permanent editorial taxonomy of the **Core Canon of 108 Essential Sādhana Resources**.
+This document defines the permanent editorial taxonomy of the **Ādhāra Śilā (आधार शिला)** — the **108 Foundational Sources of Sanātana Dharma**.
 
-The taxonomy establishes the structural framework used to organize the Core Canon. It defines **sections and categories only**. It does **not** determine:
+The taxonomy establishes the structural framework used to organize the Ādhāra Śilā. It defines **sections and categories only**. It does **not** determine:
 
-- the final allocation of the 108 resources;
+- the final allocation of the 108 foundational sources;
 - the sequence of study;
 - the editorial priority of individual works.
 
-Those decisions are governed by the Editorial Methodology and the Decision Ledger.
+Those decisions are governed by the Ādhāra Śilā Methodology and the Decision Ledger.
 
 ---
 
@@ -42,12 +42,12 @@ The taxonomy has been designed to:
 - minimize overlap between sections;
 - preserve historical and philosophical coherence;
 - remain neutral across Sampradāyas;
-- support long-term expansion through the Extended Canon and Research Archive;
-- align with the Constitution and Editorial Methodology.
+- support long-term expansion through the Extended Sources and Research Archive;
+- align with the Constitution and the Ādhāra Śilā Methodology.
 
 ---
 
-# Core Canon Structure
+# Ādhāra Śilā Structure
 
 ## Section I — Śruti
 
@@ -99,9 +99,9 @@ To preserve the principal Purāṇic traditions through representative texts.
 
 ---
 
-## Section IV — Dharma & Vedānta
+## Section IV — Dharma, Darśana & Vedānta
 
-The intellectual and philosophical corpus of Sanātana Dharma.
+The intellectual, philosophical, ethical, and contemplative traditions of Sanātana Dharma.
 
 ### Categories
 
@@ -210,19 +210,19 @@ Where appropriate, each knowledge tradition should be represented through:
 - Classical Commentary
 - Advanced Literature
 
-This model guides editorial evaluation but does not require every Core Canon entry to include all three components.
+This model guides editorial evaluation but does not require every Ādhāra Śilā entry to include all three components.
 
 ---
 
-# Canon Architecture
+# Ādhāra Śilā Architecture
 
 The repository maintains three editorial layers.
 
-## Layer I — Core Canon
+## Layer I — Ādhāra Śilā (Foundational Sources)
 
-The 108 essential resources required for a comprehensive understanding of Sanātana Dharma.
+The 108 foundational sources required for a comprehensive understanding of Sanātana Dharma.
 
-## Layer II — Extended Canon
+## Layer II — Extended Sources
 
 Works that substantially deepen individual traditions and subjects.
 
@@ -238,12 +238,12 @@ Candidate resources shall be evaluated using the following editorial classificat
 
 | Classification | Purpose |
 |---------------|---------|
-| Core | Essential for the Core Canon. |
-| Major | Highly significant but not indispensable for the Core Canon. |
+| Core | Essential for the Ādhāra Śilā. |
+| Major | Highly significant but not indispensable for the Ādhāra Śilā. |
 | Supplementary | Valuable for deeper study within a tradition. |
 | Reference | Useful for historical, comparative, or specialized research. |
 
-These classifications support editorial evaluation and do not themselves determine canonical status.
+These classifications support editorial evaluation and do not themselves determine foundational status.
 
 ---
 
@@ -253,3 +253,4 @@ These classifications support editorial evaluation and do not themselves determi
 |---------|------|---------|
 | 1.0 | 2026-07-19 | Initial taxonomy based on layered editorial model. |
 | 2.0 | 2026-07-23 | Reorganized into the nine permanent Core Canon sections. Added Canon Architecture, Editorial Representation Model, Editorial Classification Framework, document metadata, and governance alignment with Decisions DL-012, DL-019, DL-021, DL-022, DL-023, and DL-024. |
+| 2.1 | 2026-07-26 | Renamed the repository's foundational knowledge layer to **Ādhāra Śilā (आधार शिला)**. Synchronized terminology with the Constitution and Decision Ledger, updated governance references, refined Section IV title to reflect its full scope, and aligned the taxonomy with the revised repository architecture. |

@@ -1,12 +1,12 @@
 # Master Candidate List
 
-Version: 1.0
+Version: 1.1
 
 Status: Working Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-26
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -14,9 +14,9 @@ Related Documents:
 - Constitution.md
 - Decision Ledger.md
 - Project Status.md
-- Core Canon Methodology.md
-- Core Canon Taxonomy.md
-- Core Canon Editorial Guide.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
+- Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
 
 ---
@@ -25,11 +25,11 @@ Related Documents:
 
 The Master Candidate List serves as the comprehensive editorial inventory of textual works considered for inclusion within the **Sanātana Dharma Dharohar** repository.
 
-It is the primary working catalogue from which the **Core Canon**, **Extended Canon**, and **Research Archive** are curated.
+It is the primary working catalogue from which the **Ādhāra Śilā (Foundational Sources)**, **Extended Sources**, and **Research Archive** are curated.
 
-Inclusion in this list represents editorial consideration only and does **not** imply acceptance into the Core Canon.
+Inclusion in this list represents editorial consideration only and does **not** imply acceptance into the Ādhāra Śilā.
 
-Editorial evaluation is governed by the Constitution, implemented through the Core Canon Methodology, and documented through the Decision Ledger.
+Editorial evaluation is governed by the Constitution, implemented through the Ādhāra Śilā Methodology, and documented through the Decision Ledger.
 
 ---
 
@@ -37,7 +37,7 @@ Editorial evaluation is governed by the Constitution, implemented through the Co
 
 Each work normally progresses through the following editorial process:
 
-**Candidate → Editorial Review → Classification → Canon Decision → Repository Placement**
+**Candidate → Editorial Review → Classification → Repository Layer → Repository Placement**
 
 Candidates may move between editorial classifications as research progresses.
 
@@ -51,21 +51,21 @@ The following classifications indicate the editorial importance of a work **duri
 
 | Status | Meaning |
 |---------|---------|
-| 🟢 Core Candidate | Essential representative of its tradition and a strong candidate for the Core Canon |
+| 🟢 Core Candidate | Essential representative of its tradition and a strong candidate for the Ādhāra Śilā |
 | 🔵 Major Candidate | Highly influential work with broad historical or doctrinal significance |
 | 🟡 Supplementary Candidate | Valuable for deeper study or specialized traditions |
 | ⚪ Reference Candidate | Primarily retained for historical, comparative, or research purposes |
 
 ---
 
-# Repository Classification
+# Repository Layer
 
-Following editorial review, accepted works are assigned one of the following repository classifications.
+Following editorial review, accepted works are assigned one of the following repository layers.
 
-| Classification | Purpose |
-|---------------|---------|
-| Core Canon | Essential works forming the primary corpus of Sanātana Dharma Dharohar |
-| Extended Canon | Important works that deepen and expand the Core Canon |
+| Repository Layer | Purpose |
+|------------------|---------|
+| Ādhāra Śilā (Foundational Sources) | Essential works forming the foundational corpus of Sanātana Dharma Dharohar |
+| Extended Sources | Important works that deepen and expand the Ādhāra Śilā |
 | Research Archive | Works preserved for historical, scholarly, or comparative reference |
 
 ---
@@ -167,7 +167,7 @@ Following editorial review, accepted works are assigned one of the following rep
 
 # IV. Dharma, Darśana & Philosophical Traditions (धर्म, दर्शन एवं दार्शनिक परम्पराएँ)
 
-**Status:** In Progress
+**Status:** Architecture Frozen • Editorial Review Ongoing
 
 ## IV-A. Dharma Literature (धर्म साहित्य)
 
@@ -293,9 +293,7 @@ Following editorial review, accepted works are assigned one of the following rep
 
 # V. Tantra & Āgama
 
-**Status:** Editorial Review Pending
-
-Candidate works will be evaluated according to the Core Canon Methodology and repository governance.
+**Status:** Architecture Frozen • Editorial Review Pending
 
 ---
 
@@ -303,7 +301,7 @@ Candidate works will be evaluated according to the Core Canon Methodology and re
 
 **Status:** Editorial Review Pending
 
-Candidate works will be evaluated according to the Core Canon Methodology and repository governance.
+Candidate works will be evaluated according to the Ādhāra Śilā Methodology and repository governance.
 
 ---
 
@@ -311,7 +309,7 @@ Candidate works will be evaluated according to the Core Canon Methodology and re
 
 **Status:** Editorial Review Pending
 
-Candidate works will be evaluated according to the Core Canon Methodology and repository governance.
+Candidate works will be evaluated according to the Ādhāra Śilā Methodology and repository governance.
 
 ---
 
@@ -319,7 +317,7 @@ Candidate works will be evaluated according to the Core Canon Methodology and re
 
 **Status:** Editorial Review Pending
 
-Candidate works will be evaluated according to the Core Canon Methodology and repository governance.
+Candidate works will be evaluated according to the Ādhāra Śilā Methodology and repository governance.
 
 ---
 
@@ -327,7 +325,7 @@ Candidate works will be evaluated according to the Core Canon Methodology and re
 
 **Status:** Editorial Review Pending
 
-Candidate works will be evaluated according to the Core Canon Methodology and repository governance.
+Candidate works will be evaluated according to the Ādhāra Śilā Methodology and repository governance.
 
 ---
 
@@ -346,3 +344,4 @@ Substantive governance changes should be reflected in the Decision Ledger before
 | Version | Date | Summary |
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Standardized metadata, clarified editorial workflow, synchronized with repository governance, and established the Master Candidate List as the primary editorial inventory for Canon evaluation. |
+| 1.1 | 2026-07-26 | Synchronized with the updated governance framework. Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)** throughout, adopted the new repository layer terminology (**Ādhāra Śilā**, **Extended Sources**, **Research Archive**), updated related document references, and aligned the document with Constitution v1.1, Project Status v0.3, and the revised repository architecture. |

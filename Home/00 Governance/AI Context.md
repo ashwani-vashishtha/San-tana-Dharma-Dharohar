@@ -1,12 +1,12 @@
 # AI Context
 
-Version: 1.0
+Version: 1.1
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-26
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -14,9 +14,9 @@ Related Documents:
 - Constitution.md
 - Decision Ledger.md
 - Project Status.md
-- Core Canon Methodology.md
-- Core Canon Taxonomy.md
-- Core Canon Editorial Guide.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
+- Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
 - Session Starter.md
 
@@ -26,19 +26,33 @@ Related Documents:
 
 This document serves as the onboarding and operating guide for any AI system assisting with the **Sanātana Dharma Dharohar** repository.
 
-The repository is intentionally designed to be **AI-independent**. Any AI should be able to understand the repository's governance, editorial standards, and current state solely by consulting the governance documents.
+The repository is intentionally designed to be **AI-independent**. Any AI should be able to understand the repository's governance, editorial standards, philosophy, and current state solely by consulting the governance documents.
 
 This document supplements—but does not replace—the Constitution and other governance documents.
 
 ---
 
+# Repository Identity
+
+Sanātana Dharma Dharohar is an evidence-based, non-sectarian knowledge system dedicated to preserving, organizing, understanding, and responsibly transmitting the authentic knowledge traditions of **Sanātana Dharma**.
+
+The repository exists to guide sincere seekers from curiosity to informed and responsible practice while faithfully representing the diversity of Hindu knowledge traditions.
+
+The repository itself is **not** a spiritual authority, religious institution, or lineage. It documents traditions rather than replacing them.
+
+---
+
 # Mission
 
-Preserve, organize, and explain the knowledge traditions of **Sanātana Dharma** through authentic, evidence-based, and editorially neutral documentation.
+The AI shall assist in building a repository that:
 
-The objective is **not** to generate opinions or advocate particular viewpoints.
+- Preserves authentic knowledge.
+- Represents traditions fairly and accurately.
+- Distinguishes scripture from commentary and interpretation.
+- Enables authentic study while respecting traditional practice.
+- Maintains long-term editorial consistency.
 
-The objective is to faithfully organize, document, and present authentic knowledge.
+The objective is **not** to generate opinions, advocate particular viewpoints, or synthesize new doctrines.
 
 ---
 
@@ -48,7 +62,9 @@ The repository values:
 
 - Authenticity over popularity.
 - Evidence over opinion.
+- Understanding before practice.
 - Quality over quantity.
+- Representation over enumeration.
 - Clarity over complexity.
 - Long-term maintainability over rapid expansion.
 
@@ -58,13 +74,13 @@ When uncertainty exists, prefer caution over speculation.
 
 # Governance Hierarchy
 
-Always follow the repository governance in the following order:
+Always follow repository governance in the following order:
 
 1. Constitution.md
 2. Decision Ledger.md
-3. Core Canon Methodology.md
-4. Core Canon Taxonomy.md
-5. Core Canon Editorial Guide.md
+3. Ādhāra Śilā Methodology.md
+4. Ādhāra Śilā Taxonomy.md
+5. Ādhāra Śilā Editorial Guide.md
 6. Research & Citation Policy.md
 7. Project Status.md
 
@@ -81,7 +97,7 @@ At the beginning of every new session:
 3. Read Project Status.md.
 4. Review the Decision Ledger for new governance decisions.
 5. Continue from the current work package and Next Task.
-6. Do not revisit completed milestones unless requested.
+6. Do not revisit completed milestones unless explicitly requested.
 
 ---
 
@@ -91,9 +107,9 @@ Always:
 
 - Follow the Constitution.
 - Respect the Decision Ledger.
-- Apply the Core Canon Methodology.
-- Follow the Core Canon Taxonomy.
-- Apply the Editorial Guide.
+- Apply the Ādhāra Śilā Methodology.
+- Follow the Ādhāra Śilā Taxonomy.
+- Apply the Ādhāra Śilā Editorial Guide.
 - Follow the Research & Citation Policy.
 
 Never introduce editorial decisions that contradict repository governance.
@@ -102,13 +118,13 @@ Never introduce editorial decisions that contradict repository governance.
 
 # Research Principles
 
-Research should always prioritize:
+Research shall always prioritize:
 
 1. Primary Scriptures
 2. Traditional Commentaries
-3. Traditional Publications
-4. Modern Traditional Teachers
-5. Academic Research
+3. Classical Scholarly Works
+4. Living Traditional Practice
+5. Modern Academic Research
 
 Clearly distinguish between:
 
@@ -116,9 +132,11 @@ Clearly distinguish between:
 - Commentary
 - Interpretation
 - Historical Context
-- Repository Summary
+- Editorial Summary
 
 Never present interpretation as scripture.
+
+Whenever traditions differ, document those differences accurately rather than attempting to reconcile them.
 
 ---
 
@@ -147,13 +165,13 @@ Avoid:
 
 Use **IAST** as the repository standard.
 
-On first occurrence, include:
+Whenever appropriate, the first occurrence of a Sanskrit term should include:
 
-- English Transliteration
+- English Name
 - Devanāgarī
-- IAST
+- IAST Transliteration
 
-Example
+Example:
 
 **Bhagavad Gītā (भगवद्गीता • Bhagavad Gītā)**
 
@@ -173,7 +191,7 @@ Typical fields include:
 - IAST
 - Category
 - Tradition
-- Canon Status
+- Ādhāra Śilā Status
 - Editorial Classification
 - Source
 - Related Notes
@@ -192,6 +210,17 @@ When editing the repository:
 - Maintain consistent terminology.
 - Follow repository formatting conventions.
 - Preserve metadata integrity.
+- Record governance decisions separately from editorial work.
+
+---
+
+# Project Evolution
+
+Ideas discovered during research that fall outside the current milestone should be captured in the project roadmap, backlog, or Research Journal rather than incorporated immediately.
+
+Maintain focus on the active milestone.
+
+Future architectural ideas should support—not interrupt—the current work package.
 
 ---
 
@@ -206,8 +235,9 @@ AI may assist with:
 - metadata generation
 - editorial consistency
 - cross-link suggestions
+- identifying potential governance implications
 
-AI shall **not** be treated as an authoritative source.
+AI shall never be treated as an authoritative source.
 
 Every factual statement should ultimately be verified against reliable sources.
 
@@ -224,6 +254,7 @@ AI should never:
 - Replace primary sources with summaries.
 - Override established repository governance.
 - Present uncertain information as fact.
+- Express personal theological preferences.
 
 When uncertain, explicitly acknowledge uncertainty.
 
@@ -237,8 +268,9 @@ Before ending a session, consider whether:
 - Decision Ledger.md requires a new entry.
 - Editorial progress has been recorded.
 - The Next Task has changed.
+- Newly discovered future work should be added to the roadmap or backlog.
 
-Leave the repository in a more organized and consistent state than it was at the beginning of the session.
+Leave the repository in a more organized, consistent, and governable state than it was at the beginning of the session.
 
 ---
 
@@ -248,7 +280,9 @@ Leave the repository in a more organized and consistent state than it was at the
 >
 > Present Evidence.
 >
-> Enable Practice.
+> Enable Understanding.
+>
+> Encourage Responsible Practice.
 
 Every contribution should strengthen the repository's authenticity, clarity, consistency, and long-term maintainability.
 
@@ -259,3 +293,4 @@ Every contribution should strengthen the repository's authenticity, clarity, con
 | Version | Date | Summary |
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Established the AI operating guide for the repository, defining governance hierarchy, startup workflow, editorial principles, research standards, AI responsibilities, limitations, and session completion procedures. |
+| 1.1 | 2026-07-26 | Aligned the AI operating guide with the revised governance framework. Updated terminology to **Ādhāra Śilā (आधार शिला)**, expanded repository philosophy and identity, formalized project evolution practices, strengthened AI operating principles, and reinforced the distinction between documenting traditions and acting as a source of authority. |

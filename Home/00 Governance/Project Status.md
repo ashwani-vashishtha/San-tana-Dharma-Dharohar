@@ -1,53 +1,53 @@
 # Project Status
 
-Repository Version: 0.2
+Repository Version: 0.3
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-26
 
 Owner: Sanātana Dharma Dharohar Project
 
 Related Documents:
 - Constitution.md
 - Decision Ledger.md
-- Core Canon Methodology.md
-- Core Canon Taxonomy.md
-- Core Canon Editorial Guide.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
+- Ādhāra Śilā Editorial Guide.md
 - Master Candidate List.md
-- Core Canon 108.md
+- Ādhāra Śilā 108.md
 
 ---
 
 # Current Yātrā
 
-**Yātrā 1 – Jijñāsā**
+**Yātrā 1 – Jijñāsā (जिज्ञासा)**
 
 ---
 
-# Current Saṅkalpa
+# Project Saṅkalpa
 
-Build the **Core Canon of 108 Essential Sādhana Resources**.
+To preserve, organize, and responsibly transmit the authentic knowledge traditions of **Sanātana Dharma** through an evidence-based, non-sectarian repository that guides seekers from curiosity to informed and responsible practice.
 
 ---
 
 # Current Milestone
 
-**Milestone 2 – Core Canon Architecture**
+**Milestone 2 – Ādhāra Śilā Architecture**
 
 ---
 
 # Current Phase
 
-**Editorial Review & Canon Finalization**
+**Editorial Review & Foundational Source Finalization**
 
 ---
 
 # Current Work Package
 
-Review the **Master Candidate List** and finalize the allocation and selection of the 108 Core Canon resources.
+Review the **Master Candidate List** and finalize the allocation and selection of the **108 Ādhāra Śilā (आधार शिला) Foundational Sources**.
 
 ---
 
@@ -55,27 +55,29 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 
 ## Governance
 
-- ✅ Constitution v1.0
+- ✅ Constitution v1.1
 - ✅ Decision Ledger
 - ✅ Repository Structure
 - ✅ Metadata Standard
 - ✅ Research & Citation Policy
 - ✅ Evidence Hierarchy
+- ✅ Project Philosophy & Vision
 
 ## Editorial Framework
 
-- ✅ Core Canon Methodology
-- ✅ Core Canon Taxonomy v2.0
-- ✅ Core Canon Editorial Guide
+- ✅ Ādhāra Śilā Methodology
+- ✅ Ādhāra Śilā Taxonomy
+- ✅ Ādhāra Śilā Editorial Guide
 - ✅ Editorial Classification Framework
-- ✅ Canon Architecture
+- ✅ Foundational Source Architecture
 
-## Canon Development
+## Ādhāra Śilā Development
 
 - ✅ Master Candidate List
-- 🟡 Editorial Review
-- ⏳ Final Core Canon 108
-- ⏳ Canon IDs
+- ✅ Sections I–V Frozen
+- 🟡 Sections VI–IX Under Editorial Review
+- ⏳ Final Ādhāra Śilā 108
+- ⏳ Source IDs
 - ⏳ Sādhana Sheets
 
 ---
@@ -84,22 +86,22 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on evaluating candidate resources and freezing the final **Core Canon of 108 Essential Sādhana Resources**.
+Current effort is focused on evaluating candidate resources and freezing the final **108 Ādhāra Śilā (आधार शिला) Foundational Sources**, which will serve as the permanent foundation of the repository.
 
 ---
 
 # In Progress
 
 - ⏳ Editorial review of candidate resources
-- ⏳ Final allocation across the Core Canon taxonomy
-- ⏳ Selection of the Final Core Canon 108
+- ⏳ Final allocation across the Ādhāra Śilā taxonomy
+- ⏳ Selection of the Final Ādhāra Śilā 108
 
 ---
 
 # Open Decisions
 
-- Final category allocation within the 108-resource limit
-- Core Canon vs Extended Canon boundary
+- Final category allocation within the 108-source limit
+- Ādhāra Śilā vs Extended Sources boundary
 - Minimum inclusion threshold for disputed or regional texts
 - Representation of alternative recensions where multiple authoritative versions exist
 
@@ -109,26 +111,39 @@ Current effort is focused on evaluating candidate resources and freezing the fin
 
 Review the **Master Candidate List** against:
 
-- Editorial Constitution
-- Core Canon Methodology
-- Core Canon Taxonomy
+- Constitution
+- Ādhāra Śilā Methodology
+- Ādhāra Śilā Taxonomy
 - Evidence Hierarchy
 
-Approve or reject every candidate until the Final Core Canon 108 is frozen.
+Approve or reject every candidate until the **Ādhāra Śilā 108** is frozen.
 
 ---
 
 # Next Milestone
 
-## Milestone 3 — Core Canon v1.0
+## Milestone 3 — Ādhāra Śilā v1.0
 
-Deliverables
+### Deliverables
 
-- Final Core Canon 108
-- Stable Canon IDs
-- Canon metadata completed
+- Final Ādhāra Śilā 108
+- Stable Source IDs
+- Complete metadata
 - Cross-references validated
-- Repository freeze for Version 1.0
+- Repository Version 1.0 freeze
+
+---
+
+# Future Roadmap (High Level)
+
+Following the completion of **Ādhāra Śilā v1.0**, future milestones may include:
+
+- Extended Sources
+- Practice & Initiation Intelligence Framework
+- Knowledge Graph
+- Publications & Learning Resources
+
+These items are intentionally deferred and shall not affect the current milestone unless adopted through repository governance.
 
 ---
 
@@ -143,7 +158,7 @@ Deliverables
 | Editorial Guide | ✅ Frozen |
 | Taxonomy | ✅ Frozen |
 | Master Candidate List | 🟡 Under Editorial Review |
-| Core Canon 108 | ⏳ In Development |
+| Ādhāra Śilā 108 | 🟡 Sections I–V Frozen; VI–IX In Progress |
 
 ---
 
@@ -151,9 +166,9 @@ Deliverables
 
 | Date | Summary |
 |------|---------|
-| 2026-07-23 | Updated Core Canon Taxonomy to v2.0 and aligned governance documents. |
-| 2026-07-23 | Refined Editorial Methodology to incorporate Editorial Classification and Canon Architecture. |
-| 2026-07-22 | Completed governance review and synchronized Decision Ledger. |
+| 2026-07-26 | Renamed the repository's foundational knowledge layer to **Ādhāra Śilā (आधार शिला)** and synchronized governance documents. |
+| 2026-07-26 | Refined the project Vision, Mission, and long-term architecture. |
+| 2026-07-26 | Introduced the Project Evolution Principle to capture future ideas while maintaining milestone focus. |
 
 ---
 
@@ -163,3 +178,4 @@ Deliverables
 |---------|------|---------|
 | 0.1 | 2026-07-19 | Repository initialized with governance framework. |
 | 0.2 | 2026-07-23 | Governance review completed. Taxonomy and Methodology synchronized. Project moved to Editorial Review & Canon Finalization. |
+| 0.3 | 2026-07-26 | Repository terminology updated to **Ādhāra Śilā (आधार शिला)**. Project philosophy, roadmap, milestone tracking, and Ādhāra Śilā development progress synchronized with the revised governance framework. |

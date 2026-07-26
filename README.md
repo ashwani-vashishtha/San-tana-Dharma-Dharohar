@@ -1,75 +1,103 @@
 # Sanātana Dharma Dharohar
 
-> **Preserve Tradition. Present Evidence. Enable Practice.**
+> **From Curiosity to Sādhana.**
+>
+> **Preserve Tradition. Present Evidence. Enable Responsible Practice.**
 
-An evidence-first, non-sectarian knowledge repository dedicated to the preservation, understanding, study, and authentic practice of **Sanātana Dharma**.
+**Sanātana Dharma Dharohar** is an evidence-based, non-sectarian knowledge system dedicated to preserving, organizing, understanding, and responsibly transmitting the authentic knowledge traditions of **Sanātana Dharma**.
+
+The repository combines traditional sources, scholarly rigor, and structured knowledge organization to help seekers, students, practitioners, and researchers navigate the vast intellectual and spiritual heritage of Sanātana Dharma.
 
 ---
 
 # Vision
 
-To build the most structured, authentic, and practically useful digital knowledge repository of Sanātana Dharma.
-
-The repository aims to guide a sincere seeker from **Jijñāsā (curiosity)** to advanced **Sādhana (spiritual practice)** through authentic scriptures, traditional commentaries, living traditions, and evidence-based research.
+To create the world's most trustworthy, interconnected, and evidence-based knowledge system for the study and responsible practice of **Sanātana Dharma**, preserving its authentic traditions for present and future generations.
 
 ---
 
 # Mission
 
-To preserve and organize the spiritual heritage of Sanātana Dharma by:
+The project seeks to:
 
-- Building an evidence-based repository rooted in authentic sources.
-- Making traditional knowledge accessible without compromising authenticity.
-- Distinguishing scripture from commentary, interpretation, and opinion.
-- Encouraging sincere study and practice rather than passive information consumption.
+- Build the **Ādhāra Śilā (आधार शिला)** — the Foundational Sources of Sanātana Dharma.
+- Preserve the breadth and diversity of Sanātana Dharma.
+- Maintain editorial neutrality while respecting authentic traditional perspectives.
+- Enable seekers to progress from curiosity to informed and responsible practice.
+- Create a sustainable and expandable repository that serves as the foundation for future publications, learning resources, AI systems, and knowledge applications.
+
+---
+
+# Project Philosophy
+
+The repository is founded on a simple belief:
+
+> **Authentic practice begins with authentic understanding.**
+
+Knowledge should be:
+
+- Authentic before popular.
+- Evidence before opinion.
+- Scripture before interpretation.
+- Understanding before practice.
+- Quality before quantity.
+- Representation before enumeration.
+
+The repository documents traditions faithfully rather than promoting any particular sampradāya, ideology, or modern interpretation.
 
 ---
 
 # Guiding Principles
 
-- **Pramāṇa First** — Scriptural authority before personal opinion.
-- **Evidence over Popularity** — Authenticity takes precedence over modern trends.
-- **Non-sectarian, Tradition-aware** — Respect all authentic sampradāyas while clearly identifying their perspectives.
-- **Scripture before Interpretation** — Present primary sources before secondary explanations.
-- **Sanskrit First** — Preserve original Sanskrit names alongside English equivalents.
-- **Transparency** — Every significant claim should be traceable to authentic sources whenever possible.
-- **Practice-Oriented** — Knowledge should ultimately support genuine sādhana.
+- **Pramāṇa First** — Primary sources take precedence over secondary interpretation.
+- **Evidence over Popularity** — Authenticity outweighs modern trends.
+- **Non-sectarian, Tradition-aware** — Represent authentic traditions fairly while clearly distinguishing their perspectives.
+- **Scripture before Interpretation** — Distinguish scripture, commentary, and editorial synthesis.
+- **Representation over Enumeration** — Preserve knowledge traditions rather than merely listing books.
+- **Transparency** — Significant claims should be traceable to reliable sources whenever possible.
+- **Long-term Stewardship** — Build a repository that remains useful for generations.
 
 ---
 
 # Repository Structure
 
-## 01 Foundations
+## 00 Governance
 
-Vision, Constitution, methodology, editorial standards, project governance, and repository design.
+Constitution, governance, editorial standards, methodology, project status, and repository management.
 
-## 02 Canon
+## 01 Ādhāra Śilā (आधार शिला)
 
-The Core Canon, Extended Canon, and all canonical scriptures and liturgical resources.
+The Foundational Sources of Sanātana Dharma.
 
-## 03 Traditions
+This is the permanent foundation of the repository and represents the essential knowledge traditions required to understand Sanātana Dharma.
 
-Sampradāyas, philosophical schools, lineages, and historical developments.
+## 02 Extended Sources
 
-## 04 Practices
+Important works that substantially deepen understanding beyond the Ādhāra Śilā.
 
-Mantras, stotras, japa, pūjā, yoga, meditation, rituals, festivals, and sādhana.
+## 03 Knowledge Traditions
+
+Sampradāyas, philosophical schools, lineages, historical developments, and intellectual traditions.
+
+## 04 Practice
+
+Mantras, Stotras, Japa, Pūjā, Yoga, Meditation, Rituals, Festivals, Vratas, and other authentic sādhana traditions.
 
 ## 05 Research
 
-Comparative studies, historical research, unresolved questions, and future investigations.
+Comparative studies, historical investigations, manuscript traditions, unresolved questions, and future research.
 
 ## 06 References
 
-Bibliography, editions, manuscripts, translations, dictionaries, and external reference material.
+Bibliography, editions, manuscripts, dictionaries, translations, indexes, and supporting reference material.
 
 ## Assets
 
-Images, diagrams, PDFs, charts, and supporting resources.
+Images, diagrams, PDFs, charts, and other supporting resources.
 
 ## Templates
 
-Standardized templates for notes, metadata, and documentation.
+Standardized templates for repository notes, metadata, and documentation.
 
 ---
 
@@ -77,34 +105,34 @@ Standardized templates for notes, metadata, and documentation.
 
 **Current Yātrā**
 
-**Jijñāsā**
+**Yātrā 1 – Jijñāsā (जिज्ञासा)**
 
 **Current Milestone**
 
-**Milestone 1 — Build the Core Canon of 108 Essential Sādhana Resources**
+**Milestone 2 – Ādhāra Śilā Architecture**
 
 **Current Phase**
 
-**Phase 1 — Taxonomy Design**
+**Editorial Review & Foundational Source Finalization**
 
-For the latest project progress, refer to **PROJECT_STATUS.md**.
+For the latest project progress, refer to **Project Status.md**.
 
 ---
 
 # Editorial Philosophy
 
-This repository is **not** intended to become a collection of popular spiritual content.
+The repository is **not** intended to become a collection of popular spiritual content.
 
 Resources are evaluated according to:
 
-1. Traditional Authority
-2. Scriptural Authenticity
-3. Historical Influence
-4. Living Practice
-5. Cross-Traditional Significance
-6. Evidence-Based Justification
+1. Scriptural Authority
+2. Historical Significance
+3. Philosophical Importance
+4. Living Tradition
+5. Civilizational Impact
+6. Representative Value
 
-Popularity alone is **never** sufficient for inclusion.
+Popularity alone is never sufficient for inclusion.
 
 ---
 
@@ -117,19 +145,23 @@ The repository includes, but is not limited to:
 - Vedāṅgas
 - Itihāsa
 - Purāṇas
-- Smṛti
+- Dharma Literature
 - Darśanas
+- Vedānta Traditions
 - Yoga
-- Āgamas & Tantra (authentic traditions)
+- Āgamas & Tantra
+- Bhakti Literature
 - Mantras
 - Vedic Sūktas
 - Stotras
 - Sahasranāmas
-- Kavachas
+- Kavacas
 - Traditional Commentaries
-- Ritual Practice
-- Spiritual Disciplines
-- Authentic Lineages and Sampradāyas
+- Ritual Traditions
+- Sādhana Practices
+- Saints & Spiritual Masters
+- Authentic Sampradāyas and Lineages
+- Historical and Civilizational Literature
 
 ---
 
@@ -141,38 +173,56 @@ This repository is **not**:
 - A compilation of unverified claims.
 - A sectarian polemic.
 - A repository of modern myths presented as scripture.
-- A replacement for authentic teachers or living traditions.
+- A replacement for authentic teachers, gurus, or living traditions.
+- A substitute for initiation where a tradition requires one.
 
-Its purpose is to document, organize, and present authentic knowledge responsibly.
+Its purpose is to preserve, organize, and present authentic knowledge responsibly.
 
 ---
 
 # How to Use This Repository
 
-If you are new to this repository, begin in the following order:
+If you are new to the project, begin in the following order:
 
 1. Constitution.md
-2. PROJECT_STATUS.md
-3. 01 Foundations
-4. Core Canon
-5. Related notes through Obsidian backlinks
+2. Project Status.md
+3. Decision Ledger.md
+4. 00 Governance
+5. 01 Ādhāra Śilā (आधार शिला)
+6. Follow related notes through Obsidian backlinks.
 
-The repository is designed as a **knowledge graph**, not as a linear book.
+The repository is designed as an interconnected **knowledge graph**, rather than a linear book.
 
 ---
 
 # Repository Versions
 
-**Repository Version:** 0.1
+**Repository Version:** 0.3
 
-**Constitution Version:** 1.0
+**Constitution Version:** 1.1
 
 ---
 
 # Governance
 
-**Constitution.md** is the governing document of this repository.
+The **Constitution.md** is the governing document of this repository.
 
-All editorial decisions—whether made by humans or AI assistants—must remain consistent with the Constitution.
+All editorial decisions—whether made by humans or AI assistants—shall remain consistent with the Constitution and supporting governance documents.
 
-When uncertainty arises, the Constitution takes precedence over every other document in the repository.
+When uncertainty arises, governance takes precedence over editorial preference.
+
+---
+
+# Long-Term Vision
+
+The repository is designed as the permanent knowledge foundation for future initiatives, including:
+
+- AI-assisted learning
+- Publications
+- Educational resources
+- Knowledge graphs
+- Research tools
+- Practice intelligence
+- Digital preservation of Sanātana Dharma
+
+The repository itself remains the single source of truth from which future knowledge systems may be derived.

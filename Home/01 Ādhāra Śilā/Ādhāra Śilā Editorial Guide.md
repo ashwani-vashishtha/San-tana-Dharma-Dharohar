@@ -1,12 +1,12 @@
-# Core Canon Editorial Guide
+# Ādhāra Śilā Editorial Guide
 
-Version: 1.0
+Version: 1.1
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-26
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -14,8 +14,8 @@ Related Documents:
 - Constitution.md
 - Decision Ledger.md
 - Project Status.md
-- Core Canon Methodology.md
-- Core Canon Taxonomy.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
 - Research & Citation Policy.md
 
 ---
@@ -32,27 +32,32 @@ Its objective is to ensure that every repository entry is:
 - respectful of traditional understanding
 - accessible to modern readers
 
-This guide supplements the Constitution, Core Canon Methodology, and Core Canon Taxonomy.
+This guide supplements the Constitution, Ādhāra Śilā Methodology, and Ādhāra Śilā Taxonomy.
 
 ---
 
 # Editorial Philosophy
 
-The repository shall:
+The repository exists to:
 
 - Preserve Tradition.
 - Present Evidence.
 - Enable Practice.
 
+Its purpose is to responsibly preserve, organize, understand, and transmit the knowledge traditions of Sanātana Dharma.
+
 The role of the editor is neither apologetic nor revisionist.
 
-The editor faithfully documents the tradition while clearly distinguishing between:
+Editors faithfully document traditions while clearly distinguishing between:
 
 - Scripture
 - Tradition
 - Commentary
 - Historical Development
 - Academic Scholarship
+- Editorial Summary
+
+The repository documents living traditions; it does not replace them.
 
 ---
 
@@ -96,9 +101,9 @@ Example
 
 # Sanskrit Style Guide
 
-When Sanskrit terminology first appears, include:
+When a Sanskrit term first appears, provide:
 
-- English Transliteration
+- English transliteration
 - Devanāgarī
 - IAST
 
@@ -144,23 +149,23 @@ Examples
 - Dharma
 - Yoga (when referring to the Darśana)
 
-Do not capitalize generic descriptive words unless part of an official title.
+Do not capitalize generic descriptive words unless they form part of an official title.
 
 ---
 
 # Naming Convention
 
-Primary Title
+## Primary Title
 
-English transliteration.
+Use the English transliterated title.
 
 Example
 
 **Bhagavad Gītā**
 
-Secondary references
+## Secondary References
 
-Native script where appropriate.
+Include the original script where appropriate.
 
 ---
 
@@ -177,20 +182,20 @@ Every major work should include:
 - Approximate Date
 - Attribution
 - Language
-- Canon Status
+- Repository Layer
 - Editorial Classification
 - Parent Work (where applicable)
 - Related Traditions
-- Related Canon Entries
+- Related Repository Entries
 
 ---
 
-# Canon Status
+# Repository Layer
 
 Possible values
 
-- Core Canon
-- Extended Canon
+- Ādhāra Śilā (Foundational Sources)
+- Extended Sources
 - Research Archive
 
 ---
@@ -204,7 +209,7 @@ Possible values
 - Supplementary
 - Reference
 
-Editorial Classification supports evaluation and is independent of Canon Status.
+Editorial Classification supports evaluation and is independent of Repository Layer.
 
 ---
 
@@ -230,11 +235,11 @@ Every major entry should normally follow this structure.
 
 ## References
 
-Primary Sources
+### Primary Sources
 
-Traditional Commentaries
+### Traditional Commentaries
 
-Modern Scholarship
+### Modern Scholarship
 
 ---
 
@@ -378,13 +383,17 @@ Before approving any entry, confirm:
 - ☐ Cross-links added
 - ☐ Sources verified
 - ☐ Parent work identified (if embedded)
-- ☐ Canon Status assigned
+- ☐ Repository Layer assigned
 - ☐ Editorial Classification assigned
 - ☐ Ready for publication
 
 ---
 
 # Editorial Motto
+
+> **From Curiosity to Sādhana.**
+
+Supporting Editorial Principles:
 
 > Preserve Tradition.
 >
@@ -399,3 +408,4 @@ Before approving any entry, confirm:
 | Version | Date | Summary |
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Standardized governance metadata, aligned with the Constitution, Decision Ledger, Core Canon Methodology, and Core Canon Taxonomy. Expanded metadata standards, citation guidance, editorial consistency rules, and review checklist. |
+| 1.1 | 2026-07-26 | Synchronized with the updated governance framework. Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)**, updated repository layer terminology, aligned with the revised Constitution, Decision Ledger, AI Context, and Project Status, and incorporated the repository motto and refined editorial philosophy. |
