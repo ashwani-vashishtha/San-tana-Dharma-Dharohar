@@ -1,12 +1,12 @@
 # Contributing
 
-Version: 1.0
+Version: 1.1
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-27
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -15,8 +15,8 @@ Related Documents:
 - Decision Ledger.md
 - Project Status.md
 - AI Context.md
-- Core Canon Methodology.md
-- Core Canon Editorial Guide.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
 
 ---
@@ -39,8 +39,8 @@ Before making changes, review the following documents in order:
 2. Decision Ledger.md
 3. Project Status.md
 4. AI Context.md
-5. Core Canon Methodology.md
-6. Core Canon Editorial Guide.md
+5. Ādhāra Śilā Methodology.md
+6. Ādhāra Śilā Editorial Guide.md
 
 Contributors should ensure that no proposed change contradicts the established governance framework.
 
@@ -55,7 +55,7 @@ Every contribution shall:
 - Prioritize **Pramāṇa (authoritative evidence)** over popularity.
 - Clearly distinguish scripture from commentary, interpretation, or personal opinion.
 - Preserve historical and philosophical neutrality.
-- Maintain consistency with the Core Canon Taxonomy.
+- Maintain consistency with the Ādhāra Śilā Taxonomy.
 - Prefer authentic primary sources whenever available.
 
 ---
@@ -96,7 +96,7 @@ Examples:
 
 - Add Īśāvāsya Upaniṣad overview
 - Expand Śrī Rudram references
-- Update Core Canon Taxonomy
+- Update Ādhāra Śilā Taxonomy
 - Refine Editorial Methodology
 - Add Sādhana Sheet template
 - Correct Sanskrit transliteration
@@ -136,3 +136,4 @@ Every contribution should move the repository closer to becoming a trusted refer
 | Version | Date | Summary |
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Standardized contributor guidelines with governance metadata, editorial standards, evidence requirements, contribution workflow, pull request checklist, and repository philosophy. |
+| 1.1 | 2026-07-27 | Synchronized terminology from Core Canon to **Ādhāra Śilā (आधार शिला)** and updated related document references. |

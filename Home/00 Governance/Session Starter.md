@@ -1,20 +1,20 @@
 # Project Status
 
-Version: 1.0
+Version: 1.1
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-23
+Last Updated: 2026-07-27
 
 Owner: Sanātana Dharma Dharohar Project
 
 Related Documents:
 - Constitution.md
 - Decision Ledger.md
-- Core Canon Methodology.md
-- Core Canon Taxonomy.md
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
 - AI Context.md
 
 ---
@@ -44,19 +44,19 @@ This document should be reviewed at the beginning of every working session and u
 **Yātrā 1 – Jijñāsā**
 
 **Objective:**
-Establish the editorial and governance foundations of the repository while developing the Core Canon of essential Sādhana resources.
+Establish the editorial and governance foundations of the repository while developing the **Ādhāra Śilā (आधार शिला)** of essential foundational sources.
 
 ---
 
 # Current Saṅkalpa
 
-Build the **Core Canon of 108 Essential Sādhana Resources**, representing the principal knowledge traditions of Sanātana Dharma through an authentic, evidence-based, and editorially neutral framework.
+Build the **108 Ādhāra Śilā (आधार शिला) Foundational Sources**, representing the principal knowledge traditions of Sanātana Dharma through an authentic, evidence-based, and editorially neutral framework.
 
 ---
 
 # Current Milestone
 
-**Milestone 2 – Core Canon Development**
+**Milestone 2 – Ādhāra Śilā Development**
 
 ---
 
@@ -68,7 +68,7 @@ Build the **Core Canon of 108 Essential Sādhana Resources**, representing the p
 
 # Current Work Package
 
-**Core Canon Editorial Curation**
+**Ādhāra Śilā Editorial Curation**
 
 ---
 
@@ -83,9 +83,9 @@ Completed:
 - Constitution
 - Decision Ledger
 - Project Status
-- Core Canon Methodology
-- Core Canon Taxonomy
-- Core Canon Editorial Guide
+- Ādhāra Śilā Methodology
+- Ādhāra Śilā Taxonomy
+- Ādhāra Śilā Editorial Guide
 - Research & Citation Policy
 - Contributing Guide
 - Session Starter
@@ -108,7 +108,7 @@ Completed:
 
 ---
 
-## Core Canon Development
+## Ādhāra Śilā Development
 
 **Status:** 🟡 In Progress
 
@@ -134,7 +134,7 @@ Pending:
 
 # Current Focus
 
-Continue evaluating and curating candidate works for **Section IV – Dharma, Darśana & Philosophical Traditions**, in accordance with the Constitution, Core Canon Methodology, and Decision Ledger.
+Continue evaluating and curating candidate works for **Section IV – Dharma, Darśana & Philosophical Traditions**, in accordance with the Constitution, Ādhāra Śilā Methodology, and Decision Ledger.
 
 ---
 
@@ -161,7 +161,7 @@ Continue the editorial evaluation and refinement of **Section IV – Dharma, Dar
 | Editorial Standards | ✅ Stable |
 | Metadata Standards | ✅ Stable |
 | Research Standards | ✅ Stable |
-| Core Canon Development | 🟡 In Progress |
+| Ādhāra Śilā Development | 🟡 In Progress |
 
 ---
 
@@ -184,9 +184,9 @@ Within the repository, governance follows this hierarchy:
 
 1. Constitution.md
 2. Decision Ledger.md
-3. Core Canon Methodology.md
-4. Core Canon Taxonomy.md
-5. Core Canon Editorial Guide.md
+3. Ādhāra Śilā Methodology.md
+4. Ādhāra Śilā Taxonomy.md
+5. Ādhāra Śilā Editorial Guide.md
 6. Research & Citation Policy.md
 7. Project Status.md
 
@@ -197,3 +197,4 @@ Within the repository, governance follows this hierarchy:
 | Version | Date | Summary |
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Established the operational dashboard for the repository, standardized metadata, synchronized governance references, and documented current progress, milestones, and editorial priorities. |
+| 1.1 | 2026-07-27 | Synchronized terminology from Core Canon to **Ādhāra Śilā (आधार शिला)** and updated related document references. |
