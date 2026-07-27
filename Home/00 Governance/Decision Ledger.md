@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 1.3
+Version: 1.4
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-27
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -89,6 +89,9 @@ The following decision states are used throughout this ledger.
 | DL-029 | Sanskrit Editorial Standard | Frozen |
 | DL-030 | Section V Structure Frozen | Frozen |
 | DL-031 | Classification by Primary Contribution | Frozen |
+| DL-032 | Three-Layer Knowledge Architecture | Accepted |
+| DL-033 | Master Candidate Inclusion Principle | Accepted |
+| DL-034 | Scope of Jīvanta Paramparā | Accepted |
 
 ---
 
@@ -107,6 +110,69 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-034 — Scope of Jīvanta Paramparā
+
+**Status:** Accepted
+
+**Date:** 2026-07-27
+
+### Decision
+
+Jīvanta Paramparā may contain curated practice collections including, but not limited to:
+
+- Nitya Pūjā
+- Sandhyāvandana
+- Havan
+- Prayoga
+- Saṁskāras
+- Śānti Mantras
+- Temple Liturgies
+- Daily Recitation Collections
+
+These collections are intentionally different from the textual works that comprise Ādhāra Śilā.
+
+---
+
+## DL-033 — Master Candidate Inclusion Principle
+
+**Status:** Accepted
+
+**Date:** 2026-07-27
+
+### Decision
+
+Every Master Candidate entry must represent a distinct identifiable textual work.
+
+The following shall not be included as independent candidates:
+
+- Literary genres
+- Ritual categories
+- Thematic collections
+
+These belong within Jīvanta Paramparā.
+
+---
+
+## DL-032 — Three-Layer Knowledge Architecture
+
+**Status:** Accepted
+
+**Date:** 2026-07-27
+
+### Decision
+
+The repository shall use a three-layer editorial architecture.
+
+1. Ādhāra Śilā
+2. Jīvanta Paramparā
+3. Dharma Sāgara
+
+### Rationale
+
+Separate foundational scripture from living practice while allowing unlimited future expansion.
 
 ---
 
@@ -141,3 +207,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.1 | 2026-07-26 | Synchronized with the revised governance framework and introduced decisions DL-026 through DL-029. |
 | 1.2 | 2026-07-26 | Added DL-030 freezing the editorial structure of Section V – Tantra & Āgama and synchronized Section IV terminology with the Ādhāra Śilā framework. |
 | 1.3 | 2026-07-26 | Added DL-031 establishing the Principle of Classification by Primary Contribution and finalized it as a permanent editorial governance rule. |
+| 1.4 | 2026-07-27 | Added DL-032 through DL-034 establishing the three-layer knowledge architecture, Master Candidate inclusion principle, and scope of Jīvanta Paramparā. |

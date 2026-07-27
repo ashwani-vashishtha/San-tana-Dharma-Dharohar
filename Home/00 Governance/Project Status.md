@@ -1,12 +1,12 @@
 # Project Status
 
-Repository Version: 0.3
+Repository Version: 0.4
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-27
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -74,11 +74,68 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 ## Ādhāra Śilā Development
 
 - ✅ Master Candidate List
-- ✅ Sections I–V Frozen
-- 🟡 Sections VI–IX Under Editorial Review
+- ✅ Sections I–VII Frozen
+- 🟡 Section VIII Under Editorial Review
 - ⏳ Final Ādhāra Śilā 108
 - ⏳ Source IDs
 - ⏳ Sādhana Sheets
+
+---
+
+# Repository Knowledge Architecture
+
+The repository is now organized into three editorial layers.
+
+## Ādhāra Śilā
+
+### Purpose
+
+The curated foundational canon of Sanātana Dharma Dharohar.
+
+### Characteristics
+
+- Stable foundational canon
+- Individual textual works only
+- Intended for lifelong study
+- Represents the project's highest editorial standard
+
+## Jīvanta Paramparā
+
+### Purpose
+
+The Living Practice Collection representing how Sanātana Dharma is actively practiced.
+
+### Characteristics
+
+- Practice-oriented
+- Curated collections permitted
+- Daily worship
+- Mantras
+- Homa
+- Prayoga
+- Saṁskāras
+- Temple liturgy
+- Ritual collections
+
+Unlike Ādhāra Śilā, this layer may contain curated thematic collections rather than only individual textual works.
+
+## Dharma Sāgara
+
+### Purpose
+
+The complete curated knowledge repository.
+
+### Characteristics
+
+- Unlimited growth
+- Preservation layer
+- Regional literature
+- Commentaries
+- Specialized traditions
+- Research material
+- Advanced resources
+
+This layer preserves the richness of Sanātana Dharma without imposing canonical limits.
 
 ---
 
@@ -158,7 +215,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Editorial Guide | ✅ Frozen |
 | Taxonomy | ✅ Frozen |
 | Master Candidate List | 🟡 Under Editorial Review |
-| Ādhāra Śilā 108 | 🟡 Sections I–V Frozen; VI–IX In Progress |
+| Ādhāra Śilā 108 | 🟡 Sections I–VII Frozen; Section VIII In Progress |
 
 ---
 
@@ -169,6 +226,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-07-26 | Renamed the repository's foundational knowledge layer to **Ādhāra Śilā (आधार शिला)** and synchronized governance documents. |
 | 2026-07-26 | Refined the project Vision, Mission, and long-term architecture. |
 | 2026-07-26 | Introduced the Project Evolution Principle to capture future ideas while maintaining milestone focus. |
+| 2026-07-27 | Established the three-layer knowledge architecture: **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
 
 ---
 
@@ -179,3 +237,4 @@ These items are intentionally deferred and shall not affect the current mileston
 | 0.1 | 2026-07-19 | Repository initialized with governance framework. |
 | 0.2 | 2026-07-23 | Governance review completed. Taxonomy and Methodology synchronized. Project moved to Editorial Review & Canon Finalization. |
 | 0.3 | 2026-07-26 | Repository terminology updated to **Ādhāra Śilā (आधार शिला)**. Project philosophy, roadmap, milestone tracking, and Ādhāra Śilā development progress synchronized with the revised governance framework. |
+| 0.4 | 2026-07-27 | Added the three-layer repository knowledge architecture distinguishing **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |

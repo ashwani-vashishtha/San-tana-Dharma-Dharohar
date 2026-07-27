@@ -1,12 +1,12 @@
 # Master Candidate List
 
-Version: 1.2
+Version: 1.3
 
 Status: Active Editorial Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-27
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -64,9 +64,9 @@ Following editorial review, accepted works are assigned one of the following rep
 
 | Repository Layer | Purpose |
 |------------------|---------|
-| Ādhāra Śilā (Foundational Sources) | Essential works forming the foundational corpus of Sanātana Dharma Dharohar |
-| Extended Sources | Important works that deepen and expand the Ādhāra Śilā |
-| Research Archive | Works preserved for historical, scholarly, or comparative reference |
+| Ādhāra Śilā | Essential individual textual works forming the foundational canon of Sanātana Dharma Dharohar |
+| Jīvanta Paramparā | Curated living-practice collections representing active practice, liturgy, and ritual use |
+| Dharma Sāgara | Complete curated knowledge repository preserving expanded, regional, specialized, and research material |
 
 ---
 
@@ -342,49 +342,132 @@ These works represent the culmination of spiritual inquiry within Sanātana Dhar
 
 The Yoga section contains the foundational Yoga Śāstras that have shaped the theory and practice of Yoga within the Sanātana tradition.
 
-| ID | Work | Category | Status |
-|----|------|----------|--------|
-| VI-01 | Yoga Sūtras of Patañjali | Classical Yoga | 🟢 |
-| VI-02 | Haṭha Yoga Pradīpikā | Haṭha Yoga | 🟢 |
-| VI-03 | Gheraṇḍa Saṁhitā | Haṭha Yoga | 🟢 |
-| VI-04 | Śiva Saṁhitā | Haṭha Yoga | 🟢 |
+## VI-A. Classical Yoga
+
+| Work | Status |
+|------|--------|
+| Yoga Sūtras of Patañjali | 🟢 |
+
+---
+
+## VI-B. Haṭha Yoga
+
+| Work | Status |
+|------|--------|
+| Haṭha Yoga Pradīpikā | 🟢 |
+| Gheraṇḍa Saṁhitā | 🟢 |
+| Śiva Saṁhitā | 🟢 |
 
 ### Editorial Notes
 
 - The section includes foundational Yoga Śāstras only.
 - Works are classified according to their **primary contribution**, not merely their titles.
-- **Yoga Vāsiṣṭha** has been reclassified under **IV-D. Mokṣa Śāstra** because its primary contribution is the direct teaching of Self-knowledge and Liberation rather than Yoga as a systematic discipline.
 - Classical commentaries and lineage-specific Yoga texts are documented elsewhere in the repository.
+
+### Editorial Exclusions
+
+- Bhagavad Gītā → Itihāsa
+- Yoga Vāsiṣṭha → Mokṣa Śāstra
+- Tantric Yoga texts → Tantra
+- Upaniṣadic Yoga discussions → Śruti
 
 ---
 
-# VII. Bhakti (भक्ति)
+# VII. Bhakti Literature
 
-**Status:** Editorial Review Pending
+**Status:** ✅ Frozen
 
 The Bhakti section will represent the principal devotional literature of Sanātana Dharma, encompassing works that have shaped the theology, philosophy, and practice of devotion across major traditions.
 
 Candidate works will be evaluated according to the Ādhāra Śilā Methodology, the Principle of Classification by Primary Contribution, and repository governance.
 
----
+## VII-A. Bhakti Sūtras
 
-# VIII. Stotra, Sahasranāma & Kavaca (स्तोत्र, सहस्रनाम एवं कवच)
-
-**Status:** Editorial Review Pending
-
-This section will represent the foundational corpus of devotional hymns, sacred names, and protective liturgical literature that have played a lasting role in the devotional and ritual traditions of Sanātana Dharma.
-
-Candidate works will be evaluated according to the Ādhāra Śilā Methodology, the Principle of Classification by Primary Contribution, and repository governance.
+| Work | Status |
+|------|--------|
+| Nārada Bhakti Sūtras | 🟢 |
+| Śāṇḍilya Bhakti Sūtras | 🟢 |
 
 ---
 
-# IX. Mantra & Sūkta (मन्त्र एवं सूक्त)
+## VII-B. Stotra Literature
+
+### Must Have
+
+| Work | Status |
+|------|--------|
+| Rāma Rakṣā Stotra | 🟢 |
+| Śiva Tāṇḍava Stotra | 🟢 |
+| Śiva Pañcākṣara Stotram | 🟢 |
+| Kanakadhārā Stotram | 🟢 |
+
+---
+
+### Strong Candidates
+
+| Work | Status |
+|------|--------|
+| Bhaja Govindam | 🔵 |
+| Saundaryalaharī | 🔵 |
+| Śivamahimna Stotra | 🔵 |
+
+---
+
+## VII-C. Sahasranāma Literature
+
+### Must Have
+
+| Work | Status |
+|------|--------|
+| Viṣṇu Sahasranāma | 🟢 |
+| Lalitā Sahasranāma | 🟢 |
+
+---
+
+### Candidate
+
+| Work | Status |
+|------|--------|
+| Śiva Sahasranāma | 🔵 |
+
+### Editorial Note
+
+Only individual textual works are included as Master Candidates.
+
+Literary forms such as Aṣṭakam, Stavam, Stuti, and Pañcaratnam are recognized as literary genres but are not themselves Master Candidates.
+
+### Editorial Exclusions
+
+Move the following to Section VIII.
+
+- Kavaca Literature
+- Vedic Sūktas
+- Mantras
+- Liturgical Collections
+
+---
+
+# VIII. Mantra & Liturgical Literature
 
 **Status:** Editorial Review Pending
 
-This section will represent the foundational mantra and sūkta literature employed in Vedic recitation, worship, meditation, and spiritual practice.
+## VIII-A. Mūla Mantras
 
-Candidate works will be evaluated according to the Ādhāra Śilā Methodology, the Principle of Classification by Primary Contribution, and repository governance.
+## VIII-B. Vedic Sūktas
+
+## VIII-C. Kavaca Literature
+
+## VIII-D. Liturgical Scriptures
+
+## VIII-E. Nitya Pārāyaṇa
+
+## VIII-F. Vaidika Prayoga Mantras
+
+## VIII-G. Saṁskāra Mantras
+
+### Editorial Note
+
+This section intentionally contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation will occur during the dedicated editorial review of Section VIII.
 
 ---
 
@@ -407,3 +490,4 @@ Substantive governance changes should be reflected in the Decision Ledger before
 | 1.0 | 2026-07-23 | Standardized metadata, clarified editorial workflow, synchronized with repository governance, and established the Master Candidate List as the primary editorial inventory for Ādhāra Śilā evaluation. |
 | 1.1 | 2026-07-26 | Synchronized with the updated governance framework. Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)** throughout, adopted the new repository layer terminology (**Ādhāra Śilā**, **Extended Sources**, **Research Archive**), updated related document references, and aligned the document with Constitution v1.1, Project Status v0.3, and the revised repository architecture. |
 | 1.2 | 2026-07-26 | Synchronized with governance decisions DL-030 and DL-031 by incorporating the frozen editorial architecture for **Section V – Tantra & Āgama (तन्त्र एवं आगम)**, adopting the Principle of Classification by Primary Contribution throughout the editorial workflow, updating repository status to **Active Editorial Draft**, and refining pending sections to align with the Ādhāra Śilā framework. |
+| 1.3 | 2026-07-27 | Implemented the three-layer knowledge architecture, froze Section VI – Yoga and Section VII – Bhakti Literature, and created the approved architecture for Section VIII – Mantra & Liturgical Literature. |
