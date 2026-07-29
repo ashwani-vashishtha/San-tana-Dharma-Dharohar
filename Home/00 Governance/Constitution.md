@@ -1,12 +1,12 @@
 # Constitution of Sanātana Dharma Dharohar
 
-Version: 1.1
+Version: 1.2
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -159,13 +159,13 @@ The repository shall maintain three editorial layers.
 
 The essential foundational sources required for understanding Sanātana Dharma.
 
-## Layer II — Extended Sources
+## Layer II — Jīvanta Paramparā (Living Practice Collection)
 
-Works that substantially deepen understanding but are not indispensable to the Ādhāra Śilā.
+Curated practice collections representing how Sanātana Dharma is actively practiced.
 
-## Layer III — Research Archive
+## Layer III — Dharma Sāgara
 
-Historical, regional, manuscript, comparative, specialized, and research material preserved for completeness.
+The complete curated knowledge repository preserving regional, historical, specialized, lineage-specific, advanced, and research material without imposing canonical limits.
 
 ---
 
@@ -273,3 +273,4 @@ Major constitutional changes should be minimized to preserve long-term stability
 | 0.4 | 2026-07-22 | Added Canon Architecture, Repository Layers, Editorial Representation Model, and Non-Duplication Principle. |
 | 1.0 | 2026-07-23 | Reorganized into formal constitutional articles. Added Vision, Mission, Scope, Governance Hierarchy, Evidence Hierarchy, Repository Standards, Document Governance, Amendment Process, standardized metadata, and aligned with the finalized governance framework. |
 | 1.1 | 2026-07-26 | Renamed the Core Canon to **Ādhāra Śilā (आधार शिला)** as the repository's foundational knowledge layer. Refined the Vision and Mission to emphasize authentic understanding and responsible practice. Introduced the Project Motto and Project Evolution Principles, formalized milestone focus through the idea-capture principle, and standardized the use of IAST with Devanāgarī throughout the repository. |
+| 1.2 | 2026-07-29 | Synchronized repository layers with the accepted three-layer knowledge architecture: **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |

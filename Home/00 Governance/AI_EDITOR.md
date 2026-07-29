@@ -1,12 +1,12 @@
-# AI Editor Operating Guide
+# AI Editor
 
-Version: 1.0
+Version: 2.0
 
 Status: Approved
 
 Created: 2026-07-27
 
-Last Updated: 2026-07-27
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -14,159 +14,207 @@ Related Documents:
 - Constitution.md
 - Decision Ledger.md
 - Project Status.md
-- AI Context.md
+- Project Handover.md
 
 ---
 
 # Purpose
 
-This document is the primary onboarding guide for AI coding agents working inside the **Sanātana Dharma Dharohar** repository.
+This document is the primary operating guide for AI assistants working within the **Sanātana Dharma Dharohar** repository.
 
-It defines the operating rules for repository edits, Markdown maintenance, governance awareness, and AI-assisted contribution.
+It defines how AI assistants should understand repository governance, edit Markdown files, preserve editorial standards, and maintain consistency throughout the repository.
 
-This guide supplements but does not override repository governance.
+This guide defines **how** an AI should work. It does **not** describe the current state of the project. Current repository status is maintained separately in **Project Handover.md** and **Project Status.md**.
+
+---
+
+# AI Onboarding Workflow
+
+Every AI assistant shall begin work using the following sequence.
+
+## Step 1 — Read the Handshake Document
+
+Read:
+
+`Home/00 Governance/Project Handover.md`
+
+The handover is the official synchronization document between the Obsidian repository and AI assistants.
+
+It provides:
+
+- current repository state
+- current milestone
+- completed work
+- outstanding work
+- synchronization status
+- recommended starting point
+
+---
+
+## Step 2 — Read Governance Documents
+
+Review:
+
+1. Constitution.md
+2. Decision Ledger.md
+3. Project Status.md
+
+These documents define repository governance and override all lower-level documents.
+
+---
+
+## Step 3 — Read Context-Specific Documents
+
+Only when relevant, consult:
+
+- Ādhāra Śilā Methodology.md
+- Ādhāra Śilā Taxonomy.md
+- Ādhāra Śilā Editorial Guide.md
+- Research & Citation Policy.md
+- Master Candidate List.md
+- other supporting documents
+
+Only read documents necessary for the requested task.
 
 ---
 
 # Repository Governance Hierarchy
 
-AI agents shall follow the repository authority order below.
+Repository authority follows this order.
 
-Constitution.md  
-↓  
-Decision Ledger.md  
-↓  
-Project Status.md  
-↓  
-AI Context.md  
-↓  
-Core Canon  
-↓  
-Research Notes  
-↓  
-Everything Else
+1. Constitution.md
+2. Decision Ledger.md
+3. Project Status.md
+4. Project Methodology Documents
+5. Working Documents
+6. Research Notes
 
-Higher-level documents always override lower-level documents.
+If a lower-level document conflicts with a higher-level document, the higher-level document always prevails.
 
-If a lower-level document appears to conflict with a higher-level document, the AI agent shall identify the conflict before editing.
-
----
-
-# Files Every AI Must Read First
-
-Before making repository changes, every AI agent must read:
-
-- Constitution.md
-- Decision Ledger.md
-- Project Status.md
-- AI Context.md
-
-If the requested work affects the **Ādhāra Śilā (आधार शिला)**, research standards, citations, or editorial classification, the AI agent should also review the relevant methodology, taxonomy, editorial guide, and citation policy documents.
+The AI shall identify governance conflicts before making edits.
 
 ---
 
 # Editorial Principles
 
-AI agents shall:
+AI assistants shall:
 
-- Preserve scholarly neutrality.
-- Avoid sectarian bias.
-- Distinguish primary scriptures from commentaries.
-- Distinguish commentary from interpretation.
-- Preserve historical decisions.
-- Preserve the repository's non-sectarian voice.
-- Avoid unsupported historical claims.
-- Never invent citations.
-- Never present uncertain information as fact.
+- preserve scholarly neutrality
+- avoid sectarian advocacy
+- distinguish scripture from commentary
+- distinguish commentary from interpretation
+- preserve historical decisions
+- classify works according to their primary contribution
+- preserve repository terminology
+- never invent citations
+- never invent quotations
+- never invent historical claims
+- explicitly identify uncertainty
 
-The repository documents traditions. It does not replace spiritual authority, lineage instruction, or primary sources.
+The repository documents traditions.
+
+It does not replace gurus, lineages, scriptures, or living practice.
 
 ---
 
-# Sanskrit Formatting Rules
+# Sanskrit Standards
 
-AI agents shall:
+The repository standard is:
 
-- Use IAST transliteration as the repository standard.
-- Include corresponding Devanāgarī where appropriate.
-- Preserve Sanskrit diacritics.
-- Never simplify transliterations.
-- Never replace precise Sanskrit terminology with informal spellings.
-- Preserve existing Sanskrit formatting unless explicitly instructed otherwise.
+IAST transliteration.
 
-When introducing a Sanskrit term, provide the transliterated form and Devanāgarī where appropriate.
+Whenever appropriate:
+
+- include Devanāgarī
+- preserve Sanskrit diacritics
+- avoid simplified spellings
+- preserve established terminology
 
 Example:
 
-**Ādhāra Śilā (आधार शिला)**
+Ādhāra Śilā (आधार शिला)
 
 ---
 
-# Markdown Rules
+# Markdown Standards
 
-AI agents shall:
+Preserve:
 
-- Preserve headings.
-- Preserve wikilinks.
-- Preserve frontmatter.
-- Preserve callouts.
-- Preserve tables unless a requested edit requires a table change.
-- Avoid unnecessary formatting changes.
-- Avoid repository-wide formatting.
-- Maintain Obsidian compatibility.
-- Keep Markdown readable in plain text.
+- headings
+- metadata
+- wikilinks
+- callouts
+- tables
+- Obsidian compatibility
 
-Edits should be minimal and should preserve the surrounding document style.
+Avoid:
 
----
+- repository-wide formatting
+- unnecessary rewrites
+- formatting-only edits
+- changing document style without reason
 
-# Git Rules
-
-AI agents shall:
-
-- Keep commits small.
-- Keep diffs minimal.
-- Never rename files unless instructed.
-- Never perform repository-wide formatting.
-- Never combine unrelated changes in one commit.
-- Review diffs before committing.
-- Use clear commit messages that describe the actual change.
-
-Governance changes should be committed separately from routine editorial work.
+Edits should be minimal.
 
 ---
 
-# AI Editing Rules
+# Git Practices
 
-AI agents shall:
+AI assistants shall:
 
-- Prefer editing over rewriting.
-- Ask before modifying governance documents.
-- Explain conflicts before editing.
-- Preserve existing repository conventions.
-- Preserve historical decisions even when superseded.
-- Avoid introducing new governance rules without approval.
-- Avoid expanding the scope of a task without permission.
-- Record uncertainty instead of resolving it through speculation.
+- keep commits focused
+- minimize diffs
+- separate governance edits from editorial edits
+- avoid unrelated changes
+- never rename files unless instructed
+- use clear commit messages
 
-AI assistance is editorial and organizational. It is not an authoritative source.
+---
+
+# AI Editing Principles
+
+Prefer:
+
+editing
+
+over
+
+rewriting.
+
+Before editing governance documents:
+
+- verify repository consistency
+- explain conflicts
+- preserve historical decisions
+- avoid expanding scope without approval
+
+Repository governance changes should be deliberate.
+
+Routine editorial edits should not introduce governance decisions.
 
 ---
 
 # Definition of Done
 
-A repository edit is complete only when:
+A task is complete only when:
 
-- The requested change has been made.
-- Higher-level governance documents have not been contradicted.
-- Existing Markdown structure has been preserved.
-- Sanskrit diacritics and Devanāgarī have been preserved where applicable.
-- Wikilinks, frontmatter, callouts, and metadata remain intact.
-- The diff is minimal and focused.
-- No unrelated files have been modified.
-- No citations, claims, or references have been invented.
-- Any governance conflict has been explained before editing.
-- The final result follows repository conventions.
+- requested changes are implemented
+- governance remains consistent
+- Markdown integrity is preserved
+- Sanskrit formatting is preserved
+- Obsidian compatibility is maintained
+- no unsupported claims have been introduced
+- unrelated files remain unchanged
+- the resulting diff is minimal
+- repository conventions are preserved
+
+---
+
+# Guiding Principle
+
+Every repository document should have one clear responsibility.
+
+AI assistants should preserve this principle by avoiding duplication, unnecessary restructuring, and overlapping governance content.
 
 ---
 
@@ -174,4 +222,5 @@ A repository edit is complete only when:
 
 | Version | Date | Summary |
 |---------|------|---------|
-| 1.0 | 2026-07-27 | Established the AI editor operating guide for repository onboarding, governance hierarchy, editing rules, Markdown standards, Sanskrit formatting, Git practices, and definition of done. |
+| 1.0 | 2026-07-27 | Initial AI editor operating guide. |
+| 2.0 | 2026-07-29 | Redefined AI onboarding around the Project Handover as the official handshake document, simplified governance workflow, removed dependency on AI Context, clarified governance hierarchy, and separated operational guidance from project state. |

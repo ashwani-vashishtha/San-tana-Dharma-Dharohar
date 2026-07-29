@@ -1,12 +1,12 @@
 # Ādhāra Śilā Editorial Guide
 
-Version: 1.1
+Version: 1.2
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -195,8 +195,8 @@ Every major work should include:
 Possible values
 
 - Ādhāra Śilā (Foundational Sources)
-- Extended Sources
-- Research Archive
+- Jīvanta Paramparā
+- Dharma Sāgara
 
 ---
 
@@ -409,3 +409,4 @@ Supporting Editorial Principles:
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Standardized governance metadata, aligned with the Constitution, Decision Ledger, Core Canon Methodology, and Core Canon Taxonomy. Expanded metadata standards, citation guidance, editorial consistency rules, and review checklist. |
 | 1.1 | 2026-07-26 | Synchronized with the updated governance framework. Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)**, updated repository layer terminology, aligned with the revised Constitution, Decision Ledger, AI Context, and Project Status, and incorporated the repository motto and refined editorial philosophy. |
+| 1.2 | 2026-07-29 | Synchronized repository layer values with **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |

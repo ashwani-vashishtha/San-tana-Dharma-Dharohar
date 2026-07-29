@@ -1,12 +1,12 @@
 # Ādhāra Śilā 108
 
-Version: 1.1
+Version: 1.2
 
 Status: Working Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -45,7 +45,7 @@ The Ādhāra Śilā is designed to:
 
 # Current Progress
 
-**Sections Frozen:** **5 / 9**
+**Sections Frozen:** **7 / 8**
 
 **Foundational Sources Finalized:** *In Progress (final count subject to editorial review).*
 
@@ -60,10 +60,9 @@ The Ādhāra Śilā is designed to:
 | III. Purāṇa | ✅ Frozen |
 | IV. Dharma, Darśana & Philosophical Traditions | ✅ Frozen |
 | V. Tantra & Āgama | ✅ Frozen |
-| VI. Yoga | 🟡 In Progress |
-| VII. Bhakti | ⬜ Pending |
-| VIII. Stotra, Sahasranāma & Kavaca | ⬜ Pending |
-| IX. Mantra & Sūkta | ⬜ Pending |
+| VI. Yoga | ✅ Frozen |
+| VII. Bhakti Literature | ✅ Frozen |
+| VIII. Mantra & Liturgical Literature | 🟡 In Progress |
 
 ---
 
@@ -122,29 +121,25 @@ Scope:
 
 ## VI. Yoga
 
-**Status:** 🟡 In Progress
+**Status:** ✅ Frozen
 
 This section focuses on the principal textual traditions of Yoga beyond the philosophical foundations represented under the Ṣaḍ-Darśanas.
 
 ---
 
-## VII. Bhakti
+## VII. Bhakti Literature
 
-**Status:** Pending
+**Status:** ✅ Frozen
 
 This section represents the major devotional traditions of Sanātana Dharma through their principal scriptures, hymns, and theological literature.
 
 ---
 
-## VIII. Stotra, Sahasranāma & Kavaca
+## VIII. Mantra & Liturgical Literature
 
-**Status:** Pending
+**Status:** 🟡 In Progress
 
----
-
-## IX. Mantra & Sūkta
-
-**Status:** Pending
+This section contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation remains under editorial review.
 
 ---
 
@@ -152,7 +147,7 @@ This section represents the major devotional traditions of Sanātana Dharma thro
 
 The Ādhāra Śilā is a curated editorial framework rather than an exhaustive bibliography.
 
-Many highly influential works are intentionally preserved within the **Extended Sources** or **Research Archive**, ensuring that the Ādhāra Śilā remains focused, balanced, and approachable while still providing a comprehensive foundation for lifelong study.
+Many highly influential works are intentionally preserved within **Jīvanta Paramparā** or **Dharma Sāgara**, ensuring that the Ādhāra Śilā remains focused, balanced, and approachable while still supporting comprehensive study and preservation.
 
 ---
 
@@ -162,3 +157,4 @@ Many highly influential works are intentionally preserved within the **Extended 
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Initial working draft of the Core Canon structure and editorial progress tracker. |
 | 1.1 | 2026-07-26 | Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)**, synchronized with the revised governance framework, froze Sections I–V, designated Section VI (Yoga) as the current editorial work area, and updated terminology and document references throughout. |
+| 1.2 | 2026-07-29 | Synchronized progress tracking with frozen Sections I–VII and the approved Section VIII – Mantra & Liturgical Literature architecture. |

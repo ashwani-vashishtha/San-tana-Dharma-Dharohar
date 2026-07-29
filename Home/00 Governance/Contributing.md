@@ -1,12 +1,12 @@
 # Contributing
 
-Version: 1.1
+Version: 1.2
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-27
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -14,7 +14,8 @@ Related Documents:
 - Constitution.md
 - Decision Ledger.md
 - Project Status.md
-- AI Context.md
+- Project Handover.md
+- AI_EDITOR.md
 - Ādhāra Śilā Methodology.md
 - Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
@@ -38,9 +39,10 @@ Before making changes, review the following documents in order:
 1. Constitution.md
 2. Decision Ledger.md
 3. Project Status.md
-4. AI Context.md
-5. Ādhāra Śilā Methodology.md
-6. Ādhāra Śilā Editorial Guide.md
+4. Project Handover.md
+5. AI_EDITOR.md
+6. Ādhāra Śilā Methodology.md
+7. Ādhāra Śilā Editorial Guide.md
 
 Contributors should ensure that no proposed change contradicts the established governance framework.
 
@@ -137,3 +139,4 @@ Every contribution should move the repository closer to becoming a trusted refer
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Standardized contributor guidelines with governance metadata, editorial standards, evidence requirements, contribution workflow, pull request checklist, and repository philosophy. |
 | 1.1 | 2026-07-27 | Synchronized terminology from Core Canon to **Ādhāra Śilā (आधार शिला)** and updated related document references. |
+| 1.2 | 2026-07-29 | Replaced retired AI onboarding references with **handover.md** and **AI_EDITOR.md**. |

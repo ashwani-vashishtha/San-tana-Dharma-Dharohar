@@ -30,11 +30,12 @@ The repository follows the following governance hierarchy:
 1. Constitution.md
 2. Decision Ledger.md
 3. Project Status.md
-4. AI Context.md
-5. Ādhāra Śilā Methodology.md
-6. Ādhāra Śilā Taxonomy.md
-7. Ādhāra Śilā Editorial Guide.md
-8. Research & Citation Policy.md
+4. Project Handover.md
+5. AI_EDITOR.md
+6. Ādhāra Śilā Methodology.md
+7. Ādhāra Śilā Taxonomy.md
+8. Ādhāra Śilā Editorial Guide.md
+9. Research & Citation Policy.md
 
 When two documents appear to conflict, the higher document takes precedence.
 
@@ -66,11 +67,17 @@ This document represents the project's current working state.
 
 ---
 
-## AI Context.md
+## Project Handover.md
+
+Official synchronization document between the Obsidian repository and AI assistants.
+
+---
+
+## AI_EDITOR.md
 
 Operating guide for AI systems contributing to the repository.
 
-Defines expected AI behavior, editorial responsibilities, research principles, and working practices.
+Defines expected AI behavior, editorial responsibilities, editing rules, and working practices.
 
 ---
 
@@ -85,12 +92,6 @@ Master bibliography of authoritative editions, translations, dictionaries, refer
 Working journal for documenting research progress, observations, unresolved questions, and future investigations.
 
 Research notes do not become repository content until reviewed and incorporated through the editorial process.
-
----
-
-## Session Starter.md
-
-Provides a consistent starting point for new working sessions, ensuring continuity between contributors and AI assistants.
 
 ---
 

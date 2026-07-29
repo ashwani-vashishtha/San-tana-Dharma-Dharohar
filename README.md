@@ -65,39 +65,58 @@ The repository documents traditions faithfully rather than promoting any particu
 
 Constitution, governance, editorial standards, methodology, project status, and repository management.
 
+Key AI continuity documents:
+
+- `Project Handover.md` — official AI synchronization document.
+- `AI_EDITOR.md` — AI operating manual for editing behavior.
+
 ## 01 Ādhāra Śilā (आधार शिला)
 
 The Foundational Sources of Sanātana Dharma.
 
 This is the permanent foundation of the repository and represents the essential knowledge traditions required to understand Sanātana Dharma.
 
-## 02 Extended Sources
+## 02 Scriptures
 
-Important works that substantially deepen understanding beyond the Ādhāra Śilā.
+Future scripture content organized from approved source work.
 
-## 03 Knowledge Traditions
+## 03 Encyclopedia
 
-Sampradāyas, philosophical schools, lineages, historical developments, and intellectual traditions.
+Future encyclopedia entries and structured knowledge notes.
 
-## 04 Practice
+## 04 Practices
 
-Mantras, Stotras, Japa, Pūjā, Yoga, Meditation, Rituals, Festivals, Vratas, and other authentic sādhana traditions.
+Future practice-oriented material aligned with Jīvanta Paramparā.
 
-## 05 Research
+## 05 Traditions
 
-Comparative studies, historical investigations, manuscript traditions, unresolved questions, and future research.
+Sampradāyas, paramparās, philosophical schools, lineages, and living traditions.
 
-## 06 References
+## 06 Research
+
+Comparative studies, historical investigations, unresolved questions, and future research.
+
+## 07 References
 
 Bibliography, editions, manuscripts, dictionaries, translations, indexes, and supporting reference material.
 
-## Assets
-
-Images, diagrams, PDFs, charts, and other supporting resources.
-
-## Templates
+## 08 Templates
 
 Standardized templates for repository notes, metadata, and documentation.
+
+## 09 Archive
+
+Archived or historical material preserved outside active editorial work.
+
+---
+
+# Three-Layer Knowledge Architecture
+
+The repository follows the approved three-layer architecture:
+
+1. **Ādhāra Śilā (आधार शिला)** — foundational textual works.
+2. **Jīvanta Paramparā (जीवन्त परम्परा)** — curated living-practice collections.
+3. **Dharma Sāgara (धर्म सागर)** — comprehensive preservation layer.
 
 ---
 
@@ -184,12 +203,13 @@ Its purpose is to preserve, organize, and present authentic knowledge responsibl
 
 If you are new to the project, begin in the following order:
 
-1. Constitution.md
-2. Project Status.md
+1. Project Handover.md
+2. Constitution.md
 3. Decision Ledger.md
-4. 00 Governance
-5. 01 Ādhāra Śilā (आधार शिला)
-6. Follow related notes through Obsidian backlinks.
+4. Project Status.md
+5. AI_EDITOR.md
+6. 01 Ādhāra Śilā (आधार शिला)
+7. Follow related notes through Obsidian backlinks.
 
 The repository is designed as an interconnected **knowledge graph**, rather than a linear book.
 
@@ -197,9 +217,9 @@ The repository is designed as an interconnected **knowledge graph**, rather than
 
 # Repository Versions
 
-**Repository Version:** 0.3
+**Repository Version:** 0.5
 
-**Constitution Version:** 1.1
+**Constitution Version:** 1.2
 
 ---
 

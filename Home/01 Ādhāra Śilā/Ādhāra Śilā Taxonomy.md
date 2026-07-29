@@ -1,12 +1,12 @@
 # Ādhāra Śilā Taxonomy
 
-Version: 2.1
+Version: 2.2
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -42,7 +42,7 @@ The taxonomy has been designed to:
 - minimize overlap between sections;
 - preserve historical and philosophical coherence;
 - remain neutral across Sampradāyas;
-- support long-term expansion through the Extended Sources and Research Archive;
+- support long-term expansion through Jīvanta Paramparā and Dharma Sāgara;
 - align with the Constitution and the Ādhāra Śilā Methodology.
 
 ---
@@ -167,38 +167,23 @@ To represent the major devotional traditions independently of philosophical lite
 
 ---
 
-## Section VIII — Stotra, Sahasranāma & Kavaca
+## Section VIII — Mantra & Liturgical Literature
 
-The liturgical corpus used in personal devotion and temple worship.
-
-### Categories
-
-- Stotras
-- Sahasranāmas
-- Kavacas
-- Daily Liturgical Texts
-
-**Purpose**
-
-To preserve the essential devotional and protective recitation traditions.
-
----
-
-## Section IX — Mantra & Sūkta
-
-The foundational corpus of sacred recitation.
+The liturgical corpus used in personal devotion, temple worship, Vedic recitation, and practice contexts.
 
 ### Categories
 
+- Mūla Mantras
 - Vedic Sūktas
-- Mahāmantras
-- Gāyatrī Mantras
-- Bīja & Mūla Mantras
-- Navagraha and Traditional Mantras
+- Kavaca Literature
+- Liturgical Scriptures
+- Nitya Pārāyaṇa
+- Vaidika Prayoga Mantras
+- Saṁskāra Mantras
 
 **Purpose**
 
-To preserve the principal mantra traditions of Sanātana Dharma.
+To preserve the principal mantra, sūkta, kavaca, liturgical, and practice-recitation traditions while distinguishing individual textual works from curated practice collections.
 
 ---
 
@@ -222,13 +207,13 @@ The repository maintains three editorial layers.
 
 The 108 foundational sources required for a comprehensive understanding of Sanātana Dharma.
 
-## Layer II — Extended Sources
+## Layer II — Jīvanta Paramparā
 
-Works that substantially deepen individual traditions and subjects.
+Curated living-practice collections representing active liturgical, ritual, devotional, and practice-oriented usage.
 
-## Layer III — Research Archive
+## Layer III — Dharma Sāgara
 
-Historical, regional, manuscript, comparative, and specialized literature preserved for research.
+The complete curated knowledge repository preserving expanded, regional, historical, lineage-specific, advanced, and research material.
 
 ---
 
@@ -254,3 +239,4 @@ These classifications support editorial evaluation and do not themselves determi
 | 1.0 | 2026-07-19 | Initial taxonomy based on layered editorial model. |
 | 2.0 | 2026-07-23 | Reorganized into the nine permanent Core Canon sections. Added Canon Architecture, Editorial Representation Model, Editorial Classification Framework, document metadata, and governance alignment with Decisions DL-012, DL-019, DL-021, DL-022, DL-023, and DL-024. |
 | 2.1 | 2026-07-26 | Renamed the repository's foundational knowledge layer to **Ādhāra Śilā (आधार शिला)**. Synchronized terminology with the Constitution and Decision Ledger, updated governance references, refined Section IV title to reflect its full scope, and aligned the taxonomy with the revised repository architecture. |
+| 2.2 | 2026-07-29 | Synchronized repository layers with **Jīvanta Paramparā** and **Dharma Sāgara**, and aligned Section VIII with the approved Mantra & Liturgical Literature architecture. |

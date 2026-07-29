@@ -1,12 +1,12 @@
 # AI Context
 
-Version: 1.1
+Version: 1.2
 
-Status: Approved
+Status: Retired
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-26
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -18,17 +18,20 @@ Related Documents:
 - Ādhāra Śilā Taxonomy.md
 - Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
-- Session Starter.md
+- Project Handover.md
+- AI_EDITOR.md
 
 ---
 
 # Purpose
 
-This document serves as the onboarding and operating guide for any AI system assisting with the **Sanātana Dharma Dharohar** repository.
+This retired document is preserved for historical reference only.
 
-The repository is intentionally designed to be **AI-independent**. Any AI should be able to understand the repository's governance, editorial standards, philosophy, and current state solely by consulting the governance documents.
+It is no longer an active AI onboarding or operating document.
 
-This document supplements—but does not replace—the Constitution and other governance documents.
+Current AI session synchronization is maintained in **Project Handover.md**.
+
+Current AI editing behavior is maintained in **AI_EDITOR.md**.
 
 ---
 
@@ -78,11 +81,13 @@ Always follow repository governance in the following order:
 
 1. Constitution.md
 2. Decision Ledger.md
-3. Ādhāra Śilā Methodology.md
-4. Ādhāra Śilā Taxonomy.md
-5. Ādhāra Śilā Editorial Guide.md
-6. Research & Citation Policy.md
-7. Project Status.md
+3. Project Status.md
+4. handover.md
+5. AI_EDITOR.md
+6. Ādhāra Śilā Methodology.md
+7. Ādhāra Śilā Taxonomy.md
+8. Ādhāra Śilā Editorial Guide.md
+9. Research & Citation Policy.md
 
 Higher governance documents always take precedence.
 
@@ -92,10 +97,10 @@ Higher governance documents always take precedence.
 
 At the beginning of every new session:
 
-1. Ask whether the Obsidian vault has changed since the previous session.
-2. If governance documents have changed, review them before continuing.
-3. Read Project Status.md.
-4. Review the Decision Ledger for new governance decisions.
+1. Read Project Handover.md.
+2. Confirm whether governance documents have changed since the handover was generated.
+3. Review Constitution.md, Decision Ledger.md, and Project Status.md.
+4. Consult AI_EDITOR.md for operating rules.
 5. Continue from the current work package and Next Task.
 6. Do not revisit completed milestones unless explicitly requested.
 
@@ -294,3 +299,4 @@ Every contribution should strengthen the repository's authenticity, clarity, con
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Established the AI operating guide for the repository, defining governance hierarchy, startup workflow, editorial principles, research standards, AI responsibilities, limitations, and session completion procedures. |
 | 1.1 | 2026-07-26 | Aligned the AI operating guide with the revised governance framework. Updated terminology to **Ādhāra Śilā (आधार शिला)**, expanded repository philosophy and identity, formalized project evolution practices, strengthened AI operating principles, and reinforced the distinction between documenting traditions and acting as a source of authority. |
+| 1.2 | 2026-07-29 | Replaced the retired Session Starter dependency with **Project Handover.md** and **AI_EDITOR.md**, aligning AI context with the current AI handshake workflow. |

@@ -1,12 +1,12 @@
 # Master Candidate List
 
-Version: 1.3
+Version: 1.4
 
 Status: Active Editorial Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-27
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -25,7 +25,7 @@ Related Documents:
 
 The Master Candidate List serves as the comprehensive editorial inventory of textual works considered for inclusion within the **Sanātana Dharma Dharohar** repository.
 
-It is the primary working catalogue from which the **Ādhāra Śilā (Foundational Sources)**, **Extended Sources**, and **Research Archive** are curated.
+It is the primary working catalogue from which **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara** allocations are curated.
 
 Inclusion in this list represents editorial consideration only and does **not** imply acceptance into the Ādhāra Śilā.
 
@@ -491,3 +491,4 @@ Substantive governance changes should be reflected in the Decision Ledger before
 | 1.1 | 2026-07-26 | Synchronized with the updated governance framework. Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)** throughout, adopted the new repository layer terminology (**Ādhāra Śilā**, **Extended Sources**, **Research Archive**), updated related document references, and aligned the document with Constitution v1.1, Project Status v0.3, and the revised repository architecture. |
 | 1.2 | 2026-07-26 | Synchronized with governance decisions DL-030 and DL-031 by incorporating the frozen editorial architecture for **Section V – Tantra & Āgama (तन्त्र एवं आगम)**, adopting the Principle of Classification by Primary Contribution throughout the editorial workflow, updating repository status to **Active Editorial Draft**, and refining pending sections to align with the Ādhāra Śilā framework. |
 | 1.3 | 2026-07-27 | Implemented the three-layer knowledge architecture, froze Section VI – Yoga and Section VII – Bhakti Literature, and created the approved architecture for Section VIII – Mantra & Liturgical Literature. |
+| 1.4 | 2026-07-29 | Synchronized purpose language with the current **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara** repository layers. |

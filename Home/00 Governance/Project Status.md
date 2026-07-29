@@ -1,12 +1,12 @@
 # Project Status
 
-Repository Version: 0.4
+Repository Version: 0.5
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-27
+Last Updated: 2026-07-29
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -158,7 +158,7 @@ Current effort is focused on evaluating candidate resources and freezing the fin
 # Open Decisions
 
 - Final category allocation within the 108-source limit
-- Ādhāra Śilā vs Extended Sources boundary
+- Layer allocation boundaries across Ādhāra Śilā, Jīvanta Paramparā, and Dharma Sāgara
 - Minimum inclusion threshold for disputed or regional texts
 - Representation of alternative recensions where multiple authoritative versions exist
 
@@ -195,8 +195,8 @@ Approve or reject every candidate until the **Ādhāra Śilā 108** is frozen.
 
 Following the completion of **Ādhāra Śilā v1.0**, future milestones may include:
 
-- Extended Sources
-- Practice & Initiation Intelligence Framework
+- Dharma Sāgara expansion
+- Jīvanta Paramparā practice framework
 - Knowledge Graph
 - Publications & Learning Resources
 
@@ -227,6 +227,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-07-26 | Refined the project Vision, Mission, and long-term architecture. |
 | 2026-07-26 | Introduced the Project Evolution Principle to capture future ideas while maintaining milestone focus. |
 | 2026-07-27 | Established the three-layer knowledge architecture: **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
+| 2026-07-29 | Synchronized project status with the Project Handover protocol and the finalized distinction between textual works and curated practice collections. |
 
 ---
 
@@ -238,3 +239,4 @@ These items are intentionally deferred and shall not affect the current mileston
 | 0.2 | 2026-07-23 | Governance review completed. Taxonomy and Methodology synchronized. Project moved to Editorial Review & Canon Finalization. |
 | 0.3 | 2026-07-26 | Repository terminology updated to **Ādhāra Śilā (आधार शिला)**. Project philosophy, roadmap, milestone tracking, and Ādhāra Śilā development progress synchronized with the revised governance framework. |
 | 0.4 | 2026-07-27 | Added the three-layer repository knowledge architecture distinguishing **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
+| 0.5 | 2026-07-29 | Synchronized status language with the Project Handover protocol and the accepted separation of textual works, practice collections, and preservation resources. |
