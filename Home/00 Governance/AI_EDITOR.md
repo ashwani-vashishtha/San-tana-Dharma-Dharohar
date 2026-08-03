@@ -16,6 +16,11 @@ Related Documents:
 - Project Status.md
 - Project Handover.md
 
+
+This document applies exclusively to the **Editorial Assistant (ChatGPT)**.
+
+Repository synchronization is governed separately by **Codex Operating Guide.md**.
+
 ---
 
 # Purpose
@@ -27,6 +32,7 @@ It defines how AI assistants should understand repository governance, edit Markd
 This guide defines **how** an AI should work. It does **not** describe the current state of the project. Current repository status is maintained separately in **Project Handover.md** and **Project Status.md**.
 
 ---
+
 
 # AI Onboarding Workflow
 

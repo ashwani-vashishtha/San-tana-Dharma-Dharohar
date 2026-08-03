@@ -120,21 +120,9 @@ The repository follows the approved three-layer architecture:
 
 ---
 
-# Current Journey
+# Current Operational State
 
-**Current Yātrā**
-
-**Yātrā 1 – Jijñāsā (जिज्ञासा)**
-
-**Current Milestone**
-
-**Milestone 2 – Ādhāra Śilā Architecture**
-
-**Current Phase**
-
-**Editorial Review & Foundational Source Finalization**
-
-For the latest project progress, refer to **Project Status.md**.
+For the current operational state, refer to **Project Handover.md**. For the repository's governed project status, refer to **Project Status.md**.
 
 ---
 
