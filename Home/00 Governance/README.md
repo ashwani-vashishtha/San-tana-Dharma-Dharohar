@@ -31,7 +31,7 @@ The repository follows the following governance hierarchy:
 2. Decision Ledger.md
 3. Project Status.md
 4. Project Handover.md
-5. AI_EDITOR.md
+5. AI Editor.md
 6. Ādhāra Śilā Methodology.md
 7. Ādhāra Śilā Taxonomy.md
 8. Ādhāra Śilā Editorial Guide.md
@@ -73,7 +73,7 @@ Official synchronization document between the Obsidian repository and AI assista
 
 ---
 
-## AI_EDITOR.md
+## AI Editor.md
 
 Operating guide for AI systems contributing to the repository.
 

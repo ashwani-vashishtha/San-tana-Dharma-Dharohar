@@ -1,12 +1,12 @@
 # Master Candidate List
 
-Version: 1.4
+Version: 1.5
 
 Status: Active Editorial Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-29
+Last Updated: 2026-08-04
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -308,66 +308,111 @@ These works represent the culmination of spiritual inquiry within Sanātana Dhar
 
 # V. Tantra & Āgama (तन्त्र एवं आगम)
 
-**Status:** Architecture Frozen • Editorial Review Pending
+**Status:** Architecture Frozen • Editorial Review Completed
 
 ---
 
 ## V-A. Śaiva Āgamas (शैव आगम)
 
-**Status:** Editorial Review Pending
+**Status:** Editorial Review Completed
+
+### Core Candidates
+
+| Work | Status |
+|------|--------|
+| Kāmika Āgama | 🟢 |
+| Svacchanda Tantra | 🟢 |
+| Vijñāna Bhairava | 🟢 |
+| Mālinīvijayottara Tantra | 🟢 |
+| Kularṇava Tantra | 🟢 |
+
+### Major Candidates
+
+Major Candidates remain unchanged.
 
 ---
 
 ## V-B. Vaiṣṇava Āgamas (वैष्णव आगम)
 
-**Status:** Editorial Review Pending
+**Status:** Editorial Review Completed
+
+### Core Candidates
+
+| Work | Status |
+|------|--------|
+| Sātvata Saṃhitā | 🟢 |
+| Ahirbudhnya Saṃhitā | 🟢 |
+| Vaikhānasa Kalpasūtra | 🟢 |
+
+### Major Candidates
+
+| Work | Status |
+|------|--------|
+| Jayākhya Saṃhitā | 🔵 |
 
 ---
 
 ## V-C. Śākta Tantras (शाक्त तन्त्र)
 
-**Status:** Editorial Review Pending
+**Status:** Editorial Review Completed
+
+### Core Candidates
+
+| Work | Status |
+|------|--------|
+| Tripurārahasya | 🟢 |
+| Yoginīhṛdaya | 🟢 |
+| Mahānirvāṇa Tantra | 🟢 |
+
+### Major Candidates
+
+Remaining Śrīvidyā works remain Major Candidates.
 
 ---
 
 ## V-D. General Tantric Literature (सामान्य तान्त्रिक साहित्य)
 
-**Status:** Editorial Review Pending
+**Status:** Editorial Review Completed
 
 ---
 
 # VI. Yoga (योग)
 
-**Status:** ✅ Frozen
+**Status:** ✅ Editorial Review Completed
 
 The Yoga section contains the foundational Yoga Śāstras that have shaped the theory and practice of Yoga within the Sanātana tradition.
 
-## VI-A. Classical Yoga
+## Core Candidates
 
 | Work | Status |
 |------|--------|
-| Yoga Sūtras of Patañjali | 🟢 |
+| Yoga Sūtra | 🟢 |
+| Haṭha Yoga Pradīpikā | 🟢 |
+| Śiva Saṃhitā | 🟢 |
+| Siddha Siddhānta Paddhati | 🟢 |
 
 ---
 
-## VI-B. Haṭha Yoga
+## Major Candidates
 
 | Work | Status |
 |------|--------|
-| Haṭha Yoga Pradīpikā | 🟢 |
-| Gheraṇḍa Saṁhitā | 🟢 |
-| Śiva Saṁhitā | 🟢 |
+| Gheraṇḍa Saṃhitā | 🔵 |
+| Gorakṣa Śataka | 🔵 |
+| Viveka Mārtaṇḍa | 🔵 |
+| Amaraugha Śāsana | 🔵 |
 
 ### Editorial Notes
 
 - The section includes foundational Yoga Śāstras only.
 - Works are classified according to their **primary contribution**, not merely their titles.
 - Classical commentaries and lineage-specific Yoga texts are documented elsewhere in the repository.
+- Siddha Siddhānta Paddhati is the Core representative for Nātha Yoga.
+- Mokṣa Śāstra works are not duplicated in the Yoga section.
 
 ### Editorial Exclusions
 
 - Bhagavad Gītā → Itihāsa
-- Yoga Vāsiṣṭha → Mokṣa Śāstra
 - Tantric Yoga texts → Tantra
 - Upaniṣadic Yoga discussions → Śruti
 
@@ -375,24 +420,50 @@ The Yoga section contains the foundational Yoga Śāstras that have shaped the t
 
 # VII. Bhakti Literature
 
-**Status:** ✅ Frozen
+**Status:** Architecture Refined • Editorial Review Significantly Advanced
 
 The Bhakti section will represent the principal devotional literature of Sanātana Dharma, encompassing works that have shaped the theology, philosophy, and practice of devotion across major traditions.
 
 Candidate works will be evaluated according to the Ādhāra Śilā Methodology, the Principle of Classification by Primary Contribution, and repository governance.
 
-## VII-A. Bhakti Sūtras
+## VII-A. Bhakti Śāstra
+
+### Core Candidates
 
 | Work | Status |
 |------|--------|
-| Nārada Bhakti Sūtras | 🟢 |
-| Śāṇḍilya Bhakti Sūtras | 🟢 |
+| Nārada Bhakti Sūtra | 🟢 |
+| Śāṇḍilya Bhakti Sūtra | 🟢 |
 
 ---
 
-## VII-B. Stotra Literature
+## VII-B. Devotional Poetry
 
-### Must Have
+### Core Candidates
+
+| Work | Status |
+|------|--------|
+| Gīta Govinda | 🟢 |
+
+---
+
+### Major Candidates
+
+| Work | Status |
+|------|--------|
+| Saundaryalaharī | 🔵 |
+| Śivānanda Laharī | 🔵 |
+| Mukunda Mālā | 🔵 |
+
+---
+
+## VII-C. Liturgical Literature
+
+**Status:** No editorial review this session; existing candidates retained unchanged.
+
+### Stotra Literature
+
+#### Core Candidates
 
 | Work | Status |
 |------|--------|
@@ -401,21 +472,18 @@ Candidate works will be evaluated according to the Ādhāra Śilā Methodology, 
 | Śiva Pañcākṣara Stotram | 🟢 |
 | Kanakadhārā Stotram | 🟢 |
 
----
-
-### Strong Candidates
+#### Major Candidates
 
 | Work | Status |
 |------|--------|
 | Bhaja Govindam | 🔵 |
-| Saundaryalaharī | 🔵 |
 | Śivamahimna Stotra | 🔵 |
 
 ---
 
-## VII-C. Sahasranāma Literature
+### Sahasranāma Literature
 
-### Must Have
+#### Core Candidates
 
 | Work | Status |
 |------|--------|
@@ -424,7 +492,7 @@ Candidate works will be evaluated according to the Ādhāra Śilā Methodology, 
 
 ---
 
-### Candidate
+#### Major Candidates
 
 | Work | Status |
 |------|--------|
@@ -492,3 +560,4 @@ Substantive governance changes should be reflected in the Decision Ledger before
 | 1.2 | 2026-07-26 | Synchronized with governance decisions DL-030 and DL-031 by incorporating the frozen editorial architecture for **Section V – Tantra & Āgama (तन्त्र एवं आगम)**, adopting the Principle of Classification by Primary Contribution throughout the editorial workflow, updating repository status to **Active Editorial Draft**, and refining pending sections to align with the Ādhāra Śilā framework. |
 | 1.3 | 2026-07-27 | Implemented the three-layer knowledge architecture, froze Section VI – Yoga and Section VII – Bhakti Literature, and created the approved architecture for Section VIII – Mantra & Liturgical Literature. |
 | 1.4 | 2026-07-29 | Synchronized purpose language with the current **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara** repository layers. |
+| 1.5 | 2026-08-04 | Synchronized ratified editorial refinements completing Section V – Tantra & Āgama and Section VI – Yoga review, advancing Section VII – Bhakti Literature architecture, and preserving Section VIII as the next active work package. |

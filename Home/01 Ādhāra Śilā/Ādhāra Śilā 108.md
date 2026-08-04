@@ -1,12 +1,12 @@
 # Ādhāra Śilā 108
 
-Version: 1.2
+Version: 1.3
 
 Status: Working Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-29
+Last Updated: 2026-08-04
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -45,7 +45,11 @@ The Ādhāra Śilā is designed to:
 
 # Current Progress
 
-**Sections Frozen:** **7 / 8**
+**Editorial Review Completed:** **Sections I–III, V–VI**
+
+**Editorial Review Advanced:** **Section VII**
+
+**Next Work Package:** **Section VIII – Mantra & Liturgical Literature**
 
 **Foundational Sources Finalized:** *In Progress (final count subject to editorial review).*
 
@@ -55,14 +59,14 @@ The Ādhāra Śilā is designed to:
 
 | Section | Status |
 |----------|--------|
-| I. Śruti | ✅ Frozen |
-| II. Itihāsa & Civilizational Epics | ✅ Frozen |
-| III. Purāṇa | ✅ Frozen |
-| IV. Dharma, Darśana & Philosophical Traditions | ✅ Frozen |
-| V. Tantra & Āgama | ✅ Frozen |
-| VI. Yoga | ✅ Frozen |
-| VII. Bhakti Literature | ✅ Frozen |
-| VIII. Mantra & Liturgical Literature | 🟡 In Progress |
+| I. Śruti | ✅ Finalized |
+| II. Itihāsa & Civilizational Epics | ✅ Finalized |
+| III. Purāṇa | ✅ Finalized |
+| IV. Dharma, Darśana & Philosophical Traditions | 🟡 Architecture Frozen • Editorial Review Ongoing |
+| V. Tantra & Āgama | ✅ Editorial Review Completed |
+| VI. Yoga | ✅ Editorial Review Completed |
+| VII. Bhakti Literature | 🟡 Architecture Refined • Significantly Advanced |
+| VIII. Mantra & Liturgical Literature | ⏳ Next Work Package |
 
 ---
 
@@ -70,7 +74,7 @@ The Ādhāra Śilā is designed to:
 
 ## I. Śruti
 
-**Status:** ✅ Frozen
+**Status:** ✅ Finalized
 
 See: *(Section page to be created)*
 
@@ -78,7 +82,7 @@ See: *(Section page to be created)*
 
 ## II. Itihāsa & Civilizational Epics
 
-**Status:** ✅ Frozen
+**Status:** ✅ Finalized
 
 See: *(Section page to be created)*
 
@@ -86,7 +90,7 @@ See: *(Section page to be created)*
 
 ## III. Purāṇa
 
-**Status:** ✅ Frozen
+**Status:** ✅ Finalized
 
 See: *(Section page to be created)*
 
@@ -94,7 +98,7 @@ See: *(Section page to be created)*
 
 ## IV. Dharma, Darśana & Philosophical Traditions
 
-**Status:** ✅ Frozen
+**Status:** 🟡 Architecture Frozen • Editorial Review Ongoing
 
 Scope:
 
@@ -108,7 +112,7 @@ Scope:
 
 ## V. Tantra & Āgama
 
-**Status:** ✅ Frozen
+**Status:** ✅ Editorial Review Completed
 
 Scope:
 
@@ -121,7 +125,7 @@ Scope:
 
 ## VI. Yoga
 
-**Status:** ✅ Frozen
+**Status:** ✅ Editorial Review Completed
 
 This section focuses on the principal textual traditions of Yoga beyond the philosophical foundations represented under the Ṣaḍ-Darśanas.
 
@@ -129,7 +133,7 @@ This section focuses on the principal textual traditions of Yoga beyond the phil
 
 ## VII. Bhakti Literature
 
-**Status:** ✅ Frozen
+**Status:** 🟡 Architecture Refined • Significantly Advanced
 
 This section represents the major devotional traditions of Sanātana Dharma through their principal scriptures, hymns, and theological literature.
 
@@ -137,7 +141,7 @@ This section represents the major devotional traditions of Sanātana Dharma thro
 
 ## VIII. Mantra & Liturgical Literature
 
-**Status:** 🟡 In Progress
+**Status:** ⏳ Next Work Package
 
 This section contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation remains under editorial review.
 
@@ -158,3 +162,4 @@ Many highly influential works are intentionally preserved within **Jīvanta Para
 | 1.0 | 2026-07-23 | Initial working draft of the Core Canon structure and editorial progress tracker. |
 | 1.1 | 2026-07-26 | Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)**, synchronized with the revised governance framework, froze Sections I–V, designated Section VI (Yoga) as the current editorial work area, and updated terminology and document references throughout. |
 | 1.2 | 2026-07-29 | Synchronized progress tracking with frozen Sections I–VII and the approved Section VIII – Mantra & Liturgical Literature architecture. |
+| 1.3 | 2026-08-04 | Synchronized progress tracking with repository version 5.1, completed Section V and Section VI editorial review, advanced Section VII, and retained Section VIII as the next work package. |

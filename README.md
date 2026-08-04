@@ -68,7 +68,7 @@ Constitution, governance, editorial standards, methodology, project status, and 
 Key AI continuity documents:
 
 - `Project Handover.md` — official AI synchronization document.
-- `AI_EDITOR.md` — AI operating manual for editing behavior.
+- `AI Editor.md` — AI operating manual for editing behavior.
 
 ## 01 Ādhāra Śilā (आधार शिला)
 
@@ -195,7 +195,7 @@ If you are new to the project, begin in the following order:
 2. Constitution.md
 3. Decision Ledger.md
 4. Project Status.md
-5. AI_EDITOR.md
+5. AI Editor.md
 6. 01 Ādhāra Śilā (आधार शिला)
 7. Follow related notes through Obsidian backlinks.
 
@@ -205,7 +205,7 @@ The repository is designed as an interconnected **knowledge graph**, rather than
 
 # Repository Versions
 
-**Repository Version:** 0.5
+**Repository Version:** 5.2
 
 **Constitution Version:** 1.2
 

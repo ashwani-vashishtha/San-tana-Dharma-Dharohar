@@ -19,7 +19,7 @@ Related Documents:
 - Ādhāra Śilā Editorial Guide.md
 - Research & Citation Policy.md
 - Project Handover.md
-- AI_EDITOR.md
+- AI Editor.md
 
 ---
 
@@ -31,7 +31,7 @@ It is no longer an active AI onboarding or operating document.
 
 Current AI session synchronization is maintained in **Project Handover.md**.
 
-Current AI editing behavior is maintained in **AI_EDITOR.md**.
+Current AI editing behavior is maintained in **AI Editor.md**.
 
 ---
 
@@ -83,7 +83,7 @@ Always follow repository governance in the following order:
 2. Decision Ledger.md
 3. Project Status.md
 4. handover.md
-5. AI_EDITOR.md
+5. AI Editor.md
 6. Ādhāra Śilā Methodology.md
 7. Ādhāra Śilā Taxonomy.md
 8. Ādhāra Śilā Editorial Guide.md
@@ -100,7 +100,7 @@ At the beginning of every new session:
 1. Read Project Handover.md.
 2. Confirm whether governance documents have changed since the handover was generated.
 3. Review Constitution.md, Decision Ledger.md, and Project Status.md.
-4. Consult AI_EDITOR.md for operating rules.
+4. Consult AI Editor.md for operating rules.
 5. Continue from the current work package and Next Task.
 6. Do not revisit completed milestones unless explicitly requested.
 
@@ -299,4 +299,4 @@ Every contribution should strengthen the repository's authenticity, clarity, con
 |---------|------|---------|
 | 1.0 | 2026-07-23 | Established the AI operating guide for the repository, defining governance hierarchy, startup workflow, editorial principles, research standards, AI responsibilities, limitations, and session completion procedures. |
 | 1.1 | 2026-07-26 | Aligned the AI operating guide with the revised governance framework. Updated terminology to **Ādhāra Śilā (आधार शिला)**, expanded repository philosophy and identity, formalized project evolution practices, strengthened AI operating principles, and reinforced the distinction between documenting traditions and acting as a source of authority. |
-| 1.2 | 2026-07-29 | Replaced the retired Session Starter dependency with **Project Handover.md** and **AI_EDITOR.md**, aligning AI context with the current AI handshake workflow. |
+| 1.2 | 2026-07-29 | Replaced the retired Session Starter dependency with **Project Handover.md** and **AI Editor.md**, aligning AI context with the current AI handshake workflow. |

@@ -1,18 +1,20 @@
 # Project Status
 
-Repository Version: 0.5
+Repository Version: 5.2
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-29
+Last Updated: 2026-08-04
 
 Owner: Sanātana Dharma Dharohar Project
 
 Related Documents:
 - Constitution.md
 - Decision Ledger.md
+- Project Handover.md
+- Release Notes.md
 - Ādhāra Śilā Methodology.md
 - Ādhāra Śilā Taxonomy.md
 - Ādhāra Śilā Editorial Guide.md
@@ -35,19 +37,25 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Milestone
 
-**Milestone 2 – Ādhāra Śilā Architecture**
+**Milestone 3 – Ādhāra Śilā v1.0**
 
 ---
 
 # Current Phase
 
-**Editorial Review & Foundational Source Finalization**
+**Active Editorial Development**
 
 ---
 
 # Current Work Package
 
-Review the **Master Candidate List** and finalize the allocation and selection of the **108 Ādhāra Śilā (आधार शिला) Foundational Sources**.
+Continue editorial review from the next unresolved candidate in:
+
+**Master Candidate List.md**
+
+Current editorial focus: **Section VII – Bhakti Literature**
+
+Next recommended work package: **Section VIII – Mantra & Liturgical Literature**
 
 ---
 
@@ -55,17 +63,19 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 
 ## Governance
 
-- ✅ Constitution v1.1
-- ✅ Decision Ledger
+- ✅ Constitution v1.2
+- ✅ Decision Ledger v1.5
 - ✅ Repository Structure
 - ✅ Metadata Standard
 - 🟡 Research & Citation Policy (Framework established; content pending)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
+- ✅ Project Handover v5.2 operational framework
+- ✅ Release Notes workflow adopted
 
 ## Editorial Framework
 
-- 🟡 Ādhāra Śilā Methodology (Framework approved; content under development)
+- 🟡 Ādhāra Śilā Methodology v2.1 (Approved; content requires review)
 - ✅ Ādhāra Śilā Taxonomy
 - ✅ Ādhāra Śilā Editorial Guide
 - ✅ Editorial Classification Framework
@@ -75,9 +85,11 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 
 - 🟡 Master Candidate List (Active Editorial Draft)
 - ✅ Sections I–III Finalized
-- 🟡 Sections IV–V Under Editorial Review
-- ✅ Sections VI–VII Frozen
-- 🟡 Section VIII Editorial Review Pending
+- 🟡 Section IV Architecture Frozen • Editorial Review Ongoing
+- ✅ Section V – Tantra & Āgama Editorial Review Completed
+- ✅ Section VI – Yoga Editorial Review Completed
+- 🟡 Section VII – Bhakti Literature Significantly Advanced
+- ⏳ Section VIII – Mantra & Liturgical Literature Next Recommended Work Package
 - ⏳ Final Ādhāra Śilā 108
 - ⏳ Source IDs
 - ⏳ Sādhana Sheets
@@ -145,13 +157,16 @@ This layer preserves the richness of Sanātana Dharma without imposing canonical
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on evaluating candidate resources and freezing the final **108 Ādhāra Śilā (आधार शिला) Foundational Sources**, which will serve as the permanent foundation of the repository.
+Current effort is focused on **Core Canon Curation** through the next unresolved candidate in **Master Candidate List.md**, with current editorial focus on **Section VII – Bhakti Literature**.
 
 ---
 
 # In Progress
 
-- ⏳ Editorial review of candidate resources
+- ✅ Section V – Tantra & Āgama editorial review completed
+- ✅ Section VI – Yoga editorial review completed
+- 🟡 Continue Section VII – Bhakti Literature from the next unresolved candidate
+- ⏳ Section VIII – Mantra & Liturgical Literature next recommended work package
 - ⏳ Final allocation across the Ādhāra Śilā taxonomy
 - ⏳ Selection of the Final Ādhāra Śilā 108
 
@@ -168,20 +183,21 @@ Current effort is focused on evaluating candidate resources and freezing the fin
 
 # Next Task
 
-Review the **Master Candidate List** against:
+Continue editorial review from the next unresolved candidate in **Master Candidate List.md** against:
 
 - Constitution
+- Decision Ledger
 - Ādhāra Śilā Methodology
 - Ādhāra Śilā Taxonomy
 - Evidence Hierarchy
 
-Approve or reject every candidate until the **Ādhāra Śilā 108** is frozen.
+Continue candidate evaluation and repository-layer allocation without reopening frozen sections unless new evidence or explicit instruction requires review.
 
 ---
 
 # Next Milestone
 
-## Milestone 3 — Ādhāra Śilā v1.0
+## Repository Version 1.0 Freeze
 
 ### Deliverables
 
@@ -213,7 +229,9 @@ These items are intentionally deferred and shall not affect the current mileston
 | Repository Structure | ✅ Frozen |
 | Constitution | ✅ Frozen |
 | Decision Ledger | ✅ Frozen |
-| Editorial Methodology | ✅ Frozen |
+| Project Handover | ✅ Approved |
+| Release Notes | ✅ Active |
+| Editorial Methodology | 🟡 Approved; content requires review |
 | Editorial Guide | ✅ Frozen |
 | Taxonomy | ✅ Frozen |
 | Master Candidate List | 🟡 Under Editorial Review |
@@ -231,6 +249,9 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-07-27 | Established the three-layer knowledge architecture: **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
 | 2026-07-29 | Synchronized project status with the Project Handover protocol and the finalized distinction between textual works and curated practice collections. |
 | 2026-08-04 | Established the repository operational framework consisting of Project Handover.md, AI Editor.md and Codex Operating Guide.md.|
+| 2026-08-04 | Synchronized Project Status.md with Project Handover.md v5.0, Milestone 3, and Section VIII active editorial work. |
+| 2026-08-04 | Updated repository version to 5.1 after completing Section V and Section VI editorial review and significantly advancing Section VII. |
+| 2026-08-04 | Updated repository version to 5.2 for Repository Operational Maturity, adopting Release Notes.md and stabilizing Project Handover.md as the operational control document. |
 
 
 ---
@@ -244,3 +265,5 @@ These items are intentionally deferred and shall not affect the current mileston
 | 0.3 | 2026-07-26 | Repository terminology updated to **Ādhāra Śilā (आधार शिला)**. Project philosophy, roadmap, milestone tracking, and Ādhāra Śilā development progress synchronized with the revised governance framework. |
 | 0.4 | 2026-07-27 | Added the three-layer repository knowledge architecture distinguishing **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
 | 0.5 | 2026-07-29 | Synchronized status language with the Project Handover protocol and the accepted separation of textual works, practice collections, and preservation resources. |
+| 5.1 | 2026-08-04 | Minor editorial milestone update. Completed and refined multiple major editorial work packages while preserving repository architecture. |
+| 5.2 | 2026-08-04 | Repository Operational Maturity release. Stabilized Project Handover.md as the operational control document, adopted Release Notes.md, and standardized repository operating terminology. |
