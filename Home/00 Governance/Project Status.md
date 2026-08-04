@@ -59,13 +59,13 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 - ✅ Decision Ledger
 - ✅ Repository Structure
 - ✅ Metadata Standard
-- ✅ Research & Citation Policy
+- 🟡 Research & Citation Policy (Framework established; content pending)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
 
 ## Editorial Framework
 
-- ✅ Ādhāra Śilā Methodology
+- 🟡 Ādhāra Śilā Methodology (Framework approved; content under development)
 - ✅ Ādhāra Śilā Taxonomy
 - ✅ Ādhāra Śilā Editorial Guide
 - ✅ Editorial Classification Framework
@@ -73,9 +73,11 @@ Review the **Master Candidate List** and finalize the allocation and selection o
 
 ## Ādhāra Śilā Development
 
-- ✅ Master Candidate List
-- ✅ Sections I–VII Frozen
-- 🟡 Section VIII Under Editorial Review
+- 🟡 Master Candidate List (Active Editorial Draft)
+- ✅ Sections I–III Finalized
+- 🟡 Sections IV–V Under Editorial Review
+- ✅ Sections VI–VII Frozen
+- 🟡 Section VIII Editorial Review Pending
 - ⏳ Final Ādhāra Śilā 108
 - ⏳ Source IDs
 - ⏳ Sādhana Sheets
@@ -215,7 +217,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Editorial Guide | ✅ Frozen |
 | Taxonomy | ✅ Frozen |
 | Master Candidate List | 🟡 Under Editorial Review |
-| Ādhāra Śilā 108 | 🟡 Sections I–VII Frozen; Section VIII In Progress |
+| Ādhāra Śilā 108 | 🟡 Editorial curation in progress |
 
 ---
 
@@ -228,6 +230,8 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-07-26 | Introduced the Project Evolution Principle to capture future ideas while maintaining milestone focus. |
 | 2026-07-27 | Established the three-layer knowledge architecture: **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**. |
 | 2026-07-29 | Synchronized project status with the Project Handover protocol and the finalized distinction between textual works and curated practice collections. |
+| 2026-08-04 | Established the repository operational framework consisting of Project Handover.md, AI Editor.md and Codex Operating Guide.md.|
+
 
 ---
 
