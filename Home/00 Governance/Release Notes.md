@@ -2,6 +2,63 @@
 
 ---
 
+# Version 5.3
+
+**Release Name:** Ādhāra Śilā Editorial Freeze
+
+**Release Date:** 2026-08-08
+
+## Summary
+
+Version 5.3 captures the completion of the major editorial architecture of **Ādhāra Śilā (आधार शिला)**. Sections IV, VII, and VIII are now permanently frozen, and the repository has been synchronized for the transition into repository QA followed by **Jīvanta Paramparā**.
+
+---
+
+## Editorial Milestones
+
+- Section IV – Dharma, Darśana & Philosophical Traditions permanently frozen.
+- Section VII – Bhakti Literature permanently frozen.
+- Section VIII – Mantra & Liturgical Literature permanently frozen.
+- Universal Mantras established.
+- Principal Mantras architecture finalized.
+- Canonical Bīja Mantras established.
+- Canonical Vedic Sūktas finalized.
+- Kavaca Literature finalized.
+
+---
+
+## Architectural Refinements
+
+- Classification by primary literary form adopted repository-wide.
+- Practice-oriented material assigned to **Jīvanta Paramparā**.
+- Ādhāra Śilā scope reaffirmed as individual foundational textual works.
+
+---
+
+## Repository Simplification
+
+- Liturgical Texts removed from Ādhāra Śilā as a separate category.
+- Nitya Pārāyaṇa removed from Ādhāra Śilā.
+- Vaidika Prayoga removed as an Ādhāra Śilā subsection.
+
+---
+
+## Governance Synchronization
+
+- Project Status synchronized to repository version 5.3.
+- Project Handover regenerated for the next ChatGPT session.
+- Decision Ledger synchronized with approved editorial freeze decisions.
+- Master Candidate List and Ādhāra Śilā 108 synchronized with frozen section status.
+- README synchronized with the current repository version and milestone.
+
+---
+
+## Next Phase
+
+Repository QA followed by **Jīvanta Paramparā**.
+
+---
+
 # Version 5.2
 
 **Release Name:** Repository Operational Maturity

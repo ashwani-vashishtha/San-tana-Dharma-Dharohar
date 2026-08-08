@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 1.5
+Version: 1.6
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-07-29
+Last Updated: 2026-08-08
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -95,6 +95,19 @@ The following decision states are used throughout this ledger.
 | DL-035 | Project Handover as AI Handshake Protocol | Frozen |
 | DL-036 | Foundational Kavaca Selection Principle | Frozen |
 | DL-037 | Ritual Procedures vs Textual Works | Frozen |
+| DL-038 | Section IV Permanently Frozen | Frozen |
+| DL-039 | Section VII Permanently Frozen | Frozen |
+| DL-040 | Section VIII Permanently Frozen | Frozen |
+| DL-041 | Universal Mantras Established | Frozen |
+| DL-042 | Principal Mantras Architecture Finalized | Frozen |
+| DL-043 | Canonical Bīja Mantras Established | Frozen |
+| DL-044 | Canonical Vedic Sūktas Finalized | Frozen |
+| DL-045 | Kavaca Literature Finalized | Frozen |
+| DL-046 | Liturgical Texts Removed from Ādhāra Śilā | Frozen |
+| DL-047 | Nitya Pārāyaṇa Removed from Ādhāra Śilā | Frozen |
+| DL-048 | Vaidika Prayoga Removed as Ādhāra Śilā Subsection | Frozen |
+| DL-049 | Practice-Oriented Material Assigned to Jīvanta Paramparā | Frozen |
+| DL-050 | Classification by Primary Literary Form Adopted Repository-Wide | Frozen |
 
 ---
 
@@ -113,6 +126,214 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-050 — Classification by Primary Literary Form Adopted Repository-Wide
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Classification by primary literary form is adopted repository-wide.
+
+### Reason
+
+This stabilizes repository classification after the Ādhāra Śilā Editorial Freeze and supports consistent allocation between foundational textual works and practice-oriented collections.
+
+---
+
+## DL-049 — Practice-Oriented Material Assigned to Jīvanta Paramparā
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Practice-oriented material belongs within **Jīvanta Paramparā** rather than **Ādhāra Śilā**.
+
+### Reason
+
+This preserves the distinction between foundational textual works and living-practice collections within the repository's three-layer architecture.
+
+---
+
+## DL-048 — Vaidika Prayoga Removed as Ādhāra Śilā Subsection
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Vaidika Prayoga is not retained as an independent Ādhāra Śilā subsection.
+
+### Reason
+
+Vaidika Prayoga is practice-oriented and is therefore assigned to **Jīvanta Paramparā**.
+
+---
+
+## DL-047 — Nitya Pārāyaṇa Removed from Ādhāra Śilā
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Nitya Pārāyaṇa is not retained as an independent Ādhāra Śilā category.
+
+### Reason
+
+Nitya Pārāyaṇa represents curated recitation practice and belongs within **Jīvanta Paramparā**.
+
+---
+
+## DL-046 — Liturgical Texts Removed from Ādhāra Śilā
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Liturgical Texts are not retained as a separate Ādhāra Śilā category.
+
+### Reason
+
+Liturgical materials that function primarily as practice collections belong in **Jīvanta Paramparā** rather than the foundational textual canon.
+
+---
+
+## DL-045 — Kavaca Literature Finalized
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Kavaca Literature is finalized within the approved Section VIII architecture.
+
+### Reason
+
+Finalizing Kavaca Literature stabilizes the mantra and liturgical literature architecture while preserving the foundational Kavaca selection principle.
+
+---
+
+## DL-044 — Canonical Vedic Sūktas Finalized
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Canonical Vedic Sūktas are finalized within the approved Section VIII architecture.
+
+### Reason
+
+This establishes the canonical Sūkta boundary for Ādhāra Śilā without expanding into practice collections.
+
+---
+
+## DL-043 — Canonical Bīja Mantras Established
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Canonical Bīja Mantras are established within the approved Section VIII architecture.
+
+### Reason
+
+This preserves representative mantra coverage while keeping specialized and practice-specific material outside Ādhāra Śilā.
+
+---
+
+## DL-042 — Principal Mantras Architecture Finalized
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+The Principal Mantras architecture is finalized within Section VIII.
+
+### Reason
+
+This stabilizes the representation of principal mantra literature within Ādhāra Śilā.
+
+---
+
+## DL-041 — Universal Mantras Established
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Universal Mantras are established within the approved Section VIII architecture.
+
+### Reason
+
+This records the finalized representative place of universally recognized mantra material within Ādhāra Śilā.
+
+---
+
+## DL-040 — Section VIII Permanently Frozen
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Section VIII – Mantra & Liturgical Literature is permanently frozen.
+
+### Reason
+
+The approved editorial review cycle finalized Section VIII and assigned practice-oriented material to **Jīvanta Paramparā**.
+
+---
+
+## DL-039 — Section VII Permanently Frozen
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Section VII – Bhakti Literature is permanently frozen.
+
+### Reason
+
+The approved editorial review cycle finalized the Bhakti Literature architecture.
+
+---
+
+## DL-038 — Section IV Permanently Frozen
+
+**Status:** Frozen
+
+**Date:** 2026-08-08
+
+### Decision
+
+Section IV – Dharma, Darśana & Philosophical Traditions is permanently frozen.
+
+### Reason
+
+The approved editorial review cycle finalized Section IV as part of the Ādhāra Śilā Editorial Freeze.
 
 ---
 
@@ -279,3 +500,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.3 | 2026-07-26 | Added DL-031 establishing the Principle of Classification by Primary Contribution and finalized it as a permanent editorial governance rule. |
 | 1.4 | 2026-07-27 | Added DL-032 through DL-034 establishing the three-layer knowledge architecture, Master Candidate inclusion principle, and scope of Jīvanta Paramparā. |
 | 1.5 | 2026-07-29 | Added DL-035 through DL-037 establishing the Project Handover as the official AI handshake protocol, defining the foundational Kavaca selection principle, and formally distinguishing textual works from curated practice collections within the three-layer knowledge architecture. |
+| 1.6 | 2026-08-08 | Synchronized approved Ādhāra Śilā Editorial Freeze decisions, including permanent freeze status for Sections IV, VII, and VIII; finalized Mantra and Liturgical Literature architecture; repository-wide classification by primary literary form; removal of practice-oriented categories from Ādhāra Śilā; and assignment of practice-oriented material to Jīvanta Paramparā. |

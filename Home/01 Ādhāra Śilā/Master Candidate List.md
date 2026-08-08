@@ -1,12 +1,12 @@
 # Master Candidate List
 
-Version: 1.5
+Version: 1.6
 
 Status: Active Editorial Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-04
+Last Updated: 2026-08-08
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -167,7 +167,7 @@ Following editorial review, accepted works are assigned one of the following rep
 
 # IV. Dharma, Darśana & Philosophical Traditions (धर्म, दर्शन एवं दार्शनिक परम्पराएँ)
 
-**Status:** Architecture Frozen • Editorial Review Ongoing
+**Status:** Permanently Frozen
 
 ---
 
@@ -280,13 +280,13 @@ Foundational literature on ethics, practical wisdom and statecraft.
 
 ### Viśiṣṭādvaita (विशिष्टाद्वैत)
 
-**Status:** Editorial Review Pending
+**Status:** Permanently Frozen
 
 ---
 
 ### Dvaita (द्वैत)
 
-**Status:** Editorial Review Pending
+**Status:** Permanently Frozen
 
 ---
 
@@ -420,7 +420,7 @@ The Yoga section contains the foundational Yoga Śāstras that have shaped the t
 
 # VII. Bhakti Literature
 
-**Status:** Architecture Refined • Editorial Review Significantly Advanced
+**Status:** Permanently Frozen
 
 The Bhakti section will represent the principal devotional literature of Sanātana Dharma, encompassing works that have shaped the theology, philosophy, and practice of devotion across major traditions.
 
@@ -457,9 +457,9 @@ Candidate works will be evaluated according to the Ādhāra Śilā Methodology, 
 
 ---
 
-## VII-C. Liturgical Literature
+## VII-C. Stotra & Sahasranāma Literature
 
-**Status:** No editorial review this session; existing candidates retained unchanged.
+**Status:** Permanently Frozen
 
 ### Stotra Literature
 
@@ -506,7 +506,7 @@ Literary forms such as Aṣṭakam, Stavam, Stuti, and Pañcaratnam are recogniz
 
 ### Editorial Exclusions
 
-Move the following to Section VIII.
+The following are excluded from Section VII.
 
 - Kavaca Literature
 - Vedic Sūktas
@@ -517,25 +517,42 @@ Move the following to Section VIII.
 
 # VIII. Mantra & Liturgical Literature
 
-**Status:** Editorial Review Pending
+**Status:** Permanently Frozen
 
-## VIII-A. Mūla Mantras
+## VIII-A. Universal Mantras
 
-## VIII-B. Vedic Sūktas
+**Status:** Established
 
-## VIII-C. Kavaca Literature
+## VIII-B. Principal Mantras
 
-## VIII-D. Liturgical Scriptures
+**Status:** Architecture Finalized
 
-## VIII-E. Nitya Pārāyaṇa
+## VIII-C. Canonical Bīja Mantras
 
-## VIII-F. Vaidika Prayoga Mantras
+**Status:** Established
 
-## VIII-G. Saṁskāra Mantras
+## VIII-D. Canonical Vedic Sūktas
+
+**Status:** Finalized
+
+## VIII-E. Kavaca Literature
+
+**Status:** Finalized
 
 ### Editorial Note
 
-This section intentionally contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation will occur during the dedicated editorial review of Section VIII.
+Section VIII is limited to approved canonical mantra and liturgical textual forms eligible for Ādhāra Śilā.
+
+Practice-oriented material is assigned to **Jīvanta Paramparā**.
+
+### Editorial Exclusions
+
+The following are not retained as Ādhāra Śilā categories or subsections.
+
+- Liturgical Texts
+- Nitya Pārāyaṇa
+- Vaidika Prayoga
+- Saṁskāra Mantras
 
 ---
 
@@ -545,7 +562,7 @@ This document is a living editorial workspace.
 
 Candidate status, editorial classifications, and repository placement may change as research progresses.
 
-Editorial classification follows the **Principle of Classification by Primary Contribution** as established in the Decision Ledger.
+Editorial classification follows repository governance on classification by primary literary form and primary contribution.
 
 Substantive governance changes should be reflected in the Decision Ledger before being incorporated into this document.
 
@@ -561,3 +578,4 @@ Substantive governance changes should be reflected in the Decision Ledger before
 | 1.3 | 2026-07-27 | Implemented the three-layer knowledge architecture, froze Section VI – Yoga and Section VII – Bhakti Literature, and created the approved architecture for Section VIII – Mantra & Liturgical Literature. |
 | 1.4 | 2026-07-29 | Synchronized purpose language with the current **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara** repository layers. |
 | 1.5 | 2026-08-04 | Synchronized ratified editorial refinements completing Section V – Tantra & Āgama and Section VI – Yoga review, advancing Section VII – Bhakti Literature architecture, and preserving Section VIII as the next active work package. |
+| 1.6 | 2026-08-08 | Synchronized the Ādhāra Śilā Editorial Freeze by permanently freezing Sections IV, VII, and VIII; finalizing Section VIII architecture; and assigning practice-oriented material to Jīvanta Paramparā. |
