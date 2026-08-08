@@ -1,148 +1,239 @@
-# Sanātana Dharma Dharohar
+# Codex Synchronization Prompt
+
 ## Repository Synchronization
-## Version Update: 5.1 → 5.2
 
-Release Name:
-Repository Operational Maturity
+## Version Update: **5.2 → 5.3**
 
--------------------------------------------------------------------------------
-OBJECTIVE
--------------------------------------------------------------------------------
+### Release Name
 
-Synchronize the repository based on today's approved editorial and operational decisions.
+**Ādhāra Śilā Editorial Freeze**
+
+---
+# Status: Active
+
+This document is updated for every repository synchronization.
+
+# OBJECTIVE
+
+Synchronize the repository based on the approved editorial decisions completed since Version 5.2.
 
 This is a repository synchronization task.
 
-Do NOT perform new editorial analysis.
+* Do NOT perform new editorial analysis.
+* Do NOT introduce new governance decisions.
+* Do NOT modify repository architecture.
+* Synchronize the repository while preserving internal consistency.
+* When uncertainty exists, report it rather than making assumptions.
 
-Do NOT introduce new governance decisions.
+---
 
-Synchronize the repository while preserving internal consistency.
+# OPERATING INSTRUCTIONS
 
--------------------------------------------------------------------------------
-VERSION
--------------------------------------------------------------------------------
+Execute this synchronization in accordance with:
+
+* **Codex Operating Guide.md**
+
+Follow the governance hierarchy defined therein.
+
+Treat:
+
+* **Project Handover.md** as the operational source of truth.
+* **Constitution.md** as the highest governance authority.
+
+Synchronize only approved repository decisions.
+
+---
+
+# VERSION
 
 Update repository version:
 
-5.1 → 5.2
+**5.2 → 5.3**
 
 Reason:
 
-Operational maturity release.
+**Ādhāra Śilā Editorial Freeze**
 
-This release establishes Project Handover.md as the repository's stable operational control document, introduces Release Notes.md into the governance workflow, and standardizes repository operating terminology.
+This release captures the completion of the major editorial architecture of Ādhāra Śilā, including the permanent freezing of Sections IV, VII and VIII, together with repository-wide architectural refinements approved during the current editorial cycle.
 
--------------------------------------------------------------------------------
-FILES TO REVIEW
--------------------------------------------------------------------------------
+---
+
+# FILES TO REVIEW
 
 Review and synchronize all affected governance documents, including (but not limited to):
 
-• Home/00 Governance/Project Handover.md
-• Home/00 Governance/Project Status.md
-• Home/00 Governance/Release Notes.md
-• Home/00 Governance/Decision Ledger.md
-• Home/01 Ādhāra Śilā/Master Candidate List.md
-• Home/01 Ādhāra Śilā/Ādhāra Śilā 108.md
-• README.md
+* Home/00 Governance/Project Handover.md
+* Home/00 Governance/Project Status.md
+* Home/00 Governance/Release Notes.md
+* Home/00 Governance/Decision Ledger.md
+* Home/01 Ādhāra Śilā/Master Candidate List.md
+* Home/01 Ādhāra Śilā/Ādhāra Śilā 108.md
+* README.md
 
-Synchronize any additional documents if required.
+Synchronize additional documents only where necessary to preserve repository consistency.
 
--------------------------------------------------------------------------------
-PROJECT HANDOVER
--------------------------------------------------------------------------------
+---
 
-Replace the existing Project Handover.md with the approved Version 5.2 editorial refactor.
+# PROJECT HANDOVER
 
-The updated Project Handover is now considered the repository's baseline operational document.
+Preserve the existing Version 5.2 structure.
 
-Do not redesign or reorganize its structure.
+Do NOT redesign headings, workflow or organization.
 
-Synchronize only operational content in future releases unless explicitly instructed.
+Update operational content only.
 
--------------------------------------------------------------------------------
-RELEASE NOTES
--------------------------------------------------------------------------------
+Reflect:
 
-Update Release Notes.md.
+* Repository Version 5.3.
+* Release: Ādhāra Śilā Editorial Freeze.
+* Sections IV, VII and VIII permanently frozen.
+* Repository architecture stabilized.
+* Current Phase:
 
-Add Version 5.2.
+  * Repository Synchronization & QA.
+* Current Work Package:
 
-Release Name:
+  * Repository-wide synchronization.
+* Next Phase:
 
-Repository Operational Maturity
+  * Jīvanta Paramparā.
+
+Update only the Synchronization Assistant sections permitted by the Codex Operating Guide.
+
+---
+
+# RELEASE NOTES
+
+Add Version 5.3.
+
+## Release Name
+
+Ādhāra Śilā Editorial Freeze
 
 Include:
 
-Summary
+* Summary
+* Editorial Milestones
+* Architectural Refinements
+* Repository Simplification
+* Governance Synchronization
+* Next Phase
 
-Operational Improvements
+Retain all previous release history.
 
-Repository Workflow
+---
 
-Synchronization Improvements
+# PROJECT STATUS
 
-Governance
+Update:
 
-Repository
+* Repository Version → 5.3.
+* Current Milestone →
+  **Milestone 3 – Ādhāra Śilā Editorial Freeze**
+* Current Phase →
+  Repository Synchronization & QA.
+* Current Work Package →
+  Repository Synchronization.
+* Next Work Package →
+  Repository QA followed by Jīvanta Paramparā.
 
-Retain Version 5.1 as the previous release.
+Reflect that:
 
--------------------------------------------------------------------------------
-PROJECT STATUS
--------------------------------------------------------------------------------
+* Section IV is frozen.
+* Section VII is frozen.
+* Section VIII is frozen.
 
-Update Project Status.md to reflect:
+---
 
-• Repository Version 5.2
-• Project Handover operational refactor completed.
-• Release Notes workflow adopted.
-• Repository operational framework stabilized.
-• Current milestone unchanged.
-• Current editorial work unchanged.
+# DECISION LEDGER
 
--------------------------------------------------------------------------------
-MASTER CANDIDATE LIST
--------------------------------------------------------------------------------
+Record only approved editorial decisions.
 
-No editorial review occurred after Version 5.1.
+Include:
 
-Verify consistency only.
+* Section IV permanently frozen.
+* Section VII permanently frozen.
+* Section VIII permanently frozen.
+* Universal Mantras established.
+* Principal Mantras architecture finalized.
+* Canonical Bīja Mantras established.
+* Canonical Vedic Sūktas finalized.
+* Kavaca Literature finalized.
+* Removal of Liturgical Texts from Ādhāra Śilā.
+* Removal of Nitya Pārāyaṇa from Ādhāra Śilā.
+* Removal of Vaidika Prayoga as an Ādhāra Śilā subsection.
+* Classification by primary literary form adopted repository-wide.
+* Practice-oriented material assigned to Jīvanta Paramparā.
 
-No candidate changes unless inconsistencies are detected.
+Do NOT introduce additional governance decisions.
 
--------------------------------------------------------------------------------
-ĀDHĀRA ŚILĀ 108
--------------------------------------------------------------------------------
+---
 
-Verify synchronization only.
+# MASTER CANDIDATE LIST
 
-No editorial changes.
+Synchronize all approved editorial changes.
 
--------------------------------------------------------------------------------
-README
--------------------------------------------------------------------------------
+Reflect:
 
-Update repository version:
+* Final Section IV.
+* Final Section VII.
+* Final Section VIII.
 
-5.2
+Do NOT perform new editorial evaluation.
 
-Update references if required.
+Report inconsistencies if detected.
 
--------------------------------------------------------------------------------
-DECISION LEDGER
--------------------------------------------------------------------------------
+---
 
-No governance changes were approved.
+# ĀDHĀRA ŚILĀ 108
 
-Do not modify Decision Ledger unless repository policy requires recording the adoption of Release Notes.md or Project Handover.md as operational governance improvements.
+Synchronize only where approved editorial decisions affect the Core Canon.
 
-If no update is required, report this explicitly.
+If no modifications are required, explicitly report that no synchronization was necessary.
 
--------------------------------------------------------------------------------
-VALIDATION
--------------------------------------------------------------------------------
+---
+
+# README
+
+Update:
+
+* Repository Version → 5.3.
+* Current Milestone.
+* Repository Status.
+
+Perform only minimal updates.
+
+---
+
+# SYNCHRONIZATION SCOPE
+
+This synchronization includes:
+
+✓ Governance document updates.
+
+✓ Editorial synchronization.
+
+✓ Repository consistency validation.
+
+✓ Metadata consistency.
+
+✓ Cross-document validation.
+
+This synchronization excludes:
+
+✗ Editorial analysis.
+
+✗ Canon evaluation.
+
+✗ Governance redesign.
+
+✗ Repository restructuring.
+
+✗ Repository architecture changes.
+
+---
+
+# VALIDATION
 
 Before completing synchronization verify:
 
@@ -152,7 +243,9 @@ Before completing synchronization verify:
 
 ✓ Project Status synchronized.
 
-✓ Release Notes synchronized.
+✓ Release Notes updated.
+
+✓ Decision Ledger synchronized.
 
 ✓ Master Candidate List synchronized.
 
@@ -160,17 +253,19 @@ Before completing synchronization verify:
 
 ✓ README synchronized.
 
-✓ Current Work Package remains consistent.
+✓ Frozen sections consistently reflected.
 
-✓ Editorial Work Queue remains consistent.
+✓ Editorial principles remain internally consistent.
 
-✓ Repository Maintenance Queue remains consistent.
+✓ Repository architecture preserved.
 
-✓ No governance inconsistencies detected.
+✓ No unintended duplication introduced.
 
--------------------------------------------------------------------------------
-OUTPUT
--------------------------------------------------------------------------------
+✓ Internal references remain valid.
+
+---
+
+# OUTPUT
 
 Provide:
 
@@ -184,16 +279,33 @@ Provide:
 
 5. Validation Results.
 
-6. Repository Health Observations.
+6. Repository Health Assessment.
 
-7. Manual Review Items.
+7. File Review Required.
 
--------------------------------------------------------------------------------
-IMPORTANT
--------------------------------------------------------------------------------
+8. Technical Debt.
 
-Treat Project Handover.md as a stable operational governance artefact.
+9. Recommendations.
 
-Do not redesign its structure, headings, organization, or workflow.
+10. Warnings.
 
-Future synchronizations should update operational content only unless the Repository Owner explicitly requests structural changes.
+11. Manual Review Items.
+
+---
+
+# IMPORTANT
+
+Treat **Project Handover.md** as the repository's stable operational governance document.
+
+Do NOT redesign its structure.
+
+Do NOT reorganize governance documents.
+
+Synchronize approved editorial decisions only.
+
+When uncertainty exists:
+
+* preserve the existing repository state;
+* report the issue rather than introducing editorial interpretation.
+
+Follow the Codex Operating Guide throughout the synchronization process.

@@ -1,12 +1,12 @@
 # Ādhāra Śilā 108
 
-Version: 1.3
+Version: 1.4
 
 Status: Working Draft
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-04
+Last Updated: 2026-08-08
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -45,11 +45,11 @@ The Ādhāra Śilā is designed to:
 
 # Current Progress
 
-**Editorial Review Completed:** **Sections I–III, V–VI**
+**Editorial Review Completed:** **Sections I–VIII**
 
-**Editorial Review Advanced:** **Section VII**
+**Editorial Freeze:** **Sections IV, VII, and VIII permanently frozen**
 
-**Next Work Package:** **Section VIII – Mantra & Liturgical Literature**
+**Next Work Package:** **Repository QA followed by Jīvanta Paramparā**
 
 **Foundational Sources Finalized:** *In Progress (final count subject to editorial review).*
 
@@ -62,11 +62,11 @@ The Ādhāra Śilā is designed to:
 | I. Śruti | ✅ Finalized |
 | II. Itihāsa & Civilizational Epics | ✅ Finalized |
 | III. Purāṇa | ✅ Finalized |
-| IV. Dharma, Darśana & Philosophical Traditions | 🟡 Architecture Frozen • Editorial Review Ongoing |
+| IV. Dharma, Darśana & Philosophical Traditions | ✅ Permanently Frozen |
 | V. Tantra & Āgama | ✅ Editorial Review Completed |
 | VI. Yoga | ✅ Editorial Review Completed |
-| VII. Bhakti Literature | 🟡 Architecture Refined • Significantly Advanced |
-| VIII. Mantra & Liturgical Literature | ⏳ Next Work Package |
+| VII. Bhakti Literature | ✅ Permanently Frozen |
+| VIII. Mantra & Liturgical Literature | ✅ Permanently Frozen |
 
 ---
 
@@ -98,7 +98,7 @@ See: *(Section page to be created)*
 
 ## IV. Dharma, Darśana & Philosophical Traditions
 
-**Status:** 🟡 Architecture Frozen • Editorial Review Ongoing
+**Status:** ✅ Permanently Frozen
 
 Scope:
 
@@ -133,7 +133,7 @@ This section focuses on the principal textual traditions of Yoga beyond the phil
 
 ## VII. Bhakti Literature
 
-**Status:** 🟡 Architecture Refined • Significantly Advanced
+**Status:** ✅ Permanently Frozen
 
 This section represents the major devotional traditions of Sanātana Dharma through their principal scriptures, hymns, and theological literature.
 
@@ -141,9 +141,11 @@ This section represents the major devotional traditions of Sanātana Dharma thro
 
 ## VIII. Mantra & Liturgical Literature
 
-**Status:** ⏳ Next Work Package
+**Status:** ✅ Permanently Frozen
 
-This section contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation remains under editorial review.
+This section is limited to approved canonical mantra and liturgical textual forms eligible for Ādhāra Śilā.
+
+Practice-oriented material is assigned to **Jīvanta Paramparā**.
 
 ---
 
@@ -163,3 +165,4 @@ Many highly influential works are intentionally preserved within **Jīvanta Para
 | 1.1 | 2026-07-26 | Renamed **Core Canon** to **Ādhāra Śilā (आधार शिला)**, synchronized with the revised governance framework, froze Sections I–V, designated Section VI (Yoga) as the current editorial work area, and updated terminology and document references throughout. |
 | 1.2 | 2026-07-29 | Synchronized progress tracking with frozen Sections I–VII and the approved Section VIII – Mantra & Liturgical Literature architecture. |
 | 1.3 | 2026-08-04 | Synchronized progress tracking with repository version 5.1, completed Section V and Section VI editorial review, advanced Section VII, and retained Section VIII as the next work package. |
+| 1.4 | 2026-08-08 | Synchronized progress tracking with repository version 5.3 and the Ādhāra Śilā Editorial Freeze, permanently freezing Sections IV, VII, and VIII. |

@@ -174,16 +174,12 @@ The liturgical corpus used in personal devotion, temple worship, Vedic recitatio
 ### Categories
 
 - Mūla Mantras
-- Vedic Sūktas
+- Canonical Vedic Sūktas
 - Kavaca Literature
-- Liturgical Scriptures
-- Nitya Pārāyaṇa
-- Vaidika Prayoga Mantras
-- Saṁskāra Mantras
 
 **Purpose**
 
-To preserve the principal mantra, sūkta, kavaca, liturgical, and practice-recitation traditions while distinguishing individual textual works from curated practice collections.
+To preserve the principal mantra, sūkta, and kavaca traditions while distinguishing individual textual works from curated practice collections.
 
 ---
 
