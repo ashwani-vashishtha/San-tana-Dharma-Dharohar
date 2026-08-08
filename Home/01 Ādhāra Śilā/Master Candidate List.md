@@ -458,7 +458,6 @@ Candidate works will be evaluated according to the Ādhāra Śilā Methodology, 
 
 ---
 
-## VII-C. Devotional Hymns (भक्ति स्तोत्र साहित्य)
 
 **Status:** Permanently Frozen
 
@@ -541,17 +540,7 @@ The following are excluded from Section VII.
 
 ### Editorial Note
 
-Section VIII is limited to approved canonical mantra and liturgical textual forms eligible for Ādhāra Śilā.
-
-Practice-oriented material is assigned to **Jīvanta Paramparā**.
-
-### Editorial Exclusions
-
-The following are not retained as Ādhāra Śilā categories or subsections.
-
-- Liturgical Texts
-- Nitya Pārāyaṇa
-- Vaidika Prayoga
+This section intentionally contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation will occur during the dedicated editorial review of Section VIII.
 
 ---
 
