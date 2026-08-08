@@ -1,12 +1,12 @@
 # AI Editor
 
-Version: 2.0
+Version: 2.1
 
 Status: Approved
 
 Created: 2026-07-27
 
-Last Updated: 2026-07-29
+Last Updated: 2026-08-08
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -56,6 +56,10 @@ It provides:
 - synchronization status
 - recommended starting point
 
+The AI shall not establish current project state from memory, previous conversations, thread summaries, or assumptions.
+
+If the latest Project Handover.md is unavailable, the AI shall request it and shall not reconstruct the current project state from historical context.
+
 ---
 
 ## Step 2 — Read Governance Documents
@@ -99,6 +103,18 @@ Repository authority follows this order.
 If a lower-level document conflicts with a higher-level document, the higher-level document always prevails.
 
 The AI shall identify governance conflicts before making edits.
+
+---
+
+# Session Continuity
+
+Project Handover.md is the session bootstrap and current-state handshake.
+
+Previous conversations and AI memory are historical context only. They may help explain prior reasoning, but they do not establish or override the current repository state.
+
+If historical context conflicts with the current Handover or repository documents, the current repository state takes precedence unless the historical context is revalidated against the repository.
+
+The Current Work Package shall come from the current authoritative project state. The AI may recommend future work, but shall not infer or silently change the Current Work Package from old conversations.
 
 ---
 
@@ -231,3 +247,4 @@ AI assistants should preserve this principle by avoiding duplication, unnecessar
 |---------|------|---------|
 | 1.0 | 2026-07-27 | Initial AI editor operating guide. |
 | 2.0 | 2026-07-29 | Redefined AI onboarding around the Project Handover as the official handshake document, simplified governance workflow, removed dependency on AI Context, clarified governance hierarchy, and separated operational guidance from project state. |
+| 2.1 | 2026-08-08 | Strengthened session continuity rules by clarifying that AI memory and historical conversations cannot establish or override current repository state, and that missing handover state must be requested rather than reconstructed. |

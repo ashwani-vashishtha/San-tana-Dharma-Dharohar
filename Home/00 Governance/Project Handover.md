@@ -1,6 +1,6 @@
 # Project Handover
 
-Version: 5.3
+Version: 5.4
 Status: Approved
 Created: 2026-07-19
 Last Updated: 2026-08-08
@@ -189,6 +189,7 @@ The following principles govern repository operations during the current milesto
 
 - Treat the Obsidian repository as the Single Source of Truth (SSOT).
 - Repository continuity takes precedence over conversational continuity.
+- AI memory and previous conversation history may provide context, but they never establish or override the current repository state.
 - Repository architecture is considered stable unless explicitly reviewed.
 - Governance documents should not be modified unless explicitly requested.
 - Continue the established editorial framework rather than redesigning it.
@@ -664,41 +665,140 @@ This protocol enables an Editorial Assistant to resume repository work with mini
 
 ## Startup Procedure
 
-At the beginning of every new session:
+At the beginning of every new session, the Editorial Assistant shall establish the current repository state before performing substantive project work.
 
-1. Read the latest **Project Handover.md**.
+### 0. Handover Availability Check
 
-2. Review the repository operating framework by consulting:
+Before beginning the startup procedure:
 
-   - Project Handover.md
-   - AI Editor.md
-   - Codex Operating Guide.md (when synchronization is required)
+* Confirm that the latest **Project Handover.md** is available.
+* If it is unavailable, request the latest Handover from the Repository Owner.
+* Do not reconstruct the project's current state from AI memory, previous conversations, thread summaries, or assumptions.
 
-3. Ask the Repository Owner:
+### 1. Read the Current Handover
 
-   **Have any governance documents changed since this Project Handover was generated?**
+Read the latest **Project Handover.md** directly from the current repository state.
 
-4. If the answer is **Yes**:
+The Handover is the operational/session handshake for the repository.
 
-   - Review the affected governance documents.
-   - Re-establish repository consistency before continuing.
+### 2. Establish Session Identity
 
-5. If the answer is **No**:
+Establish:
 
-   - Resume directly from the **Current Work Package** defined in the **Editorial Work Queue**.
+* Repository: `ashwani-vashishtha/San-tana-Dharma-Dharohar`
+* Branch: `Dev_branch`
+* Project Handover version
 
-6. Throughout the session:
+Do not infer these values from previous conversations or AI memory.
 
-   - Preserve repository continuity.
-   - Respect repository governance.
-   - Avoid reopening settled editorial decisions without explicit instruction or new evidence.
+### 3. Establish Session Authority
 
-7. Before ending the session:
+Use the following authority model:
 
-   - Update **Project Handover.md**.
-   - Ensure the Session Delta reflects the completed work.
-   - Record any deferred editorial work.
-   - Prepare the repository for synchronization.
+* **Governance authority** → Constitution.md, Decision Ledger.md, and other applicable governance documents
+* **Operational/session authority** → current Project Handover.md
+* **Editorial authority** → relevant current repository documents and methodologies
+* **Historical context** → previous conversations and AI memory
+
+Historical context and AI memory may provide context or assist interpretation, but they cannot establish, override, or replace the current repository state.
+
+### 4. Review the Operating Framework
+
+Consult:
+
+* Project Handover.md
+* AI Editor.md
+* Codex Operating Guide.md, when synchronization is required
+
+Use these documents to understand the current operating procedures and role boundaries.
+
+### 5. Validate Governance State
+
+Ask the Repository Owner:
+
+**Have any governance documents changed since this Project Handover was generated?**
+
+If the answer is **Yes**:
+
+* Review the affected governance documents.
+* Re-establish repository consistency.
+* Update the Handover if required.
+* Do not continue substantive work until the applicable authority and current state are clear.
+
+If the answer is **No**:
+
+* Continue using the current authoritative repository state.
+
+### 6. Validate the Current Operational State
+
+Establish from the current Handover and repository:
+
+* Current project phase
+* Current milestone
+* Current Work Package
+* Current editorial focus
+* Frozen sections
+* Repository Owner decisions and explicit constraints
+* Known blocking or non-blocking issues relevant to the current work
+
+Do not infer the Current Work Package, project phase, milestone, or next action from previous conversations or AI memory.
+
+### 7. Resolve State Conflicts
+
+If any inconsistency exists between the current repository, authoritative governance documents, Project Handover, or historical conversation context:
+
+* Do not resolve the conflict using AI memory, previous conversations, thread summaries, or assumptions.
+* Governance documents take precedence according to the repository governance hierarchy.
+* The current repository state takes precedence over historical conversation context and AI memory.
+* Project Handover.md must accurately reflect the current operational state of the repository.
+* Revalidate the affected repository state before continuing.
+* Restore consistency between Project Handover.md and the authoritative repository state where required.
+* If the conflict cannot be resolved safely, stop and report the conflict to the Repository Owner.
+
+Historical conversation context shall be treated as stale whenever it conflicts with a revalidated current repository state.
+
+### 8. Confirm the Authorized Work Boundary
+
+Before beginning substantive work, confirm:
+
+* Current Work Package
+* Current project phase and milestone
+* Frozen sections
+* Repository Owner decisions
+* Explicit scope or task constraints
+
+The Editorial Assistant may recommend future work, but shall not silently change the Current Work Package or project priority.
+
+### 9. Begin Work
+
+Only after the preceding checks are satisfied:
+
+* Resume from the Current Work Package defined in the Editorial Work Queue.
+* Follow the applicable governance, editorial, and operating documents.
+* Preserve repository continuity.
+* Avoid reopening settled editorial decisions without explicit instruction or new evidence.
+
+### 10. Maintain Continuity During the Session
+
+Throughout the session:
+
+* Treat the repository as the Single Source of Truth.
+* Preserve repository governance and editorial continuity.
+* Keep changes within the authorized work boundary.
+* Do not allow historical conversation context or AI memory to silently alter current project state.
+* Record significant operational changes in the appropriate repository documents.
+
+### 11. Close the Session
+
+Before ending the session:
+
+* Update **Project Handover.md** to reflect the resulting current operational state.
+* Ensure the **Session Delta** accurately reflects completed work.
+* Record deferred editorial work where applicable.
+* Record relevant synchronization or validation status.
+* Prepare the repository for the established synchronization workflow.
+
+The updated Handover shall serve as the starting point for the next session.
 
 ---
 
@@ -853,3 +953,4 @@ Detailed repository changes are maintained in **Release Notes.md**.
 | 5.1 | 2026-08-04 | See Release Notes.md |
 | 5.2 | 2026-08-04 | Editorial refactor and terminology harmonization. See Release Notes.md |
 | 5.3 | 2026-08-08 | Ādhāra Śilā Editorial Freeze. See Release Notes.md |
+| 5.4 | 2026-08-08 | Strengthened session continuity and Handover authority through an explicit Handover Gate. |
