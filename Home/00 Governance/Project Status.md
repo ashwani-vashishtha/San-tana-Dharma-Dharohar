@@ -1,12 +1,12 @@
 # Project Status
 
-Repository Version: 5.3
+Repository Version: 5.4
 
 Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-08
+Last Updated: 2026-08-09
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -20,6 +20,7 @@ Related Documents:
 - Ādhāra Śilā Editorial Guide.md
 - Master Candidate List.md
 - Ādhāra Śilā 108.md
+- Traditions Framework.md
 
 ---
 
@@ -37,7 +38,7 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Milestone
 
-**Milestone 3 – Ādhāra Śilā Editorial Freeze**
+**Jīvanta Paramparā — Architecture & Methodology Foundation**
 
 ---
 
@@ -49,9 +50,9 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Work Package
 
-**Repository Synchronization**
+**Repository Synchronization & QA**
 
-Next work package: **Repository QA followed by Jīvanta Paramparā**
+Next work package: **Repository Owner review followed by controlled Jīvanta Paramparā population**
 
 ---
 
@@ -66,7 +67,7 @@ Next work package: **Repository QA followed by Jīvanta Paramparā**
 - 🟡 Research & Citation Policy (Framework established; content pending)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
-- ✅ Project Handover v5.3 operational framework
+- ✅ Project Handover v5.4 operational framework
 - ✅ Release Notes workflow adopted
 
 ## Editorial Framework
@@ -89,6 +90,8 @@ Next work package: **Repository QA followed by Jīvanta Paramparā**
 - ⏳ Final Ādhāra Śilā 108
 - ⏳ Source IDs
 - ⏳ Sādhana Sheets
+- ✅ Jīvanta Paramparā Architecture v1.0 Frozen
+- ✅ Jīvanta Paramparā Methodology v1.0 Complete & Frozen
 
 ---
 
@@ -113,21 +116,18 @@ The curated foundational canon of Sanātana Dharma Dharohar.
 
 ### Purpose
 
-The Living Practice Collection representing how Sanātana Dharma is actively practiced.
+The living-traditions layer representing how Sanātana Dharma is preserved, transmitted, practiced, and expressed through living traditions.
 
 ### Characteristics
 
-- Practice-oriented
-- Curated collections permitted
-- Daily worship
-- Mantras
-- Homa
-- Prayoga
-- Saṁskāras
-- Temple liturgy
-- Ritual collections
+- Relational architecture rather than a mandatory hierarchy
+- Traditions, sampradāyas, lineages, transmission systems, practices, and living expressions
+- Evidence classes, claim types, and evidence statuses defined
+- Inclusion criteria and mandatory gates defined
+- Entity metadata and relationship schema defined
+- Editorial workflow and quality-control process defined
 
-Unlike Ādhāra Śilā, this layer may contain curated thematic collections rather than only individual textual works.
+This synchronization establishes the architecture and methodology only. It does not begin population of individual traditions, sampradāyas, lineages, teachers, practices, institutions, communities, or movements.
 
 ## Dharma Sāgara
 
@@ -153,7 +153,7 @@ This layer preserves the richness of Sanātana Dharma without imposing canonical
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on **Repository Synchronization & QA** following the Ādhāra Śilā Editorial Freeze.
+Current effort is focused on **Repository Synchronization & QA** for the Jīvanta Paramparā architecture and methodology foundation following the completed Ādhāra Śilā Editorial Freeze.
 
 ---
 
@@ -165,6 +165,8 @@ Current effort is focused on **Repository Synchronization & QA** following the �
 - ✅ Section VII – Bhakti Literature permanently frozen
 - ✅ Section VIII – Mantra & Liturgical Literature permanently frozen
 - 🟡 Repository-wide synchronization and QA
+- ✅ Jīvanta Paramparā architecture v1.0 frozen
+- ✅ Jīvanta Paramparā methodology v1.0 complete and frozen
 - ⏳ Final allocation across the Ādhāra Śilā taxonomy
 - ⏳ Selection of the Final Ādhāra Śilā 108
 
@@ -178,7 +180,7 @@ Current effort is focused on **Repository Synchronization & QA** following the �
 
 # Next Task
 
-Complete repository QA following synchronization, then begin the next phase:
+Complete Repository Owner review and repository QA following synchronization, then begin controlled work in:
 
 **Jīvanta Paramparā**
 
@@ -190,9 +192,9 @@ Complete repository QA following synchronization, then begin the next phase:
 
 ### Deliverables
 
-- Living-practice collection framework
-- Practice-oriented material allocation
-- Daily worship, mantras, homa, prayoga, saṁskāras, and temple liturgy collections
+- Controlled population through the approved workflow
+- Evidence-based documentation of living traditions and practice expressions
+- Relationship mapping across traditions, sampradāyas, lineages, transmission systems, practices, and supporting entities
 
 ---
 
@@ -223,6 +225,8 @@ These items are intentionally deferred and shall not affect the current mileston
 | Taxonomy | ✅ Frozen |
 | Master Candidate List | ✅ Editorial freeze synchronized |
 | Ādhāra Śilā 108 | ✅ Editorial freeze synchronized |
+| Jīvanta Paramparā Architecture | ✅ Frozen |
+| Jīvanta Paramparā Methodology | ✅ Complete & Frozen |
 
 ---
 
@@ -240,6 +244,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-08-04 | Updated repository version to 5.1 after completing Section V and Section VI editorial review and significantly advancing Section VII. |
 | 2026-08-04 | Updated repository version to 5.2 for Repository Operational Maturity, adopting Release Notes.md and stabilizing Project Handover.md as the operational control document. |
 | 2026-08-08 | Updated repository version to 5.3 for the Ādhāra Śilā Editorial Freeze, freezing Sections IV, VII, and VIII and preparing the repository for QA and Jīvanta Paramparā. |
+| 2026-08-09 | Updated repository version to 5.4 for the Jīvanta Paramparā architecture and methodology foundation. |
 
 
 ---
@@ -256,3 +261,4 @@ These items are intentionally deferred and shall not affect the current mileston
 | 5.1 | 2026-08-04 | Minor editorial milestone update. Completed and refined multiple major editorial work packages while preserving repository architecture. |
 | 5.2 | 2026-08-04 | Repository Operational Maturity release. Stabilized Project Handover.md as the operational control document, adopted Release Notes.md, and standardized repository operating terminology. |
 | 5.3 | 2026-08-08 | Ādhāra Śilā Editorial Freeze release. Permanently froze Sections IV, VII, and VIII, synchronized repository governance/status documents, and prepared the repository for QA followed by Jīvanta Paramparā. |
+| 5.4 | 2026-08-09 | Jīvanta Paramparā Architecture & Methodology Foundation release. Froze the Jīvanta Paramparā architecture v1.0 and methodology v1.0 while preserving the Ādhāra Śilā Editorial Freeze. |

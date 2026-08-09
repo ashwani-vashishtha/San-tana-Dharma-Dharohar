@@ -2,6 +2,53 @@
 
 ---
 
+# Version 5.4
+
+**Release Name:** Jīvanta Paramparā — Architecture & Methodology Foundation
+
+**Release Date:** 2026-08-09
+
+## Summary
+
+Version 5.4 captures the repository synchronization that establishes **Jīvanta Paramparā** as the active next phase after the completed **Ādhāra Śilā Editorial Freeze**. The Jīvanta Paramparā architecture v1.0 and methodology v1.0 are frozen for future documentation of living traditions, transmission systems, practices, communities, institutions, and contemporary expressions.
+
+---
+
+## Architectural Milestones
+
+- Jīvanta Paramparā architecture v1.0 frozen.
+- Jīvanta Paramparā methodology v1.0 completed and frozen.
+- Repository layer boundaries reaffirmed across **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**.
+- Ādhāra Śilā Editorial Freeze remains intact.
+
+---
+
+## Methodology Foundation
+
+- Evidence framework frozen.
+- Inclusion criteria frozen.
+- Entity metadata and relationship schema frozen.
+- Editorial workflow and quality-control process frozen.
+- Distinction preserved between traditional claims, historical claims, scholarly claims, contemporary claims, and practice claims.
+
+---
+
+## Governance Synchronization
+
+- Project Status synchronized to repository version 5.4.
+- Decision Ledger synchronized with the approved Jīvanta Paramparā architecture and methodology foundation.
+- Project Handover regenerated for the next ChatGPT session.
+- README synchronized with the current repository version and milestone.
+- Existing Jīvanta Paramparā documentation synchronized without adding individual traditions, sampradāyas, lineages, teachers, practices, institutions, communities, or movements.
+
+---
+
+## Next Phase
+
+Repository Owner review, repository QA, and then controlled Jīvanta Paramparā population through the approved workflow.
+
+---
+
 # Version 5.3
 
 **Release Name:** Ādhāra Śilā Editorial Freeze

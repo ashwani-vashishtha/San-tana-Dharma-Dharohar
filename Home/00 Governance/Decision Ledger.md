@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 1.6
+Version: 1.7
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-08
+Last Updated: 2026-08-09
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -16,6 +16,7 @@ Related Documents:
 - Ādhāra Śilā Methodology.md
 - Ādhāra Śilā Taxonomy.md
 - Ādhāra Śilā Editorial Guide.md
+- Traditions Framework.md
 
 ---
 
@@ -108,6 +109,7 @@ The following decision states are used throughout this ledger.
 | DL-048 | Vaidika Prayoga Removed as Ādhāra Śilā Subsection | Frozen |
 | DL-049 | Practice-Oriented Material Assigned to Jīvanta Paramparā | Frozen |
 | DL-050 | Classification by Primary Literary Form Adopted Repository-Wide | Frozen |
+| DL-051 | Jīvanta Paramparā Architecture and Methodology Foundation | Frozen |
 
 ---
 
@@ -126,6 +128,24 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-051 — Jīvanta Paramparā Architecture and Methodology Foundation
+
+**Status:** Frozen
+
+**Date:** 2026-08-09
+
+### Decision
+
+The **Jīvanta Paramparā** architecture v1.0 and methodology v1.0 are frozen as the foundation for documenting living traditions, sampradāyas, lineages, transmission systems, practices, and living expressions.
+
+The approved methodology includes the evidence framework, inclusion criteria, entity metadata and relationship schema, and editorial workflow and quality-control process.
+
+### Reason
+
+This establishes the repository foundation for the next phase while preserving the distinction between foundational textual sources in **Ādhāra Śilā**, living traditions and practices in **Jīvanta Paramparā**, and broader preservation or research material in **Dharma Sāgara**.
 
 ---
 
@@ -501,3 +521,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.4 | 2026-07-27 | Added DL-032 through DL-034 establishing the three-layer knowledge architecture, Master Candidate inclusion principle, and scope of Jīvanta Paramparā. |
 | 1.5 | 2026-07-29 | Added DL-035 through DL-037 establishing the Project Handover as the official AI handshake protocol, defining the foundational Kavaca selection principle, and formally distinguishing textual works from curated practice collections within the three-layer knowledge architecture. |
 | 1.6 | 2026-08-08 | Synchronized approved Ādhāra Śilā Editorial Freeze decisions, including permanent freeze status for Sections IV, VII, and VIII; finalized Mantra and Liturgical Literature architecture; repository-wide classification by primary literary form; removal of practice-oriented categories from Ādhāra Śilā; and assignment of practice-oriented material to Jīvanta Paramparā. |
+| 1.7 | 2026-08-09 | Froze the Jīvanta Paramparā architecture v1.0 and methodology v1.0 as the foundation for the next repository phase. |

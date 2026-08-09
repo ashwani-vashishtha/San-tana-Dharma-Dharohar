@@ -540,7 +540,7 @@ The following are excluded from Section VII.
 
 ### Editorial Note
 
-This section intentionally contains both canonical textual works eligible for Ādhāra Śilā and curated practice collections belonging to Jīvanta Paramparā. Final candidate allocation will occur during the dedicated editorial review of Section VIII.
+This section is permanently frozen for Ādhāra Śilā. Practice-oriented mantra, liturgical, recitation, and ritual materials are assigned to Jīvanta Paramparā and must not be added here as independent Ādhāra Śilā candidates.
 
 ---
 

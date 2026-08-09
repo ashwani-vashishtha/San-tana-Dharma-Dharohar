@@ -2,28 +2,31 @@
 
 ## Repository Synchronization
 
-## Version Update: **5.2 → 5.3**
+## Phase Transition: **Ādhāra Śilā → Jīvanta Paramparā**
 
-### Release Name
+### Release / Synchronization Name
 
-**Ādhāra Śilā Editorial Freeze**
+**Jīvanta Paramparā — Architecture & Methodology Foundation**
 
 ---
+
 # Status: Active
 
 This document is updated for every repository synchronization.
 
 # OBJECTIVE
 
-Synchronize the repository based on the approved editorial decisions completed since Version 5.2.
+Synchronize the repository based on the approved editorial decisions completed during the transition from the completed **Ādhāra Śilā Editorial Freeze** into **Jīvanta Paramparā**.
 
 This is a repository synchronization task.
 
 * Do NOT perform new editorial analysis.
 * Do NOT introduce new governance decisions.
-* Do NOT modify repository architecture.
+* Do NOT redesign the existing repository architecture.
 * Synchronize the repository while preserving internal consistency.
 * When uncertainty exists, report it rather than making assumptions.
+* Do NOT populate Jīvanta Paramparā with individual traditions, sampradāyas, lineages, gurus, practices, institutions, communities, or movements unless such content already exists in the repository and requires synchronization.
+* Do NOT invent a new repository version number. Determine versioning from the repository's existing release and governance conventions.
 
 ---
 
@@ -42,166 +45,434 @@ Treat:
 
 Synchronize only approved repository decisions.
 
+The repository itself is the Single Source of Truth for current repository state.
+
+Do NOT use historical ChatGPT conversation context to establish repository state.
+
 ---
 
-# VERSION
+# REPOSITORY VERSION
 
-Update repository version:
+Do NOT assume or invent the next repository version.
 
-**5.2 → 5.3**
+Read:
 
-Reason:
+* Project Handover.md
+* Release Notes.md
+* Codex Operating Guide.md
+* existing repository version history
 
-**Ādhāra Śilā Editorial Freeze**
+Determine the appropriate repository versioning consequence of this synchronization according to the repository's established conventions.
 
-This release captures the completion of the major editorial architecture of Ādhāra Śilā, including the permanent freezing of Sections IV, VII and VIII, together with repository-wide architectural refinements approved during the current editorial cycle.
+Report the determination explicitly.
+
+Preserve the distinction between:
+
+* repository release/version;
+* Project Handover revision;
+* architecture version;
+* methodology version.
+
+---
+
+# APPROVED EDITORIAL STATE
+
+The following decisions have been approved during the current editorial cycle.
+
+## ĀDHĀRA ŚILĀ
+
+The **Ādhāra Śilā Editorial Freeze** remains intact.
+
+The following remain permanently frozen:
+
+* Section IV – Dharma, Darśana & Philosophical Traditions.
+* Section VII – Bhakti Literature.
+* Section VIII – Mantra & Liturgical Literature.
+
+The Version 5.3 editorial decisions remain valid.
+
+Do NOT reopen, re-evaluate, or redesign these frozen sections.
+
+---
+
+# JĪVANTA PARAMPARĀ ARCHITECTURE v1.0
+
+**Status: FROZEN**
+
+Jīvanta Paramparā represents Sanātana Dharma as a living continuum of:
+
+* Traditions
+* Sampradāyas
+* Lineages
+* Transmission systems
+* Practices
+* Living expressions
+
+The architecture is relational rather than a mandatory hierarchy.
+
+## Core Dimensions
+
+1. Tradition — परम्परा
+2. Sampradāya — सम्प्रदाय
+3. Lineage — गुरु–शिष्य परम्परा
+4. Transmission — परम्परा-प्रेषण
+5. Practice — साधना / आचार
+6. Living Expression — जीवित अभिव्यक्ति
+
+## Supporting Entities
+
+* Person / Teacher / Ācārya / Guru
+* Institution
+* Community
+* Movement
+* Ritual
+* Festival / Observance
+
+The following distinctions are mandatory:
+
+* Tradition ≠ Sampradāya.
+* Sampradāya ≠ Lineage.
+* Lineage ≠ Transmission.
+* Practice ≠ Tradition.
+* Institution ≠ Community.
+* A traditional lineage claim ≠ a historically documented relationship.
+* A modern movement ≠ automatically an ancient sampradāya.
+
+---
+
+# JĪVANTA PARAMPARĀ METHODOLOGY v1.0
+
+**Status: COMPLETE & FROZEN**
+
+The following methodology components are approved.
+
+## 1. Evidence Framework — FROZEN
+
+Evidence classes:
+
+* E1 — Primary / Direct Evidence
+* E2 — Traditional / Internal Evidence
+* E3 — Scholarly / Historical Analysis
+* E4 — Contemporary Institutional Evidence
+* E5 — Practitioner / Community Evidence
+
+Claim types:
+
+* TC — Traditional Claim
+* HC — Historical Claim
+* SC — Scholarly Claim
+* CC — Contemporary Claim
+* PC — Practice Claim
+
+Evidence status:
+
+* Verified
+* Supported
+* Traditional Claim
+* Contemporary Claim
+* Disputed
+* Uncertain
+* Unverified
+
+Core principle:
+
+> Evidence strength must not be confused with spiritual, doctrinal, or institutional authority.
+
+The repository must distinguish what a tradition claims, what historical evidence establishes, what scholarship interprets, and what is currently practiced.
+
+---
+
+## 2. Inclusion Criteria — FROZEN
+
+Jīvanta Paramparā may include meaningful, documentable living expressions based on:
+
+* Living Continuity
+* Traditional Continuity
+* Practice Significance
+* Transmission Significance
+* Community Significance
+* Institutional Significance
+* Civilizational / Historical Continuity
+* Representative Value
+
+Mandatory gates:
+
+1. Scope
+2. Living Status
+3. Evidence
+4. Distinctiveness
+
+Meaningful contemporary continuity or contemporary practice is required.
+
+Inclusion does not imply:
+
+* canonical status;
+* spiritual superiority;
+* historical primacy;
+* institutional primacy;
+* authenticity certification;
+* repository endorsement.
+
+Popularity, institutional size, self-proclaimed antiquity, celebrity status, commercial activity, or sectarian superiority claims are not sufficient inclusion criteria by themselves.
+
+---
+
+## 3. Entity Metadata & Relationship Schema — FROZEN
+
+Primary entity dimensions:
+
+* Tradition
+* Sampradāya
+* Lineage
+* Transmission
+* Practice
+* Living Expression
+
+Supporting entities:
+
+* Person / Teacher / Ācārya / Guru
+* Institution
+* Community
+* Movement
+* Practice subtypes including Ritual, Festival, Vrata, Pārāyaṇa, Japa, Pūjā, Homa, etc.
+
+Controlled relationship vocabulary includes:
+
+* belongs to
+* associated with
+* transmitted through
+* claims succession from
+* documented as successor of
+* identified as teacher of
+* practiced within
+* performed at
+* founded by
+* historically associated with
+* claims affiliation with
+* derived from / based upon
+* interprets / transmits
+
+Do not silently convert:
+
+> claims affiliation with
+
+into:
+
+> historically associated with
+
+Metadata must describe documented entities and relationships rather than encode hidden editorial judgments.
+
+---
+
+## 4. Editorial Workflow & Quality Control — FROZEN
+
+The approved workflow is:
+
+**Candidate → Scope & Inclusion → Entity Classification → Evidence Collection → Relationship Mapping → Editorial Draft → Quality Review → Owner Approval → Synchronization → Repository QA → Repository Ready**
+
+Quality checks include:
+
+* Accuracy
+* Attribution
+* Classification
+* Scope / Boundary
+* Neutrality
+* Historical precision
+* Contemporary accuracy
+* Relationship integrity
+* Practice boundaries
+* Cross-layer integrity
+* Metadata integrity
+
+No direct jump from research to repository.
+
+Documentation of practice must not automatically become prescription of practice.
+
+Contemporary-person records require heightened source attribution and temporal accuracy.
+
+---
+
+# REPOSITORY LAYER BOUNDARY
+
+Preserve the established distinction:
+
+### Ādhāra Śilā
+
+Foundational canonical and literary corpus.
+
+### Jīvanta Paramparā
+
+Living traditions, transmission, practices, communities, institutions, and contemporary expressions.
+
+### Dharma Sāgara
+
+Broader encyclopedic and research knowledge.
+
+The same subject may appear across layers only when each layer has a distinct knowledge responsibility.
+
+Do NOT create duplicate content merely because the same subject occurs in multiple layers.
 
 ---
 
 # FILES TO REVIEW
 
-Review and synchronize all affected governance documents, including (but not limited to):
+Review and synchronize all affected governance and repository documents, including but not limited to:
 
-* Home/00 Governance/Project Handover.md
-* Home/00 Governance/Project Status.md
-* Home/00 Governance/Release Notes.md
-* Home/00 Governance/Decision Ledger.md
-* Home/01 Ādhāra Śilā/Master Candidate List.md
-* Home/01 Ādhāra Śilā/Ādhāra Śilā 108.md
-* README.md
+* `Home/00 Governance/Project Handover.md`
+* `Home/00 Governance/Project Status.md`
+* `Home/00 Governance/Release Notes.md`
+* `Home/00 Governance/Decision Ledger.md`
+* `Home/00 Governance/Codex Operating Guide.md`
+* `Home/00 Governance/Codex Synchronization Prompt.md`
+* `Home/01 Ādhāra Śilā/Master Candidate List.md`
+* `Home/01 Ādhāra Śilā/Ādhāra Śilā 108.md`
+* `README.md`
+
+Review any existing Jīvanta Paramparā documentation.
 
 Synchronize additional documents only where necessary to preserve repository consistency.
+
+Do NOT create new content structures merely because the methodology defines an entity type.
 
 ---
 
 # PROJECT HANDOVER
 
-Preserve the existing Version 5.2 structure.
+Read the current **Project Handover.md** before making any changes.
 
-Do NOT redesign headings, workflow or organization.
+Preserve its existing structure and operational role.
 
-Update operational content only.
+Update operational content only where required by the approved transition.
 
-Reflect:
+Reflect the actual repository state after synchronization, including:
 
-* Repository Version 5.3.
-* Release: Ādhāra Śilā Editorial Freeze.
-* Sections IV, VII and VIII permanently frozen.
-* Repository architecture stabilized.
-* Current Phase:
+* Ādhāra Śilā Editorial Freeze remains complete.
+* Jīvanta Paramparā is the active next phase.
+* Jīvanta Paramparā Architecture v1.0 is frozen.
+* Jīvanta Paramparā Methodology v1.0 is complete and frozen.
+* The actual current work package after synchronization.
+* Any remaining QA or maintenance work.
+* Any unresolved issues.
 
-  * Repository Synchronization & QA.
-* Current Work Package:
+Do NOT invent a Handover revision number.
 
-  * Repository-wide synchronization.
-* Next Phase:
+Follow the existing Handover revision-history conventions.
 
-  * Jīvanta Paramparā.
-
-Update only the Synchronization Assistant sections permitted by the Codex Operating Guide.
-
----
-
-# RELEASE NOTES
-
-Add Version 5.3.
-
-## Release Name
-
-Ādhāra Śilā Editorial Freeze
-
-Include:
-
-* Summary
-* Editorial Milestones
-* Architectural Refinements
-* Repository Simplification
-* Governance Synchronization
-* Next Phase
-
-Retain all previous release history.
+The regenerated Handover must be suitable as the operational starting point for the next ChatGPT session.
 
 ---
 
 # PROJECT STATUS
 
-Update:
+Synchronize `Project Status.md` with the actual repository state.
 
-* Repository Version → 5.3.
-* Current Milestone →
-  **Milestone 3 – Ādhāra Śilā Editorial Freeze**
-* Current Phase →
-  Repository Synchronization & QA.
-* Current Work Package →
-  Repository Synchronization.
-* Next Work Package →
-  Repository QA followed by Jīvanta Paramparā.
+Reconcile:
 
-Reflect that:
+* Repository Version
+* Current Milestone
+* Current Phase
+* Current Work Package
+* Completed Deliverables
+* Next Objective
+* Jīvanta Paramparā status
 
-* Section IV is frozen.
-* Section VII is frozen.
-* Section VIII is frozen.
+Do not simply append new information.
+
+Preserve the existing Project Status structure and terminology.
 
 ---
 
 # DECISION LEDGER
 
-Record only approved editorial decisions.
+Record only decisions that the existing governance process requires to be recorded.
 
-Include:
+The approved Jīvanta Paramparā decisions may include:
 
-* Section IV permanently frozen.
-* Section VII permanently frozen.
-* Section VIII permanently frozen.
-* Universal Mantras established.
-* Principal Mantras architecture finalized.
-* Canonical Bīja Mantras established.
-* Canonical Vedic Sūktas finalized.
-* Kavaca Literature finalized.
-* Removal of Liturgical Texts from Ādhāra Śilā.
-* Removal of Nitya Pārāyaṇa from Ādhāra Śilā.
-* Removal of Vaidika Prayoga as an Ādhāra Śilā subsection.
-* Classification by primary literary form adopted repository-wide.
-* Practice-oriented material assigned to Jīvanta Paramparā.
+* Jīvanta Paramparā Architecture v1.0 frozen.
+* Jīvanta Paramparā Evidence Framework frozen.
+* Jīvanta Paramparā Inclusion Criteria frozen.
+* Jīvanta Paramparā Entity Metadata & Relationship Schema frozen.
+* Jīvanta Paramparā Editorial Workflow & Quality Control frozen.
+* Jīvanta Paramparā Methodology v1.0 completed and frozen.
 
-Do NOT introduce additional governance decisions.
+Do NOT invent Decision Ledger numbering.
 
----
+Do NOT introduce constitutional amendments.
 
-# MASTER CANDIDATE LIST
+Do NOT modify governance policy merely to accommodate the new methodology.
 
-Synchronize all approved editorial changes.
-
-Reflect:
-
-* Final Section IV.
-* Final Section VII.
-* Final Section VIII.
-
-Do NOT perform new editorial evaluation.
-
-Report inconsistencies if detected.
+If a governance-level conflict is discovered, report it rather than silently changing governance.
 
 ---
 
-# ĀDHĀRA ŚILĀ 108
+# RELEASE NOTES
 
-Synchronize only where approved editorial decisions affect the Core Canon.
+Review the existing release/versioning conventions.
 
-If no modifications are required, explicitly report that no synchronization was necessary.
+Do NOT assume that this synchronization automatically requires a particular repository version.
+
+If a release entry is required:
+
+* use the repository's established release format;
+* preserve all previous release history;
+* distinguish repository release version from Jīvanta Paramparā methodology version;
+* record the transition accurately;
+* do not invent historical changes.
+
+If no release entry is appropriate at this stage, report that explicitly.
+
+---
+
+# ĀDHĀRA ŚILĀ DOCUMENTS
+
+Do NOT reopen the frozen Ādhāra Śilā sections.
+
+Synchronize:
+
+* Master Candidate List
+* Ādhāra Śilā 108
+
+only where the approved Jīvanta Paramparā transition creates a necessary cross-layer consistency update.
+
+If no modification is required, explicitly report:
+
+> No synchronization necessary.
 
 ---
 
 # README
 
-Update:
+Update only where necessary to reflect the actual repository state.
 
-* Repository Version → 5.3.
-* Current Milestone.
-* Repository Status.
+Preserve existing structure.
 
-Perform only minimal updates.
+Do not redesign the README.
+
+---
+
+# JĪVANTA PARAMPARĀ CONTENT SCOPE
+
+This synchronization establishes the approved architecture and methodology.
+
+It does NOT begin the population of Jīvanta Paramparā.
+
+Do NOT independently select or add:
+
+* traditions;
+* sampradāyas;
+* lineages;
+* gurus;
+* teachers;
+* practices;
+* institutions;
+* communities;
+* movements;
+* temples;
+* festivals;
+
+unless such material already exists and requires synchronization.
+
+No new editorial candidate evaluation is authorized by this prompt.
 
 ---
 
@@ -209,27 +480,35 @@ Perform only minimal updates.
 
 This synchronization includes:
 
-✓ Governance document updates.
+✓ Governance/documentation synchronization.
 
-✓ Editorial synchronization.
+✓ Approved Jīvanta Paramparā architecture synchronization.
 
-✓ Repository consistency validation.
+✓ Approved methodology synchronization.
+
+✓ Project state synchronization.
+
+✓ Cross-document consistency.
 
 ✓ Metadata consistency.
 
-✓ Cross-document validation.
+✓ Repository validation.
 
 This synchronization excludes:
 
-✗ Editorial analysis.
+✗ New editorial analysis.
 
-✗ Canon evaluation.
+✗ New canon evaluation.
+
+✗ New candidate selection.
 
 ✗ Governance redesign.
 
 ✗ Repository restructuring.
 
-✗ Repository architecture changes.
+✗ Population of new Jīvanta Paramparā content.
+
+✗ Unapproved architectural changes.
 
 ---
 
@@ -237,75 +516,98 @@ This synchronization excludes:
 
 Before completing synchronization verify:
 
-✓ Repository version consistent everywhere.
+✓ Repository version is internally consistent.
 
-✓ Project Handover synchronized.
+✓ Project Handover is synchronized.
 
-✓ Project Status synchronized.
+✓ Project Status is synchronized.
 
-✓ Release Notes updated.
+✓ Release Notes are consistent with actual repository versioning.
 
-✓ Decision Ledger synchronized.
+✓ Decision Ledger is synchronized where required.
 
-✓ Master Candidate List synchronized.
+✓ Codex Synchronization Prompt is internally consistent.
 
-✓ Ādhāra Śilā 108 synchronized.
+✓ Codex Operating Guide remains authoritative.
 
-✓ README synchronized.
+✓ Ādhāra Śilā frozen sections remain intact.
 
-✓ Frozen sections consistently reflected.
+✓ Jīvanta Paramparā architecture is represented consistently.
 
-✓ Editorial principles remain internally consistent.
+✓ Jīvanta Paramparā methodology is represented consistently.
 
-✓ Repository architecture preserved.
+✓ Cross-layer boundaries remain clear.
 
-✓ No unintended duplication introduced.
+✓ Internal Markdown links remain valid.
 
-✓ Internal references remain valid.
+✓ Obsidian structure remains valid.
+
+✓ Naming and terminology remain consistent.
+
+✓ No unintended duplication is introduced.
+
+✓ No new governance decision has been introduced.
+
+✓ No unapproved Jīvanta Paramparā content has been populated.
+
+✓ Repository architecture has not been unintentionally altered.
 
 ---
 
 # OUTPUT
 
-Provide:
+Before any commit, provide:
 
-1. Repository Synchronization Summary.
+1. **Repository Synchronization Summary**
+2. **Repository Version**
+3. **Release / Synchronization Name**
+4. **Modified Files**
+5. **Created Files**
+6. **Removed Files**
+7. **Validation Results**
+8. **Repository Health Assessment**
+9. **File Review Required**
+10. **Technical Debt**
+11. **Recommendations**
+12. **Warnings**
+13. **Manual Review Items**
+14. **Project Handover Status**
+15. **Commit Readiness**
 
-2. Repository Version.
+The final Commit Readiness must explicitly state:
 
-3. Release Name.
+**READY FOR HUMAN REVIEW — DO NOT COMMIT**
 
-4. Modified Files.
+or:
 
-5. Validation Results.
-
-6. Repository Health Assessment.
-
-7. File Review Required.
-
-8. Technical Debt.
-
-9. Recommendations.
-
-10. Warnings.
-
-11. Manual Review Items.
+**NOT READY — BLOCKING ISSUES REQUIRE RESOLUTION**
 
 ---
 
 # IMPORTANT
 
-Treat **Project Handover.md** as the repository's stable operational governance document.
+Treat **Project Handover.md** as the repository's stable operational control document.
 
-Do NOT redesign its structure.
+Treat **Constitution.md** as the highest governance authority.
+
+Treat **Codex Operating Guide.md** as the governing operating procedure for synchronization.
+
+Treat the repository itself as the Single Source of Truth for current repository state.
+
+Do NOT use historical ChatGPT conversation context to establish repository state.
+
+Do NOT redesign the Handover structure.
 
 Do NOT reorganize governance documents.
 
-Synchronize approved editorial decisions only.
+Do NOT introduce new editorial or governance decisions.
+
+Do NOT invent missing information.
 
 When uncertainty exists:
 
 * preserve the existing repository state;
-* report the issue rather than introducing editorial interpretation.
+* report the issue;
+* do not make assumptions.
 
-Follow the Codex Operating Guide throughout the synchronization process.
+Synchronize approved decisions, validate the repository, regenerate the Handover for the next ChatGPT session, provide the complete synchronization report, and stop for Repository Owner review before any commit.

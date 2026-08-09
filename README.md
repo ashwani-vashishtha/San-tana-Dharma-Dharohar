@@ -124,7 +124,7 @@ The repository follows the approved three-layer architecture:
 
 For the current operational state, refer to **Project Handover.md**. For the repository's governed project status, refer to **Project Status.md**.
 
-**Current Milestone:** Milestone 3 – Ādhāra Śilā Editorial Freeze
+**Current Milestone:** Jīvanta Paramparā — Architecture & Methodology Foundation
 
 **Repository Status:** Repository Synchronization & QA
 
@@ -209,7 +209,7 @@ The repository is designed as an interconnected **knowledge graph**, rather than
 
 # Repository Versions
 
-**Repository Version:** 5.3
+**Repository Version:** 5.4
 
 **Constitution Version:** 1.2
 
