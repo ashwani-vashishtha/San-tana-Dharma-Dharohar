@@ -124,9 +124,9 @@ The repository follows the approved three-layer architecture:
 
 For the current operational state, refer to **Project Handover.md**. For the repository's governed project status, refer to **Project Status.md**.
 
-**Current Milestone:** Jīvanta Paramparā — Architecture & Methodology Foundation
+**Current Milestone:** Controlled Jīvanta Paramparā Population — JP-001 Pilot
 
-**Repository Status:** Repository Owner Review & Repository QA
+**Repository Status:** JP-001 Repository Synchronization & QA
 
 ---
 

@@ -21,6 +21,7 @@ Related Documents:
 - Master Candidate List.md
 - Ādhāra Śilā 108.md
 - Traditions Framework.md
+- JP-001 Śrī Vaiṣṇava Sampradāya.md
 
 ---
 
@@ -38,21 +39,21 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Milestone
 
-**Jīvanta Paramparā — Architecture & Methodology Foundation**
+**Controlled Jīvanta Paramparā Population — JP-001 Pilot**
 
 ---
 
 # Current Phase
 
-**Repository Owner Review & Repository QA**
+**JP-001 Repository Synchronization & QA**
 
 ---
 
 # Current Work Package
 
-**Repository Owner Review & Repository QA**
+**JP-001 — Śrī Vaiṣṇava Sampradāya Pilot Synchronization**
 
-Next work package: **Controlled Jīvanta Paramparā population**
+Next work package: **Repository Owner review and commit of JP-001**
 
 ---
 
@@ -92,6 +93,7 @@ Next work package: **Controlled Jīvanta Paramparā population**
 - ⏳ Sādhana Sheets
 - ✅ Jīvanta Paramparā Architecture v1.0 Frozen
 - ✅ Jīvanta Paramparā Methodology v1.0 Complete & Frozen
+- ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 
 ---
 
@@ -127,7 +129,7 @@ The living-traditions layer representing how Sanātana Dharma is preserved, tran
 - Entity metadata and relationship schema defined
 - Editorial workflow and quality-control process defined
 
-This synchronization establishes the architecture and methodology only. It does not begin population of individual traditions, sampradāyas, lineages, teachers, practices, institutions, communities, or movements.
+JP-001 — Śrī Vaiṣṇava Sampradāya has been populated as the first controlled Jīvanta Paramparā pilot. No additional tradition, sampradāya, lineage, teacher, practice, institution, community, or movement has been populated.
 
 ## Dharma Sāgara
 
@@ -153,7 +155,7 @@ This layer preserves the richness of Sanātana Dharma without imposing canonical
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on **Repository Owner Review & Repository QA** for the completed Jīvanta Paramparā architecture and methodology foundation synchronization.
+Current effort is focused on **JP-001 Repository Synchronization & QA** for the first controlled Jīvanta Paramparā population entry.
 
 ---
 
@@ -164,9 +166,10 @@ Current effort is focused on **Repository Owner Review & Repository QA** for the
 - ✅ Section IV – Dharma, Darśana & Philosophical Traditions permanently frozen
 - ✅ Section VII – Bhakti Literature permanently frozen
 - ✅ Section VIII – Mantra & Liturgical Literature permanently frozen
-- 🟡 Repository Owner review and repository QA
+- 🟡 JP-001 repository synchronization and QA
 - ✅ Jīvanta Paramparā architecture v1.0 frozen
 - ✅ Jīvanta Paramparā methodology v1.0 complete and frozen
+- ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 - ⏳ Final allocation across the Ādhāra Śilā taxonomy
 - ⏳ Selection of the Final Ādhāra Śilā 108
 
@@ -180,7 +183,7 @@ Current effort is focused on **Repository Owner Review & Repository QA** for the
 
 # Next Task
 
-Complete Repository Owner review and repository QA. After QA acceptance, begin controlled work in:
+Complete Repository Owner review and commit of JP-001. Future Jīvanta Paramparā population should proceed only through explicitly approved controlled work packages.
 
 **Jīvanta Paramparā**
 
@@ -192,7 +195,8 @@ Complete Repository Owner review and repository QA. After QA acceptance, begin c
 
 ### Deliverables
 
-- Controlled population through the approved workflow
+- JP-001 Repository Owner review and commit
+- Future controlled population through the approved workflow
 - Evidence-based documentation of living traditions and practice expressions
 - Relationship mapping across traditions, sampradāyas, lineages, transmission systems, practices, and supporting entities
 
@@ -227,6 +231,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Ādhāra Śilā 108 | ✅ Editorial freeze synchronized |
 | Jīvanta Paramparā Architecture | ✅ Frozen |
 | Jīvanta Paramparā Methodology | ✅ Complete & Frozen |
+| JP-001 — Śrī Vaiṣṇava Sampradāya | ✅ Populated as Pilot #1 |
 
 ---
 
@@ -245,6 +250,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-08-04 | Updated repository version to 5.2 for Repository Operational Maturity, adopting Release Notes.md and stabilizing Project Handover.md as the operational control document. |
 | 2026-08-08 | Updated repository version to 5.3 for the Ādhāra Śilā Editorial Freeze, freezing Sections IV, VII, and VIII and preparing the repository for QA and Jīvanta Paramparā. |
 | 2026-08-09 | Updated repository version to 5.4 for the Jīvanta Paramparā architecture and methodology foundation. |
+| 2026-08-09 | Populated JP-001 — Śrī Vaiṣṇava Sampradāya as the first controlled Jīvanta Paramparā pilot without changing repository version 5.4. |
 
 
 ---
