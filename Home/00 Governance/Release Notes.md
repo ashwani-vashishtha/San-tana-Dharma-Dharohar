@@ -10,8 +10,7 @@
 
 ## Summary
 
-Version 5.3 captures the completion of the major editorial architecture of **Ādhāra Śilā (आधार शिला)**. Sections IV, VII, and VIII are now permanently frozen, and the repository has been synchronized for the transition into repository QA followed by **Jīvanta Paramparā**.
-
+Version 5.3 captures the completion of the major editorial architecture of **Ādhāra Śilā (आधार शिला)**. Sections IV, VII, and VIII are now permanently frozen, and the repository has been synchronized for the transition into repository QA followed by **Jīvanta Paramparā**. 
 ---
 
 ## Editorial Milestones
