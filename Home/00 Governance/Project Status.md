@@ -44,15 +44,15 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Phase
 
-**Repository Synchronization & QA**
+**Repository Owner Review & Repository QA**
 
 ---
 
 # Current Work Package
 
-**Repository Synchronization & QA**
+**Repository Owner Review & Repository QA**
 
-Next work package: **Repository Owner review followed by controlled Jīvanta Paramparā population**
+Next work package: **Controlled Jīvanta Paramparā population**
 
 ---
 
@@ -61,13 +61,13 @@ Next work package: **Repository Owner review followed by controlled Jīvanta Par
 ## Governance
 
 - ✅ Constitution v1.2
-- ✅ Decision Ledger v1.6
+- ✅ Decision Ledger v1.7
 - ✅ Repository Structure
 - ✅ Metadata Standard
 - 🟡 Research & Citation Policy (Framework established; content pending)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
-- ✅ Project Handover v5.4 operational framework
+- ✅ Project Handover v5.5 operational framework
 - ✅ Release Notes workflow adopted
 
 ## Editorial Framework
@@ -153,7 +153,7 @@ This layer preserves the richness of Sanātana Dharma without imposing canonical
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on **Repository Synchronization & QA** for the Jīvanta Paramparā architecture and methodology foundation following the completed Ādhāra Śilā Editorial Freeze.
+Current effort is focused on **Repository Owner Review & Repository QA** for the completed Jīvanta Paramparā architecture and methodology foundation synchronization.
 
 ---
 
@@ -164,7 +164,7 @@ Current effort is focused on **Repository Synchronization & QA** for the Jīvant
 - ✅ Section IV – Dharma, Darśana & Philosophical Traditions permanently frozen
 - ✅ Section VII – Bhakti Literature permanently frozen
 - ✅ Section VIII – Mantra & Liturgical Literature permanently frozen
-- 🟡 Repository-wide synchronization and QA
+- 🟡 Repository Owner review and repository QA
 - ✅ Jīvanta Paramparā architecture v1.0 frozen
 - ✅ Jīvanta Paramparā methodology v1.0 complete and frozen
 - ⏳ Final allocation across the Ādhāra Śilā taxonomy
@@ -180,7 +180,7 @@ Current effort is focused on **Repository Synchronization & QA** for the Jīvant
 
 # Next Task
 
-Complete Repository Owner review and repository QA following synchronization, then begin controlled work in:
+Complete Repository Owner review and repository QA. After QA acceptance, begin controlled work in:
 
 **Jīvanta Paramparā**
 
