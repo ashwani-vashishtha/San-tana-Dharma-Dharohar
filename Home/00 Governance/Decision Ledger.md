@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 1.7
+Version: 1.8
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-09
+Last Updated: 2026-08-10
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -17,6 +17,7 @@ Related Documents:
 - Ādhāra Śilā Taxonomy.md
 - Ādhāra Śilā Editorial Guide.md
 - Traditions Framework.md
+- Sādhaka Guidance System.md
 
 ---
 
@@ -110,6 +111,7 @@ The following decision states are used throughout this ledger.
 | DL-049 | Practice-Oriented Material Assigned to Jīvanta Paramparā | Frozen |
 | DL-050 | Classification by Primary Literary Form Adopted Repository-Wide | Frozen |
 | DL-051 | Jīvanta Paramparā Architecture and Methodology Foundation | Frozen |
+| DL-052 | Sādhaka Guidance System as Conceptual Guidance Layer | Accepted |
 
 ---
 
@@ -128,6 +130,26 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-052 — Sādhaka Guidance System as Conceptual Guidance Layer
+
+**Status:** Accepted
+
+**Date:** 2026-08-10
+
+### Decision
+
+The **Sādhaka Guidance System** is accepted as the current conceptual architecture for a guidance and navigation layer over the existing repository knowledge architecture.
+
+The system is intended to help future users move from aspiration or inquiry toward responsible, evidence-aware learning and appropriately bounded sādhana while drawing from **Ādhāra Śilā**, **Jīvanta Paramparā**, and **Dharma Sāgara**.
+
+This decision approves the conceptual direction only. It does not authorize executable sādhana pathways, Sādhaka State schemas, Practice Provenance schemas, automated spiritual scoring, initiation-dependent practice instructions, new mantra recommendations, or additional Jīvanta Paramparā population.
+
+### Reason
+
+The repository has completed JP-001 as the first controlled Jīvanta Paramparā pilot and now requires a clearly bounded conceptual design phase for turning the repository into a responsible Sādhaka journey without collapsing the responsibilities of its existing knowledge layers or replacing living Guru / Ācārya guidance.
 
 ---
 
@@ -522,3 +544,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.5 | 2026-07-29 | Added DL-035 through DL-037 establishing the Project Handover as the official AI handshake protocol, defining the foundational Kavaca selection principle, and formally distinguishing textual works from curated practice collections within the three-layer knowledge architecture. |
 | 1.6 | 2026-08-08 | Synchronized approved Ādhāra Śilā Editorial Freeze decisions, including permanent freeze status for Sections IV, VII, and VIII; finalized Mantra and Liturgical Literature architecture; repository-wide classification by primary literary form; removal of practice-oriented categories from Ādhāra Śilā; and assignment of practice-oriented material to Jīvanta Paramparā. |
 | 1.7 | 2026-08-09 | Froze the Jīvanta Paramparā architecture v1.0 and methodology v1.0 as the foundation for the next repository phase. |
+| 1.8 | 2026-08-10 | Accepted the Sādhaka Guidance System as a conceptual guidance/navigation layer over the existing repository architecture without authorizing implementation or changing frozen foundations. |

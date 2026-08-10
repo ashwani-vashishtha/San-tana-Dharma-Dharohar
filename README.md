@@ -124,9 +124,11 @@ The repository follows the approved three-layer architecture:
 
 For the current operational state, refer to **Project Handover.md**. For the repository's governed project status, refer to **Project Status.md**.
 
-**Current Milestone:** Controlled Jīvanta Paramparā Population — JP-001 Pilot
+**Current Milestone:** Sādhaka Guidance System — Conceptual Architecture
 
-**Repository Status:** JP-001 Repository Synchronization & QA
+**Repository Status:** Conceptual architecture refinement; implementation not begun
+
+**Latest Completed Pilot:** JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 
 ---
 

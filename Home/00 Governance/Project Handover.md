@@ -1,9 +1,9 @@
 # Project Handover
 
-Version: 5.6
+Version: 5.7
 Status: Approved
 Created: 2026-07-19
-Last Updated: 2026-08-09
+Last Updated: 2026-08-10
 Owner: Sanātana Dharma Dharohar Project
 Related Documents:
 
@@ -17,6 +17,7 @@ Related Documents:
 - Ādhāra Śilā 108.md
 - Traditions Framework.md
 - JP-001 Śrī Vaiṣṇava Sampradāya.md
+- Sādhaka Guidance System.md
 
 ---
 
@@ -170,7 +171,7 @@ This section records **how the repository is currently operating**, not its gove
 | Editorial Framework | Stable |
 | Synchronization Framework | Stable |
 | Repository Structure | Stable |
-| Current Development Stage | Controlled Jīvanta Paramparā Population — JP-001 Pilot |
+| Current Development Stage | Sādhaka Guidance System — Conceptual Architecture |
 
 ---
 
@@ -178,10 +179,10 @@ This section records **how the repository is currently operating**, not its gove
 
 | Item | Current State |
 |------|---------------|
-| Primary Activity | JP-001 Repository Synchronization & QA |
-| Current Milestone | Controlled Jīvanta Paramparā Population — JP-001 Pilot |
-| Primary Working File | JP-001 Śrī Vaiṣṇava Sampradāya.md |
-| Editorial State | JP-001 populated as Pilot #1; Ādhāra Śilā freeze intact; Jīvanta Paramparā architecture v1.0 and methodology v1.0 frozen |
+| Primary Activity | Sādhaka Guidance System Conceptual Architecture Refinement |
+| Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
+| Primary Working File | Sādhaka Guidance System.md |
+| Editorial State | JP-001 completed as Pilot #1; Sādhaka Guidance System v0.1 accepted as conceptual architecture; Ādhāra Śilā freeze intact; Jīvanta Paramparā architecture v1.0 and methodology v1.0 frozen |
 
 ---
 
@@ -204,18 +205,19 @@ The following principles govern repository operations during the current milesto
 
 ## Active Editorial Context
 
-The repository has completed the approved **Ādhāra Śilā (आधार शिला)** Editorial Freeze for Sections IV, VII, and VIII, synchronized the **Jīvanta Paramparā** architecture and methodology foundation, and populated **JP-001 — Śrī Vaiṣṇava Sampradāya** as the first controlled Jīvanta Paramparā pilot.
+The repository has completed the approved **Ādhāra Śilā (आधार शिला)** Editorial Freeze for Sections IV, VII, and VIII, synchronized the **Jīvanta Paramparā** architecture and methodology foundation, populated **JP-001 — Śrī Vaiṣṇava Sampradāya** as the first controlled Jīvanta Paramparā pilot, and entered the **Sādhaka Guidance System** conceptual architecture phase.
 
 Current editorial assumptions include:
 
 - Master Candidate List.md is the authoritative editorial inventory.
 - Works are classified according to their primary literary form and primary contribution where relevant.
 - Ādhāra Śilā represents a curated foundational canon rather than an exhaustive bibliography.
-- Current work emphasizes repository synchronization and QA rather than new editorial analysis.
+- Current work emphasizes conceptual architecture synchronization and design refinement rather than implementation or new editorial analysis.
 - Sections IV, VII, and VIII are permanently frozen.
 - Jīvanta Paramparā Architecture v1.0 is frozen.
 - Jīvanta Paramparā Methodology v1.0 is complete and frozen.
 - JP-001 is the only populated Jīvanta Paramparā entity authorized by the current synchronization prompt.
+- Sādhaka Guidance System v0.1 is a guidance/navigation architecture over existing repository layers, not an implementation authorization.
 - Editorial discussions should produce measurable repository progress whenever practical.
 
 ---
@@ -234,6 +236,7 @@ The following files serve as the authoritative references for their respective d
 | Editorial Standards | Ādhāra Śilā Editorial Guide.md |
 | Jīvanta Paramparā Framework | Traditions Framework.md |
 | JP-001 Pilot Entry | JP-001 Śrī Vaiṣṇava Sampradāya.md |
+| Sādhaka Guidance System Conceptual Architecture | Sādhaka Guidance System.md |
 | Operational State | Project Handover.md |
 
 ---
@@ -332,11 +335,11 @@ This section summarizes the repository's current operational state at a glance.
 |------|---------------|
 | Repository Status | Active Development |
 | Repository Version | 5.4 |
-| Repository Operating Mode | JP-001 Repository Synchronization & QA |
-| Current Milestone | Controlled Jīvanta Paramparā Population — JP-001 Pilot |
-| Current Phase | JP-001 Repository Synchronization & QA |
-| Current Deliverable | JP-001 Śrī Vaiṣṇava Sampradāya |
-| Current Editorial Work Package | JP-001 Pilot Owner Review |
+| Repository Operating Mode | Sādhaka Guidance System Conceptual Architecture |
+| Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
+| Current Phase | Conceptual Architecture Refinement |
+| Current Deliverable | Sādhaka Guidance System v0.1 governance synchronization |
+| Current Editorial Work Package | Repository Owner review of Sādhaka Guidance System conceptual synchronization |
 | Repository Maintenance | See Repository Maintenance Queue |
 
 ---
@@ -350,7 +353,7 @@ This section summarizes the overall operational health of the repository.
 | Repository Architecture | Stable |
 | Governance | Stable |
 | Editorial Framework | Stable |
-| Editorial Progress | Ādhāra Śilā Frozen; Jīvanta Paramparā Foundation Frozen; JP-001 Populated |
+| Editorial Progress | Ādhāra Śilā Frozen; Jīvanta Paramparā Foundation Frozen; JP-001 Completed as Pilot #1; Sādhaka Guidance System Conceptual Architecture Active |
 | Core Canon Progress | Editorial Freeze Completed |
 | Synchronization | Current |
 | Repository Structure | Stable |
@@ -366,9 +369,9 @@ Summarize the repository's governance state without duplicating governance docum
 | Item | Status |
 |------|--------|
 | Constitution Version | 1.2 |
-| Decision Ledger Version | 1.7 |
+| Decision Ledger Version | 1.8 |
 | Governance Status | Stable |
-| Governance Changes Since Previous Session | Decision Ledger synchronized with approved Jīvanta Paramparā architecture and methodology foundation |
+| Governance Changes Since Previous Session | DL-052 accepted the Sādhaka Guidance System as a conceptual guidance/navigation layer without authorizing implementation |
 
 ---
 
@@ -384,7 +387,8 @@ Track the operational progress of the repository's principal deliverables.
 | Editorial Framework | Complete | Frozen |
 | Master Candidate List | Frozen | Sections IV, VII, and VIII synchronized with editorial freeze |
 | Ādhāra Śilā (आधार शिला) 108 | Frozen | Progress tracker synchronized with editorial freeze |
-| Jīvanta Paramparā | Active Controlled Population | JP-001 populated as Pilot #1; architecture v1.0 frozen; methodology v1.0 complete and frozen |
+| Jīvanta Paramparā | Pilot #1 Completed | JP-001 populated as Pilot #1; architecture v1.0 frozen; methodology v1.0 complete and frozen; no additional population authorized |
+| Sādhaka Guidance System | Conceptual Architecture | v0.1 accepted as a guidance/navigation layer over existing repository layers; implementation not begun |
 | Dharma Sāgara | Planned | Future milestone |
 | Release Notes | Active | Repository version history |
 
@@ -405,19 +409,19 @@ The Synchronization Assistant shall synchronize this section, but shall never in
 
 ## Current Work Package
 
-Complete Repository Owner review and commit of **JP-001 — Śrī Vaiṣṇava Sampradāya** following repository synchronization and QA.
+Complete Repository Owner review of the **Sādhaka Guidance System — Conceptual Architecture** synchronization before any commit.
 
 ---
 
 ## Current Editorial Focus
 
-JP-001 Repository Synchronization & QA
+Sādhaka Guidance System Conceptual Architecture Refinement
 
 ---
 
 ## Next Recommended Work Package
 
-Future Jīvanta Paramparā population only through explicitly approved controlled work packages
+Future Sādhaka Guidance System design refinement after Repository Owner review; future Jīvanta Paramparā population only through explicitly approved controlled work packages
 
 ---
 
@@ -505,6 +509,9 @@ This section records repository progress rather than conversational history.
 - Jīvanta Paramparā Methodology v1.0 complete and frozen.
 - JP-001 — Śrī Vaiṣṇava Sampradāya populated as the first controlled Jīvanta Paramparā pilot.
 - Repository version remains **5.4**; no new repository release was created for JP-001 population.
+- Sādhaka Guidance System v0.1 accepted as conceptual architecture for the responsible Sādhaka journey foundation.
+- Repository transitioned from JP-001 synchronization into Sādhaka Guidance System conceptual architecture refinement.
+- No implementation schemas, executable sādhana pathways, automated scoring, or additional Jīvanta Paramparā population were introduced.
 
 ---
 
@@ -517,18 +524,18 @@ This section records repository progress rather than conversational history.
 - Jīvanta Paramparā editorial workflow and quality-control process frozen.
 - Jīvanta Paramparā methodology v1.0 complete and frozen.
 - JP-001 Owner Approval implemented for repository population.
+- Sādhaka Guidance System accepted as a conceptual guidance/navigation layer over Ādhāra Śilā, Jīvanta Paramparā, and Dharma Sāgara.
 
 ---
 
 ## Repository Synchronization
 
-- JP-001 Śrī Vaiṣṇava Sampradāya.md created as the first controlled Jīvanta Paramparā population entry.
-- Project Handover.md regenerated to Version 5.6 for the next ChatGPT session.
-- Project Status.md synchronized to reflect JP-001 population while preserving repository version 5.4.
-- README.md synchronized to reflect the JP-001 pilot milestone.
+- Sādhaka Guidance System.md added as the authoritative conceptual architecture document at v0.1.
+- Decision Ledger.md updated to v1.8 with DL-052.
+- Project Status.md synchronized to the Sādhaka Guidance System conceptual phase while preserving repository version 5.4.
+- README.md synchronized to reflect the current conceptual phase.
+- Project Handover.md regenerated to Version 5.7 for the next ChatGPT session.
 - Release Notes.md reviewed; no new repository release entry added because repository version remains 5.4.
-- Decision Ledger.md reviewed; no new governance decision added because JP-001 is an approved editorial/repository action under existing frozen methodology.
-- Master Candidate List.md and Ādhāra Śilā 108.md reviewed; no synchronization necessary.
 
 ---
 
@@ -538,12 +545,13 @@ This section records repository progress rather than conversational history.
 - Masterworks editorial tier.
 - Future Jīvanta Paramparā entries beyond JP-001 until explicitly approved.
 - Source bibliography completion for JP-001.
+- Implementation design for Sādhaka State, Practice Provenance, Sādhana Checkpoints, Gate Pass logic, and executable pathways until explicitly authorized.
 
 ---
 
 ## Resume Point
 
-Resume with Repository Owner review and commit of JP-001. Do not begin JP-002 or additional Jīvanta Paramparā population without explicit approval.
+Resume with Repository Owner review of the Sādhaka Guidance System conceptual architecture synchronization. Do not begin implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
 
 ---
 
@@ -558,9 +566,9 @@ Confirm repository readiness following synchronization and before editorial work
 | Repository Synchronized | Yes |
 | Editorial Work Queue Validated | Yes |
 | Repository Maintenance Queue Validated | Yes |
-| Governance Changes Since Handover | Decision Ledger synchronized to v1.7 |
+| Governance Changes Since Handover | Decision Ledger synchronized to v1.8 with DL-052 |
 | Blocking Issues | None |
-| Ready for Editorial Work | Ready for Repository Owner review of JP-001; future population requires explicit approval |
+| Ready for Editorial Work | Ready for Repository Owner review of Sādhaka Guidance System conceptual synchronization; implementation and future population require explicit approval |
 
 ---
 
@@ -573,13 +581,14 @@ Record the outcome of the most recent synchronization.
 | Item | Status |
 |------|--------|
 | Synchronization Status | Completed |
-| Validation Result | JP-001 repository synchronization completed. JP-001 Śrī Vaiṣṇava Sampradāya populated as Pilot #1 using the frozen Jīvanta Paramparā methodology; repository version remains 5.4; Project Handover updated to v5.6; Decision Ledger remains v1.7; Constitution remains v1.2; no additional Jīvanta Paramparā entity was populated. |
-| Synchronization Timestamp | 2026-08-09 20:57 |
+| Validation Result | Sādhaka Guidance System conceptual architecture synchronization completed. JP-001 remains completed as Pilot #1; Sādhaka Guidance System.md is present at v0.1; repository version remains 5.4; Project Handover updated to v5.7; Decision Ledger updated to v1.8; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
+| Synchronization Timestamp | 2026-08-10 |
 
 ---
 
 ## Files Updated
 
+- Decision Ledger.md
 - Project Status.md
 - README.md
 - Project Handover.md
@@ -588,7 +597,7 @@ Record the outcome of the most recent synchronization.
 
 ## Files Created
 
-- JP-001 Śrī Vaiṣṇava Sampradāya.md
+- Sādhaka Guidance System.md
 
 ---
 
@@ -627,6 +636,10 @@ Record repository observations that require future attention.
 - Project Status.md now reflects JP-001 as the first controlled Jīvanta Paramparā population.
 - README.md now reflects the JP-001 pilot milestone.
 - Handover now identifies JP-001 as populated and ready for Repository Owner review.
+- Sādhaka Guidance System.md now has standard governance metadata and remains conceptual architecture v0.1.
+- Project Status.md now identifies Sādhaka Guidance System conceptual architecture refinement as the current phase.
+- Decision Ledger.md now records DL-052 as an accepted conceptual architecture decision.
+- README.md now reflects the current conceptual phase and JP-001 as the latest completed pilot.
 
 ---
 
@@ -643,16 +656,18 @@ Record repository observations that require future attention.
 - Ādhāra Śilā Methodology.md is missing a Revision History heading.
 - No concrete Jīvanta Paramparā entry template exists.
 - JP-001 source bibliography is not yet source-complete beyond the Owner-approved editorial record.
+- Sādhaka Guidance System implementation artifacts do not yet exist and are intentionally deferred.
 
 ---
 
 ## Recommendations
 
-- Complete Repository Owner review of JP-001 before commit.
+- Complete Repository Owner review of the Sādhaka Guidance System conceptual architecture synchronization before commit.
 - Maintain the frozen state of Sections IV, VII, and VIII unless governance explicitly reopens them.
 - Address technical debt only when it does not interrupt editorial progress.
 - Create or approve Jīvanta Paramparā templates before adding individual entries.
 - Complete JP-001 source bibliography before treating the entry as fully source-complete.
+- Keep future Sādhaka Guidance System implementation planning separate from conceptual architecture approval.
 
 ---
 
@@ -662,6 +677,8 @@ Record repository observations that require future attention.
 - No Jīvanta Paramparā entity beyond JP-001 was populated.
 - JP-001 relationship claims rely on the Owner-approved editorial record; detailed bibliographic source completion remains pending.
 - No new repository version was created during JP-001 synchronization.
+- No new repository version was created during Sādhaka Guidance System conceptual architecture synchronization.
+- Sādhaka Guidance System v0.1 does not authorize practice prescriptions, initiation-dependent instructions, spiritual attainment certification, or automated sādhaka scoring.
 
 ---
 
@@ -988,3 +1005,4 @@ Detailed repository changes are maintained in **Release Notes.md**.
 | 5.4 | 2026-08-09 | Jīvanta Paramparā — Architecture & Methodology Foundation. See Release Notes.md |
 | 5.5 | 2026-08-09 | Regenerated for repository version 5.4 and synchronized the Jīvanta Paramparā architecture and methodology foundation for the next ChatGPT session. |
 | 5.6 | 2026-08-09 | Regenerated for JP-001 Śrī Vaiṣṇava Sampradāya pilot population and repository synchronization. |
+| 5.7 | 2026-08-10 | Regenerated for Sādhaka Guidance System conceptual architecture synchronization and Repository Owner review before commit. |

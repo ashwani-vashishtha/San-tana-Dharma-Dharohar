@@ -2,11 +2,11 @@
 
 ## Repository Synchronization
 
-## Phase: **Controlled Jīvanta Paramparā Population**
+## Phase: **Sādhaka Guidance System — Conceptual Architecture**
 
 ### Release / Synchronization Name
 
-**Jīvanta Paramparā — JP-001 Śrī Vaiṣṇava Sampradāya Pilot**
+**Sādhaka Guidance System — Responsible Sādhaka Journey Foundation**
 
 ---
 
@@ -16,33 +16,54 @@ This document is updated for every repository synchronization.
 
 # OBJECTIVE
 
-Synchronize the repository based on the approved editorial decisions and the completed Owner Review for:
+Synchronize the repository to reflect the newly approved **Sādhaka Guidance System — Conceptual Architecture**.
 
-**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय (Śrī Vaiṣṇava Sampradāya)**
+The project is transitioning from the completed:
 
-This synchronization constitutes the **first controlled Jīvanta Paramparā population**.
+**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय**
 
-JP-001 is the approved Pilot #1 for validating the frozen Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 in actual repository content.
+controlled Jīvanta Paramparā pilot into the next design phase:
 
-This remains a repository synchronization task governed by the repository's existing governance and operating procedures.
+> **Design the system that turns the repository into a responsible Sādhaka journey.**
+
+The approved conceptual architecture is maintained separately in:
+
+**`Home/00 Governance/Sādhaka Guidance System.md`**
+
+Current architecture version:
+
+**v0.1**
+
+This synchronization establishes the new design direction in the repository's governance and operational documents.
+
+This is a **conceptual architecture synchronization**, not an implementation of the Sādhaka Guidance System.
+
+The repository itself remains the **Single Source of Truth** for current repository state.
 
 Do NOT:
 
-* perform new independent editorial analysis beyond what is necessary to implement the already approved JP-001 editorial record;
-* introduce new governance decisions;
-* redesign the existing Jīvanta Paramparā architecture;
-* redesign the frozen methodology;
-* independently select additional Jīvanta Paramparā candidates;
-* populate any tradition other than JP-001;
-* invent repository structures, metadata, relationships, evidence, or sources;
-* convert traditional claims into historical claims without evidence;
-* convert institutional self-description into independent historical proof;
-* invent a new repository version number;
-* silently resolve governance conflicts through assumption.
+* implement the Sādhaka Guidance System;
+* create executable Sādhana pathways;
+* create Sādhaka State schemas;
+* create Practice Provenance schemas;
+* create Sādhana Checkpoint templates;
+* create Gate Pass implementations;
+* create automated Sādhaka scoring;
+* create spiritual attainment rankings;
+* prescribe new Mantras or Sādhana practices;
+* populate additional Jīvanta Paramparā entities;
+* modify JP-001 beyond what is required to accurately record its completed status;
+* redesign Ādhāra Śilā;
+* redesign Jīvanta Paramparā Architecture v1.0;
+* redesign Jīvanta Paramparā Methodology v1.0;
+* introduce new religious/editorial analysis;
+* invent Pramāṇa, lineage, Guru, Diksha, ritual or practice requirements;
+* invent governance decisions;
+* invent repository version numbers;
+* silently resolve governance conflicts through assumption;
+* commit or push.
 
 When uncertainty exists, report it rather than making assumptions.
-
-The repository itself remains the Single Source of Truth for current repository state.
 
 ---
 
@@ -50,30 +71,34 @@ The repository itself remains the Single Source of Truth for current repository 
 
 Execute this synchronization in accordance with:
 
-* **Codex Operating Guide.md**
+**`Codex Operating Guide.md`**
 
 Follow the governance hierarchy defined therein.
 
 Treat:
 
-* **Project Handover.md** as the operational source of truth.
-* **Constitution.md** as the highest governance authority.
-* **Codex Operating Guide.md** as the governing operating procedure.
-* The repository itself as the Single Source of Truth for current repository state.
+* **`Project Handover.md`** as the operational source of truth;
+* **`Constitution.md`** as the highest governance authority;
+* **`Codex Operating Guide.md`** as the governing operating procedure;
+* the repository itself as the Single Source of Truth for current repository state;
+* **`Sādhaka Guidance System.md`** as the authoritative repository document for the approved conceptual architecture.
 
 Before making any changes:
 
 1. Read the current `Project Handover.md` from the repository.
 2. Read `Codex Operating Guide.md`.
 3. Read the governance documents identified as relevant by the Handover and Operating Guide.
-4. Inspect the actual current repository state on `Dev_branch`.
-5. Confirm that JP-001 remains Owner Approved.
-6. Confirm that the Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 remain frozen.
-7. Confirm that no later governance decision supersedes this authorization.
+4. Read `Sādhaka Guidance System.md`.
+5. Inspect the actual current repository state on `Dev_branch`.
+6. Confirm that JP-001 remains the completed first controlled Jīvanta Paramparā pilot.
+7. Confirm that Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 remain frozen.
+8. Confirm that the Ādhāra Śilā foundational state remains intact.
+9. Confirm that no later governance decision supersedes the current transition.
+10. Determine whether the new conceptual direction requires a governance Decision Ledger entry.
 
 Do NOT use historical ChatGPT conversation context to establish repository state.
 
-This prompt contains the approved task scope, but the repository's current Handover remains authoritative for operational state.
+This prompt defines the approved synchronization scope, but the repository's current Handover remains authoritative for operational state.
 
 ---
 
@@ -83,9 +108,11 @@ Do NOT assume or invent the next repository version.
 
 Read:
 
-* Project Handover.md
-* Release Notes.md
-* Codex Operating Guide.md
+* `Project Handover.md`
+* `Project Status.md`
+* `Release Notes.md`
+* `Decision Ledger.md`
+* `Codex Operating Guide.md`
 * existing repository version history
 
 Determine whether this synchronization requires:
@@ -93,6 +120,7 @@ Determine whether this synchronization requires:
 * a repository version change;
 * a Project Handover revision;
 * a release-note entry;
+* a document revision only;
 * no repository release/version change.
 
 Report the determination explicitly.
@@ -103,793 +131,439 @@ Preserve the distinction between:
 * Project Handover revision;
 * architecture version;
 * methodology version;
-* JP-001 editorial version.
+* document revision;
+* editorial/pilot version.
 
-Do not create a new repository version merely because JP-001 is being populated.
+The existence of **Sādhaka Guidance System v0.1** does not by itself require a repository version change.
 
 Follow the repository's established versioning conventions.
 
 ---
 
-# APPROVED EDITORIAL STATE
-
-The following decisions have already passed Editorial Review, Quality Review and Owner Review.
+# APPROVED PROJECT STATE
 
 ## ĀDHĀRA ŚILĀ
 
 The **Ādhāra Śilā Editorial Freeze** remains intact.
 
-The following remain permanently frozen:
+The foundational **108 resources remain permanently valuable and foundational** to the project.
 
-* Section IV – Dharma, Darśana & Philosophical Traditions.
-* Section VII – Bhakti Literature.
-* Section VIII – Mantra & Liturgical Literature.
+Do NOT:
 
-Do NOT reopen, re-evaluate, or redesign these frozen sections.
+* reopen frozen sections;
+* redesign the 108;
+* reinterpret the 108 as obsolete;
+* replace the 108 with the Sādhaka Guidance System;
+* duplicate canonical content unnecessarily.
 
-Any cross-layer relationship involving existing Ādhāra Śilā content must preserve the responsibility of that layer.
-
----
-
-# JĪVANTA PARAMPARĀ ARCHITECTURE v1.0
-
-**Status: FROZEN**
-
-Jīvanta Paramparā represents Sanātana Dharma as a living continuum of:
-
-* Traditions
-* Sampradāyas
-* Lineages
-* Transmission systems
-* Practices
-* Living expressions
-
-The architecture is relational rather than a mandatory hierarchy.
-
-## Core Dimensions
-
-1. Tradition — परम्परा
-2. Sampradāya — सम्प्रदाय
-3. Lineage — गुरु–शिष्य परम्परा
-4. Transmission — परम्परा-प्रेषण
-5. Practice — साधना / आचार
-6. Living Expression — जीवित अभिव्यक्ति
-
-## Supporting Entities
-
-* Person / Teacher / Ācārya / Guru
-* Institution
-* Community
-* Movement
-* Ritual
-* Festival / Observance
-
-The following distinctions remain mandatory:
-
-* Tradition ≠ Sampradāya.
-* Sampradāya ≠ Lineage.
-* Lineage ≠ Transmission.
-* Practice ≠ Tradition.
-* Institution ≠ Community.
-* A traditional lineage claim ≠ a historically documented relationship.
-* A modern movement ≠ automatically an ancient sampradāya.
-
-Do NOT alter this architecture during JP-001 population.
+The Sādhaka Guidance System is a **guidance/navigation layer over the repository**, not a replacement for Ādhāra Śilā.
 
 ---
 
-# JĪVANTA PARAMPARĀ METHODOLOGY v1.0
+# JĪVANTA PARAMPARĀ
 
-**Status: COMPLETE & FROZEN**
+**Jīvanta Paramparā Architecture v1.0 remains FROZEN.**
 
-The following methodology remains authoritative.
+**Jīvanta Paramparā Methodology v1.0 remains COMPLETE & FROZEN.**
 
-## 1. Evidence Framework — FROZEN
+Do not redesign either during this synchronization.
 
-Evidence classes:
-
-* E1 — Primary / Direct Evidence
-* E2 — Traditional / Internal Evidence
-* E3 — Scholarly / Historical Analysis
-* E4 — Contemporary Institutional Evidence
-* E5 — Practitioner / Community Evidence
-
-Claim types:
-
-* TC — Traditional Claim
-* HC — Historical Claim
-* SC — Scholarly Claim
-* CC — Contemporary Claim
-* PC — Practice Claim
-
-Evidence status:
-
-* Verified
-* Supported
-* Traditional Claim
-* Contemporary Claim
-* Disputed
-* Uncertain
-* Unverified
-
-Core principle:
-
-> Evidence strength must not be confused with spiritual, doctrinal, or institutional authority.
-
-The repository must distinguish:
-
-* what a tradition claims;
-* what historical evidence establishes;
-* what scholarship interprets;
-* what is currently practiced.
+The conceptual Sādhaka Guidance System must operate across the repository without changing the approved Jīvanta Paramparā architecture.
 
 ---
 
-## 2. Inclusion Criteria — FROZEN
+# JP-001 STATUS
 
-Jīvanta Paramparā may include meaningful, documentable living expressions based on:
+**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय**
 
-* Living Continuity
-* Traditional Continuity
-* Practice Significance
-* Transmission Significance
-* Community Significance
-* Institutional Significance
-* Civilizational / Historical Continuity
-* Representative Value
+remains the completed first controlled Jīvanta Paramparā pilot.
 
-Mandatory gates:
+Its completion must be accurately reflected in:
 
-1. Scope
-2. Living Status
-3. Evidence
-4. Distinctiveness
+* Project Status;
+* Project Handover;
+* relevant release/synchronization documentation.
 
-Meaningful contemporary continuity or contemporary practice is required.
+Do NOT:
 
-Inclusion does not imply:
+* reopen JP-001 editorial decisions;
+* independently expand JP-001;
+* create JP-002;
+* populate another tradition;
+* treat the completion of JP-001 as completion of the entire Jīvanta Paramparā population.
 
-* canonical status;
-* spiritual superiority;
-* historical primacy;
-* institutional primacy;
-* authenticity certification;
-* repository endorsement.
+Any existing JP-001 technical debt or source-completeness limitations must remain accurately recorded.
 
 ---
 
-## 3. Entity Metadata & Relationship Schema — FROZEN
+# SĀDHAKA GUIDANCE SYSTEM
 
-Primary entity dimensions:
+The conceptual architecture is maintained in:
 
-* Tradition
-* Sampradāya
-* Lineage
-* Transmission
-* Practice
-* Living Expression
+**`Home/00 Governance/Sādhaka Guidance System.md`**
 
-Supporting entities:
+Current version:
 
-* Person / Teacher / Ācārya / Guru
-* Institution
-* Community
-* Movement
-* Practice subtypes including Ritual, Festival, Vrata, Pārāyaṇa, Japa, Pūjā, Homa, etc.
+**v0.1**
 
-Controlled relationship vocabulary includes:
+This document is the authoritative repository source for the conceptual Sādhaka Guidance System.
 
-* belongs to
-* associated with
-* transmitted through
-* claims succession from
-* documented as successor of
-* identified as teacher of
-* practiced within
-* performed at
-* founded by
-* historically associated with
-* claims affiliation with
-* derived from / based upon
-* interprets / transmits
+The Codex Synchronization Prompt must **not duplicate the full architecture contained in that document**.
 
-Do not silently convert:
+Instead, use the document to determine the approved conceptual direction and synchronize the governance/operational state accordingly.
 
-> claims affiliation with
+The central project direction is:
 
-into:
+> **Design the system that turns the repository into a responsible Sādhaka journey.**
 
-> historically associated with
+The conceptual architecture includes, among other elements:
 
-Metadata must describe documented entities and relationships rather than encode hidden editorial judgments.
+* Sādhaka Entry;
+* Intent and Goal Discovery;
+* Pathway Selection;
+* Tradition / Devata Context;
+* Sādhaka State;
+* Adhikāra and Practice Eligibility;
+* Sādhana Precautions and Boundaries;
+* Preparation;
+* Small-step practice;
+* Practice periods;
+* Checkpoints;
+* Milestones;
+* Deepening;
+* Guru / Ācārya boundaries;
+* continuing Sādhaka journey.
+
+Treat these as **conceptual architecture**, not implementation authorization.
 
 ---
 
-# 4. Editorial Workflow & Quality Control — FROZEN
+# CORE ARCHITECTURAL DISTINCTIONS
 
-The approved workflow is:
+The synchronization must preserve the following conceptual distinctions established by the approved Sādhaka Guidance System:
 
-**Candidate → Scope & Inclusion → Entity Classification → Evidence Collection → Relationship Mapping → Editorial Draft → Quality Review → Owner Approval → Synchronization → Repository QA → Repository Ready**
+### Sādhaka State
 
-JP-001 has completed:
+Sādhaka State is a **guidance-depth and journey-context concept**, not a spiritual certification system.
 
-* Candidate
-* Scope & Inclusion
-* Entity Classification
-* Evidence Collection
-* Relationship Mapping
-* Editorial Draft
-* Quality Review
-* Owner Approval
+Do not create universal spiritual rankings.
 
-The current task begins at:
+Do not create:
 
-**Synchronization**
+* spiritual scores;
+* enlightenment percentages;
+* AI-certified realization;
+* AI-certified "Master" status;
+* automatic spiritual attainment levels.
 
-Quality checks remain:
+### Guidance Depth
 
-* Accuracy
-* Attribution
-* Classification
-* Scope / Boundary
-* Neutrality
-* Historical precision
-* Contemporary accuracy
-* Relationship integrity
-* Practice boundaries
-* Cross-layer integrity
-* Metadata integrity
+The system is intended eventually to adapt the depth of guidance to the Sādhaka's current context.
 
-No direct jump from research to repository.
+Beginner guidance should be appropriately foundational and incremental.
 
----
+Advanced guidance may eventually include deeper textual material, nuanced interpretation and authentic accounts/experiences of recognized sages where properly sourced.
 
-# JP-001 — OWNER-APPROVED POPULATION
+### Practice Boundary
 
-## Entity
+Sādhaka State does not automatically authorize a specific practice.
 
-**JP-001 — Śrī Vaiṣṇava Sampradāya**
+Practice eligibility must remain independently governed by:
 
-**श्रीवैष्णव सम्प्रदाय (Śrī Vaiṣṇava Sampradāya)**
+* tradition;
+* practice provenance;
+* prerequisites;
+* Adhikāra;
+* Guru / Ācārya requirements;
+* Diksha;
+* transmission;
+* restrictions and precautions.
 
-Entity Type:
+### Ultimate Aspiration
 
-**Sampradāya — सम्प्रदाय**
+A Sādhaka may identify **Moksha — मोक्ष** as an ultimate aspiration regardless of current journey state.
 
-Broad Tradition:
+Do not represent Moksha as a software progression level or AI-certifiable state.
 
-**Vaiṣṇavism — वैष्णव परम्परा**
+### Sādhana Progression
 
-Status:
+The conceptual progression is based on:
 
-**Owner Approved for controlled repository population**
+**small steps → practice → checkpoints → milestones → deepening**
 
-JP-001 is Pilot #1.
+Do not assume that completion of a numerical practice count or elapsed period automatically authorizes a more advanced practice.
 
-No other Jīvanta Paramparā entity is authorized for population by this prompt.
+### Sādhaka Self-Report
 
----
+Self-report may be used as a legitimate source of information about matters that cannot reasonably be independently verified.
 
-# JP-001 APPROVED REPRESENTATION
+Do not confuse Sādhaka self-report with:
 
-The following editorial decisions are approved.
+* Pramāṇa;
+* scholarly evidence;
+* traditional authority;
+* Guru / Ācārya recognition.
 
-## Identity
+### Guru / Ācārya Boundary
 
-Represent Śrī Vaiṣṇava Sampradāya as a living Vaiṣṇava Sampradāya associated with:
+The system may eventually educate and guide a Sādhaka toward living tradition.
 
-* Viṣṇu/Nārāyaṇa;
-* Śrī/Lakṣmī;
-* Āḻvār devotional heritage;
-* Nālāyira Divya Prabandham;
-* Ācārya-paramparā;
-* Viśiṣṭādvaita Vedānta;
-* temple traditions;
-* continuing community and institutional expression.
+It must not claim to:
 
----
+* confer Diksha;
+* replace a Guru;
+* certify spiritual realization;
+* certify enlightenment;
+* represent itself as the authoritative voice of a Sampradāya.
 
-## Rāmānujācārya
-
-Represent:
-
-**Śrī Rāmānujācārya — श्री रामानुजाचार्य (Śrī Rāmānujācārya)**
-
-as a:
-
-**principal/formative Ācārya**
-
-and:
-
-**principal exponent of Viśiṣṭādvaita Vedānta**
-
-Do NOT simplify the historical representation to:
-
-> Śrī Vaiṣṇava Sampradāya → founded by → Rāmānuja
-
-unless an existing authoritative repository schema explicitly requires and evidence supports that relationship.
-
-The approved representation recognizes significant pre-Rāmānuja roots.
-
----
-
-## Nāthamuni
-
-Represent:
-
-**Śrī Nāthamuni — श्री नाथमुनि (Śrī Nāthamuni)**
-
-with appropriate distinction between:
-
-* traditional Ācārya-paramparā attribution;
-* historical evidence;
-* scholarly interpretation.
-
-Do not convert traditional attribution into an unqualified historical assertion.
-
----
-
-## Yāmunācārya
-
-Represent:
-
-**Śrī Yāmunācārya — श्री यामुनाचार्य (Śrī Yāmunācārya)**
-
-as an important traditional and intellectual predecessor associated with the formation of the tradition and the development leading toward Rāmānuja.
-
-Do not automatically encode a simple guru → disciple relationship unless the repository's evidence model and source evidence support that exact relationship.
-
----
-
-## Āḻvārs
-
-Represent:
-
-**Āḻvār — आळ्वार (Āḻvār)**
-
-as central devotional figures in Śrī Vaiṣṇava heritage.
-
----
-
-## Nālāyira Divya Prabandham
-
-Represent:
-
-**Nālāyira Divya Prabandham — नालायिर दिव्यप्रबन्धम्**
-
-as:
-
-* textual/devotional heritage;
-* living devotional transmission;
-* a cross-layer relationship where appropriate.
-
-Do not duplicate canonical/textual content already belonging to Ādhāra Śilā.
-
----
-
-## Viśiṣṭādvaita Vedānta
-
-Represent:
-
-**Viśiṣṭādvaita Vedānta — विशिष्टाद्वैत वेदान्त**
-
-as the philosophical system conventionally associated with Rāmānuja and mature Śrī Vaiṣṇava theology.
-
-Preferred relationship:
-
-**Rāmānujācārya → principal exponent → Viśiṣṭādvaita Vedānta**
-
-and:
-
-**Śrī Vaiṣṇava Sampradāya → associated philosophical tradition → Viśiṣṭādvaita Vedānta**
-
----
-
-## Śrī / Lakṣmī and Nārāyaṇa
-
-Represent:
-
-**Śrī / Lakṣmī — श्री / लक्ष्मी**
-
-and:
-
-**Nārāyaṇa — नारायण**
-
-as theological identity.
-
-Do not represent theological identity as historical genealogy or institutional succession.
-
----
-
-## Prapatti / Śaraṇāgati
-
-Represent:
-
-**Prapatti / Śaraṇāgati — प्रपत्ति / शरणागति**
-
-descriptively.
-
-Do not add initiation-specific, restricted, or prescriptive lineage instruction.
-
----
-
-## Vaṭakalai and Teṅkalai
-
-Represent:
-
-**Vaṭakalai — वडकलै**
-
-and:
-
-**Teṅkalai — तेङ्कलै**
-
-as major internal Śrī Vaiṣṇava schools/streams.
-
-Do not automatically classify them as separate Sampradāyas.
-
-Do not reduce their differences to a simplistic single formula.
-
----
-
-## Śrīraṅgam
-
-Represent:
-
-**Śrīraṅgam — श्रीरङ्गम्**
-
-as a major historical and continuing center of Śrī Vaiṣṇava religious life.
-
-Where appropriate, distinguish:
-
-* historical/religious association;
-* temple/institution;
-* contemporary living expression.
-
-Do not collapse the temple, institution and Sampradāya into one entity.
-
----
-
-# CONTEMPORARY LIVING STATUS
-
-The approved JP-001 editorial review established contemporary evidence of continuing:
-
-* Divya Prabandham recitation;
-* Āḻvār observances;
-* Ācārya/Jeeyar participation;
-* temple activity;
-* educational transmission;
-* institutional activity;
-* geographically distributed contemporary expression.
-
-When implementing the repository entry:
-
-* preserve contemporary evidence as contemporary evidence;
-* retain temporal attribution;
-* do not convert current institutional self-description into historical proof;
-* cite the relevant sources according to repository conventions.
-
----
-
-# GAUḌĪYA BOUNDARY
-
-Keep:
-
-**Gauḍīya Vaiṣṇava tradition — गौड़ीय वैष्णव परम्परा**
-
-as a distinct tradition.
-
-Do NOT create:
-
-* Rāmānuja → Śrī Caitanya guru-paramparā;
-* Rāmānuja → Caitanya direct succession;
-* Śrī Vaiṣṇava → Gauḍīya as a parent-child lineage.
-
-The four-sampradāya classification must not be converted into an unquestioned timeless repository taxonomy.
-
-If a relationship is represented, use evidence-qualified semantics appropriate to the actual source.
-
----
-
-# REPOSITORY LAYER BOUNDARY
-
-Preserve the established distinction:
-
-## Ādhāra Śilā
-
-Foundational canonical and literary corpus.
-
-## Jīvanta Paramparā
-
-Living traditions, transmission, practices, communities, institutions, and contemporary expressions.
-
-## Dharma Sāgara
-
-Broader encyclopedic and research knowledge.
-
-The same subject may appear across layers only when each layer has a distinct knowledge responsibility.
-
-For JP-001:
-
-* canonical/textual entities should link to existing Ādhāra Śilā records where applicable;
-* living transmission and practice belong in Jīvanta Paramparā;
-* broader research should remain in Dharma Sāgara where appropriate.
-
-Do NOT create duplicate canonical records.
-
----
-
-# JP-001 ENTRY SCHEMA
-
-Before creating the repository entry:
-
-1. Inspect the actual current repository structure.
-2. Inspect `Home/05 Traditions`.
-3. Inspect `Home/08 Templates`.
-4. Inspect any existing tradition/sampradāya/lineage entries.
-5. Inspect `Traditions Framework.md`.
-6. Inspect any relevant methodology/schema documentation.
-
-Use the existing approved repository schema if one exists.
-
-Do NOT invent a competing schema.
-
-If the repository contains no approved concrete entry template, use the minimum structure required by the frozen Jīvanta Paramparā Methodology and report the schema gap.
-
-Do not silently modify the frozen architecture to solve a template deficiency.
-
----
-
-# LANGUAGE AND TERMINOLOGY
-
-Use:
-
-**English as the primary prose language.**
-
-Use **Devanagari + IAST** wherever Sanskrit/Hindu terminology, names, texts, concepts or traditional categories are relevant.
-
-Examples:
-
-* Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय
-* Rāmānujācārya — रामानुजाचार्य
-* Viśiṣṭādvaita Vedānta — विशिष्टाद्वैत वेदान्त
-* Āḻvār — आळ्वार
-* Nālāyira Divya Prabandham — नालायिर दिव्यप्रबन्धम्
-* guru-paramparā — गुरु–परम्परा
-* Ācārya — आचार्य
-* Prapatti — प्रपत्ति
-* Śaraṇāgati — शरणागति
-
-Maintain readability.
-
-Do not make the entire repository prose Sanskrit-heavy.
-
----
-
-# SOURCE AND EVIDENCE INTEGRITY
-
-For each significant relationship or claim:
-
-1. identify the claim type;
-2. identify the evidence class;
-3. preserve evidence status;
-4. attribute the source;
-5. distinguish traditional, historical, scholarly and contemporary evidence.
-
-Do not silently upgrade:
-
-* Traditional Claim → Historical Claim
-* Contemporary Claim → Historical Claim
-* Institutional Claim → Independent Historical Evidence
-* Scholarly Interpretation → Traditional Authority
-
-Where evidence is insufficient:
-
-**report the uncertainty.**
-
-Do not invent a relationship merely because it appears plausible.
-
----
-
-# FILES TO REVIEW
-
-Review the current repository and identify all files genuinely affected by the JP-001 population.
-
-At minimum inspect:
-
-* `Home/00 Governance/Project Handover.md`
-* `Home/00 Governance/Project Status.md`
-* `Home/00 Governance/Release Notes.md`
-* `Home/00 Governance/Decision Ledger.md`
-* `Home/00 Governance/Codex Operating Guide.md`
-* `Home/00 Governance/Codex Synchronization Prompt.md`
-* `Home/01 Ādhāra Śilā/Master Candidate List.md`
-* `Home/01 Ādhāra Śilā/Ādhāra Śilā 108.md`
-* `README.md`
-* `Home/05 Traditions/`
-* `Home/08 Templates/`
-
-Also inspect relevant cross-layer entities and references.
-
-Do not modify files merely because they appear on this list.
-
-Modify only files required by the approved synchronization.
-
----
-
-# PROJECT HANDOVER
-
-Read the current **Project Handover.md** before making changes.
-
-Preserve its existing structure and operational role.
-
-After synchronization, regenerate/update it so that it accurately describes:
-
-* JP-001 Owner Approval;
-* JP-001 repository population;
-* files created/modified;
-* actual repository state;
-* validation results;
-* remaining work;
-* current phase;
-* current work package;
-* next work package;
-* unresolved issues;
-* commit-readiness state.
-
-Do NOT invent a Handover revision number.
-
-Follow existing Handover revision-history conventions.
-
-The resulting Handover must be suitable as the operational starting point for the next ChatGPT session.
-
----
-
-# PROJECT STATUS
-
-Synchronize `Project Status.md` with actual repository state.
-
-Reconcile:
-
-* Repository Version
-* Current Milestone
-* Current Phase
-* Current Work Package
-* Completed Deliverables
-* Next Objective
-* Jīvanta Paramparā status
-
-The status must accurately reflect that:
-
-**JP-001 is the first controlled Jīvanta Paramparā population.**
-
-Do not mark the entire Jīvanta Paramparā population as complete.
-
-Do not imply that additional traditions have been populated.
-
----
-
-# DECISION LEDGER
-
-Do not create a new governance decision merely because JP-001 has been populated.
-
-The Owner Approval of JP-001 is an approved editorial/repository action under the already frozen Jīvanta Paramparā methodology.
-
-Only update the Decision Ledger if the repository's existing governance conventions explicitly require recording this action.
-
-Do NOT invent Decision Ledger numbering.
-
-Do NOT introduce constitutional amendments.
-
-Do NOT modify governance policy merely to accommodate JP-001.
-
-If a genuine governance-level conflict is discovered, report it rather than silently changing governance.
-
----
-
-# RELEASE NOTES
-
-Review existing release/versioning conventions.
-
-Do not assume that JP-001 automatically creates a new repository release.
-
-If a release entry is required:
-
-* use the established format;
-* preserve previous release history;
-* distinguish repository release version from JP-001 editorial version;
-* accurately describe the controlled population;
-* do not invent historical changes.
-
-If no release entry is appropriate, report that explicitly.
-
----
-
-# ĀDHĀRA ŚILĀ DOCUMENTS
-
-Do NOT reopen the frozen Ādhāra Śilā sections.
-
-Modify existing Ādhāra Śilā documents only if an actual cross-layer relationship requires synchronization.
-
-If no modification is required, report:
-
-> No synchronization necessary.
-
-Do not duplicate canonical content into Jīvanta Paramparā.
-
----
-
-# README
-
-Update only if necessary to reflect the actual repository state.
-
-Preserve the existing structure.
-
-Do not redesign the README.
-
----
-
-# JĪVANTA PARAMPARĀ CONTENT SCOPE
-
-This synchronization authorizes **only**:
-
-**JP-001 — Śrī Vaiṣṇava Sampradāya**
-
-No other tradition, Sampradāya, lineage, guru, practice, institution, community, movement, temple or festival is authorized for new population by this prompt.
-
-Do not independently select additional candidates.
-
-Do not begin JP-002.
-
-Do not expand the pilot into general population.
-
-Any newly discovered related entity should be:
-
-* linked only if required by JP-001 and supported by the approved schema;
-* otherwise recorded as a future research/reference candidate rather than independently populated.
+These distinctions are to be preserved in governance documentation and must not be converted into implementation during this synchronization.
 
 ---
 
 # SYNCHRONIZATION SCOPE
 
-This synchronization includes:
+This synchronization authorizes the following repository work:
 
-✓ Implementation of approved JP-001 repository entry.
+✓ Establish the Sādhaka Guidance System as the current conceptual design phase.
 
-✓ Approved Jīvanta Paramparā relationship mapping.
+✓ Ensure `Sādhaka Guidance System.md` is correctly represented as v0.1.
 
-✓ Evidence metadata and source attribution.
+✓ Synchronize `Project Status.md`.
 
-✓ Required cross-layer links.
+✓ Regenerate `Project Handover.md`.
 
-✓ Governance/documentation synchronization required by the actual repository state.
+✓ Update `Decision Ledger.md` if an architectural decision is required under existing governance conventions.
 
-✓ Project Handover regeneration.
+✓ Review `Release Notes.md` and update only if required by established conventions.
 
-✓ Project Status synchronization.
+✓ Update `README.md` only if its current repository status is materially stale.
 
-✓ Required metadata and cross-reference synchronization.
+✓ Update this `Codex Synchronization Prompt.md` so that future synchronizations operate against the new phase.
 
-✓ Repository validation.
+✓ Preserve JP-001 as the completed Pilot #1.
 
-This synchronization excludes:
+✓ Preserve all frozen foundations.
 
-✗ New candidate selection.
+✓ Perform repository validation.
 
-✗ New independent editorial research.
+---
 
-✗ New canon evaluation.
+# EXPLICITLY NOT AUTHORIZED
 
-✗ Governance redesign.
+This synchronization does NOT authorize:
 
-✗ Architecture redesign.
+✗ implementation of the Sādhaka Guidance System;
 
-✗ Methodology redesign.
+✗ creation of Sādhaka State schemas;
 
-✗ Population of JP-002 or any other tradition.
+✗ creation of Practice Provenance schemas;
 
-✗ Unapproved taxonomy changes.
+✗ creation of Sādhana Pathway templates;
 
-✗ Prescriptive religious instruction.
+✗ creation of Sādhana Checkpoint templates;
+
+✗ implementation of Gate Pass logic;
+
+✗ automated Sādhaka scoring;
+
+✗ universal Beginner → Advanced → Enlightened ranking;
+
+✗ actual Sādhana programs;
+
+✗ new Mantra recommendations;
+
+✗ new Tantric or Śākta practice instructions;
+
+✗ new Jīvanta Paramparā population;
+
+✗ JP-002;
+
+✗ reopening frozen Ādhāra Śilā sections;
+
+✗ redesigning Jīvanta Paramparā Architecture v1.0;
+
+✗ redesigning Jīvanta Paramparā Methodology v1.0;
+
+✗ new independent religious/editorial research;
+
+✗ new governance policy;
+
+✗ new constitutional decision;
+
+✗ invention of missing evidence;
+
+✗ invention of traditional requirements;
+
+✗ invention of Guru/Diksha rules;
+
+✗ creation of a new repository version unless governance explicitly requires it.
+
+---
+
+# PROJECT STATUS
+
+Synchronize `Project Status.md` with the actual repository state.
+
+The resulting status should accurately show:
+
+* JP-001 as completed;
+* the controlled Jīvanta Paramparā pilot as completed for Pilot #1;
+* the next project phase as **Sādhaka Guidance System — Conceptual Architecture**;
+* the current work package as conceptual architecture refinement/design;
+* the 108 as foundational;
+* Jīvanta Paramparā architecture/methodology as frozen;
+* no additional Jīvanta Paramparā population currently authorized.
+
+Do not imply that implementation has begun.
+
+Do not imply that the Sādhaka Guidance System is complete.
+
+---
+
+# DECISION LEDGER
+
+Review the current `Decision Ledger.md`.
+
+Determine whether the new conceptual architecture requires an Accepted architectural decision according to existing governance conventions.
+
+If required:
+
+* add the decision using the next valid Decision Ledger numbering/version convention;
+* accurately describe the decision;
+* distinguish conceptual approval from implementation approval;
+* preserve all existing decisions;
+* do not modify unrelated decisions.
+
+The decision should establish the Sādhaka Guidance System as a **guidance/navigation layer over the existing repository architecture**.
+
+It must not:
+
+* replace Ādhāra Śilā;
+* alter Jīvanta Paramparā;
+* authorize additional population;
+* authorize executable Sādhana implementation.
+
+If existing governance does not require a new Decision Ledger entry, report that determination rather than inventing one.
+
+---
+
+# PROJECT HANDOVER
+
+Read the current `Project Handover.md` before making changes.
+
+After synchronization, regenerate/update it so that it accurately describes:
+
+* the completed JP-001 Pilot #1;
+* the current repository state;
+* the Sādhaka Guidance System conceptual architecture;
+* the current phase;
+* the current work package;
+* the next design objective;
+* frozen foundations;
+* governance state;
+* technical debt;
+* unresolved issues;
+* validation results;
+* exact modified/created/removed files;
+* commit-readiness state.
+
+The Handover must remain suitable as the operational starting point for the next ChatGPT session.
+
+Do not invent a Handover revision number.
+
+Follow the existing Handover revision-history conventions.
+
+---
+
+# RELEASE NOTES
+
+Review `Release Notes.md`.
+
+Determine whether this conceptual architecture transition requires a release-note entry under the repository's existing conventions.
+
+Preserve the distinction between:
+
+* repository release version;
+* document revision;
+* architecture version;
+* methodology version;
+* Handover revision.
+
+Do not create a new repository version merely because:
+
+**Sādhaka Guidance System.md = v0.1**
+
+If a release-note entry is appropriate, use the established format and accurately describe the change.
+
+If no entry is appropriate, report that explicitly.
+
+---
+
+# README
+
+Review `README.md`.
+
+Update it only if its current repository status or project description is materially stale after this phase transition.
+
+Do not redesign the README.
+
+Do not make unrelated editorial changes.
+
+---
+
+# CROSS-LAYER INTEGRITY
+
+Verify that the new Sādhaka Guidance System does not collapse the existing repository layers.
+
+Preserve:
+
+### Ādhāra Śilā
+
+Foundational canonical/literary corpus.
+
+### Jīvanta Paramparā
+
+Living traditions, transmission, practices, communities, institutions and contemporary expressions.
+
+### Dharma Sāgara
+
+Broader encyclopedic and research knowledge.
+
+The Sādhaka Guidance System is a **navigation/guidance layer across these knowledge layers**, not a replacement layer that absorbs their responsibilities.
+
+Do not duplicate canonical content.
+
+Do not move content merely to accommodate the new architecture.
+
+---
+
+# LANGUAGE AND TERMINOLOGY
+
+Maintain the project's established language conventions.
+
+Use English as the primary prose language.
+
+Where Sanskrit/Hindu terminology, names, concepts, texts or traditional categories are relevant, use:
+
+**Devanagari + IAST**
+
+where appropriate.
+
+Examples include:
+
+* Sādhaka — साधक
+* Sādhana — साधना
+* Devata — देवता
+* Upasana — उपासना
+* Sampradāya — सम्प्रदाय
+* Paramparā — परम्परा
+* Guru — गुरु
+* Ācārya — आचार्य
+* Diksha — दीक्षा
+* Moksha — मोक्ष
+* Śrīvidyā — श्रीविद्या
+
+Maintain readability and do not make governance prose unnecessarily Sanskrit-heavy.
 
 ---
 
@@ -901,57 +575,59 @@ Before completing synchronization verify:
 
 ✓ Constitution remains intact.
 
-✓ Decision Ledger remains intact except for explicitly justified required updates.
+✓ Decision Ledger remains internally consistent.
 
 ✓ Codex Operating Guide remains authoritative.
 
-✓ Frozen governance architecture has not been unintentionally modified.
+✓ Project Handover accurately reflects the resulting repository state.
 
-## Jīvanta Paramparā
+✓ No unauthorized governance decisions were introduced.
 
-✓ Architecture v1.0 remains intact.
+## Foundations
 
-✓ Methodology v1.0 remains intact.
+✓ Ādhāra Śilā remains intact.
 
-✓ JP-001 is correctly classified as a Sampradāya.
+✓ The foundational 108 remains foundational.
 
-✓ Inclusion gates remain satisfied.
+✓ Jīvanta Paramparā Architecture v1.0 remains frozen.
 
-✓ Living Status is supported.
+✓ Jīvanta Paramparā Methodology v1.0 remains frozen.
 
-✓ Evidence classes are valid.
+✓ JP-001 remains completed.
 
-✓ Claim types are valid.
+✓ No JP-002 or additional Jīvanta Paramparā population was introduced.
 
-✓ Evidence statuses are valid.
+## Sādhaka Guidance System
 
-✓ Relationship vocabulary is valid.
+✓ `Sādhaka Guidance System.md` is present and versioned correctly.
 
-✓ Traditional and historical relationships remain distinct.
+✓ Revision History is present and consistent.
 
-✓ Contemporary evidence remains temporally accurate.
+✓ Its conceptual status is not incorrectly represented as implementation-complete.
 
-✓ Practice boundaries are respected.
+✓ Sādhaka State is not represented as spiritual certification.
 
-✓ No unsupported guru-paramparā relationships were introduced.
+✓ Guidance depth is distinguished from practice eligibility.
 
-✓ Vaṭakalai and Teṅkalai are represented consistently with the approved model.
+✓ Practice boundaries remain preserved.
 
-✓ Gauḍīya boundary remains intact.
+✓ Guru / Ācārya boundaries remain preserved.
+
+✓ Moksha is not represented as an AI-certifiable level.
+
+✓ No implementation schemas or executable Sādhana pathways were created without authorization.
 
 ## Cross-Layer
 
 ✓ No duplicate canonical records were created.
 
-✓ Existing Ādhāra Śilā records are linked rather than unnecessarily duplicated.
+✓ No frozen layer was reopened.
 
-✓ Jīvanta Paramparā remains focused on living expression and transmission.
-
-✓ Dharma Sāgara responsibilities remain distinct.
+✓ Cross-layer responsibilities remain distinct.
 
 ## Repository
 
-✓ Internal Markdown links remain valid.
+✓ Internal Markdown links remain valid where the repository currently supports validation.
 
 ✓ Obsidian structure remains valid.
 
@@ -963,9 +639,11 @@ Before completing synchronization verify:
 
 ✓ No unrelated content was altered.
 
-✓ Only JP-001 was newly populated.
+✓ Git diff has been inspected.
 
-✓ Git diff has been fully inspected.
+✓ `git diff --check` is performed.
+
+✓ Existing technical debt is distinguished from newly introduced issues.
 
 ---
 
@@ -973,14 +651,16 @@ Before completing synchronization verify:
 
 After validation:
 
-1. regenerate/update `Project Handover.md`;
-2. record the actual resulting repository state;
-3. record the exact files changed;
-4. record validation results;
-5. record remaining technical debt;
-6. record any unresolved issues;
-7. identify the next work package;
-8. ensure the Handover can independently onboard the next ChatGPT session.
+1. Regenerate/update `Project Handover.md`.
+2. Record the actual resulting repository state.
+3. Record the exact files changed.
+4. Record validation results.
+5. Record remaining technical debt.
+6. Record unresolved issues.
+7. Record the current phase.
+8. Record the next work package.
+9. Record that the Sādhaka Guidance System remains at the conceptual architecture stage.
+10. Ensure the Handover can independently onboard the next ChatGPT session.
 
 Do not merely append a generic summary.
 
@@ -999,23 +679,20 @@ Before any commit, provide:
 5. **Modified Files**
 6. **Created Files**
 7. **Removed Files**
-8. **JP-001 Population Status**
-9. **Schema Used**
-10. **Evidence Validation**
-11. **Relationship Validation**
-12. **Cross-Layer Validation**
-13. **Governance Validation**
-14. **Project Handover Status**
-15. **Project Status**
-16. **Release Notes Status**
-17. **Decision Ledger Status**
-18. **Repository Health Assessment**
-19. **File Review Required**
-20. **Technical Debt**
-21. **Recommendations**
-22. **Warnings**
-23. **Manual Review Items**
-24. **Commit Readiness**
+8. **JP-001 Completion Status**
+9. **Sādhaka Guidance System Status**
+10. **Decision Ledger Status**
+11. **Project Handover Status**
+12. **Project Status**
+13. **Release Notes Status**
+14. **Cross-Layer Validation**
+15. **Governance Validation**
+16. **Repository Validation**
+17. **Technical Debt**
+18. **Recommendations**
+19. **Warnings**
+20. **Manual Review Items**
+21. **Commit Readiness**
 
 The final Commit Readiness must explicitly state one of:
 
@@ -1025,7 +702,7 @@ or:
 
 **NOT READY — BLOCKING ISSUES REQUIRE RESOLUTION**
 
-Do not commit or push before Repository Owner review.
+Do not commit or push.
 
 ---
 
@@ -1035,36 +712,32 @@ Treat **Project Handover.md** as the repository's stable operational control doc
 
 Treat **Constitution.md** as the highest governance authority.
 
-Treat **Codex Operating Guide.md** as the governing operating procedure for synchronization.
+Treat **Codex Operating Guide.md** as the governing operating procedure.
+
+Treat **Sādhaka Guidance System.md** as the authoritative repository document for the approved conceptual architecture.
 
 Treat the repository itself as the Single Source of Truth for current repository state.
 
 Do NOT use historical ChatGPT conversation context to establish repository state.
 
-Do NOT redesign the Handover structure.
-
-Do NOT reorganize governance documents.
-
-Do NOT introduce new editorial or governance decisions.
+Do NOT silently resolve uncertainty.
 
 Do NOT invent missing information.
 
-Do NOT silently resolve uncertainty.
+Do NOT redesign governance documents.
 
-When uncertainty exists:
+Do NOT redesign frozen architecture.
 
-* preserve the existing repository state;
-* report the issue;
-* do not make assumptions.
+Do NOT implement the Sādhaka Guidance System during this synchronization.
 
-The Repository Owner has approved JP-001 for controlled population.
+The purpose of this synchronization is to establish and document the new conceptual phase while preserving the integrity of everything already built.
 
-Implement only the approved JP-001 scope.
+After synchronization:
 
-Validate the repository.
+**Regenerate Project Handover.md.**
 
-Regenerate the Project Handover for the next ChatGPT session.
+**Validate the repository.**
 
-Provide the complete Synchronization Summary.
+**Provide the complete Synchronization Summary.**
 
-Stop for Repository Owner review before any commit.
+**Stop for Repository Owner review before any commit.**
