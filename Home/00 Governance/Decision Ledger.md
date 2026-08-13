@@ -1,6 +1,6 @@
 # Decision Ledger
 
-Version: 1.9
+Version: 2.0
 
 Status: Approved
 
@@ -113,6 +113,7 @@ The following decision states are used throughout this ledger.
 | DL-051 | Jīvanta Paramparā Architecture and Methodology Foundation | Frozen |
 | DL-052 | Sādhaka Guidance System as Conceptual Guidance Layer | Accepted |
 | DL-053 | Responsible Sādhaka Journey Foundation | Frozen |
+| DL-054 | Ādhāra Śilā Methodology v2.2 Approval | Accepted |
 
 ---
 
@@ -131,6 +132,67 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-054 — Ādhāra Śilā Methodology v2.2 Approval
+
+**Status:** Accepted
+
+**Date:** 2026-08-13
+
+### Decision
+
+**Ādhāra Śilā Methodology v2.2** is accepted as the current approved methodology governing the editorial evaluation of Ādhāra Śilā foundational sources.
+
+The methodology governs how foundational sources are discovered, evaluated, classified, justified, reviewed, approved, synchronized, and maintained within the current repository architecture.
+
+Constitution Article 6 remains authoritative for the evidence hierarchy.
+
+Constitution Article 7 remains authoritative for Ādhāra Śilā evaluation criteria.
+
+Ādhāra Śilā Taxonomy.md remains authoritative for classification structure.
+
+Ādhāra Śilā Editorial Guide.md remains authoritative for presentation, writing, metadata, citation, and editorial style.
+
+Jīvanta Paramparā remains responsible for living traditions, transmission context, practice-oriented material, and living-practice documentation.
+
+Dharma Sāgara remains responsible for broader contextual, specialized, regional, historical, and research material.
+
+The methodology does not prescribe Sādhana, create scoring systems, create Guru / Diksha rules, or implement the Sādhaka Guidance System.
+
+### Historical Note
+
+Repository audit found no substantive **Ādhāra Śilā Methodology v2.1** body in current files or Git history.
+
+Historical **Core Canon Methodology** material was recovered from Git history and used only where compatible with the current approved Constitution, Decision Ledger, three-layer architecture, taxonomy, and practice boundaries.
+
+Ādhāra Śilā Methodology v2.2 is therefore the first substantive current Ādhāra Śilā Methodology reconstruction.
+
+This decision does not describe v2.2 as a recovered v2.1 document.
+
+### Boundaries
+
+This decision does not:
+
+- reopen frozen Ādhāra Śilā sections;
+- modify the Ādhāra Śilā Taxonomy;
+- change Constitution Article 6;
+- change Constitution Article 7;
+- restore Core Canon vs Extended Canon architecture;
+- introduce Extended Canon as a current repository layer;
+- create Source IDs;
+- introduce numerical scoring;
+- expand Ādhāra Śilā into practice prescriptions;
+- authorize new Jīvanta Paramparā population;
+- authorize JP-002;
+- implement the Sādhaka Guidance System.
+
+Future substantive changes to Ādhāra Śilā Methodology must follow the existing repository governance process.
+
+### Reason
+
+Approving Ādhāra Śilā Methodology v2.2 resolves the metadata-only methodology shell by establishing a substantive current methodology aligned with the repository's approved governance, evidence hierarchy, evaluation criteria, three-layer architecture, taxonomy, editorial standards, and practice-boundary decisions.
 
 ---
 
@@ -580,3 +642,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.7 | 2026-08-09 | Froze the Jīvanta Paramparā architecture v1.0 and methodology v1.0 as the foundation for the next repository phase. |
 | 1.8 | 2026-08-10 | Accepted the Sādhaka Guidance System as a conceptual guidance/navigation layer over the existing repository architecture without authorizing implementation or changing frozen foundations. |
 | 1.9 | 2026-08-13 | Froze the Responsible Sādhaka Journey Foundation as the refined conceptual foundation for the Sādhaka Guidance System without authorizing implementation or changing existing repository layers. |
+| 2.0 | 2026-08-13 | Accepted Ādhāra Śilā Methodology v2.2 as the first substantive current methodology reconstruction, preserving current governance, taxonomy, three-layer architecture, and practice boundaries. |

@@ -1,6 +1,6 @@
 # Project Handover
 
-Version: 5.9
+Version: 5.10
 Status: Approved
 Created: 2026-07-19
 Last Updated: 2026-08-13
@@ -338,8 +338,8 @@ This section summarizes the repository's current operational state at a glance.
 | Repository Operating Mode | Sādhaka Guidance System Conceptual Architecture |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Current Phase | Post-Commit Synchronization Validation |
-| Current Deliverable | Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization |
-| Current Editorial Work Package | Repository consistency and technical-debt review following committed Sādhaka Guidance System v0.2 synchronization |
+| Current Deliverable | Ādhāra Śilā Methodology v2.2 approval synchronization |
+| Current Editorial Work Package | Repository consistency and technical-debt review following Ādhāra Śilā Methodology v2.2 approval |
 | Repository Maintenance | See Repository Maintenance Queue |
 
 ---
@@ -369,9 +369,9 @@ Summarize the repository's governance state without duplicating governance docum
 | Item | Status |
 |------|--------|
 | Constitution Version | 1.2 |
-| Decision Ledger Version | 1.9 |
+| Decision Ledger Version | 2.0 |
 | Governance Status | Stable |
-| Governance Changes Since Previous Session | DL-053 froze the Responsible Sādhaka Journey Foundation without authorizing implementation |
+| Governance Changes Since Previous Session | DL-054 accepted Ādhāra Śilā Methodology v2.2 as the first substantive current methodology reconstruction; DL-053 remains in effect |
 
 ---
 
@@ -384,7 +384,7 @@ Track the operational progress of the repository's principal deliverables.
 | Deliverable | Status | Remarks |
 |-------------|--------|---------|
 | Governance Framework | Complete | Frozen |
-| Editorial Framework | Complete | Frozen |
+| Editorial Framework | Complete | Ādhāra Śilā Methodology v2.2 approved through DL-054; taxonomy and editorial guide remain approved |
 | Master Candidate List | Frozen | Sections IV, VII, and VIII synchronized with editorial freeze |
 | Ādhāra Śilā (आधार शिला) 108 | Frozen | Progress tracker synchronized with editorial freeze |
 | Jīvanta Paramparā | Pilot #1 Completed | JP-001 populated as Pilot #1; architecture v1.0 frozen; methodology v1.0 complete and frozen; no additional population authorized |
@@ -409,13 +409,13 @@ The Synchronization Assistant shall synchronize this section, but shall never in
 
 ## Current Work Package
 
-Perform repository consistency and technical-debt review following the committed **Sādhaka Guidance System v0.2 — Responsible Sādhaka Journey Foundation** synchronization.
+Perform repository consistency and technical-debt review following the approved **Ādhāra Śilā Methodology v2.2** reconstruction and **DL-054** governance synchronization.
 
 ---
 
 ## Current Editorial Focus
 
-Post-commit repository synchronization validation
+Post-approval repository synchronization validation
 
 ---
 
@@ -511,6 +511,8 @@ This section records repository progress rather than conversational history.
 - Repository version remains **5.4**; no new repository release was created for JP-001 population.
 - Sādhaka Guidance System v0.2 frozen as the Responsible Sādhaka Journey Foundation.
 - Repository transitioned from conceptual architecture refinement through committed synchronization of the frozen Sādhaka Guidance System foundation.
+- Ādhāra Śilā Methodology v2.2 reconstructed as the first substantive current methodology after repository audit found no substantive v2.1 body in current files or Git history.
+- Historical Core Canon methodology material was used only where compatible with current Ādhāra Śilā governance and terminology; v2.2 is not a restored v2.1 document.
 - No implementation schemas, executable sādhana pathways, automated scoring, or additional Jīvanta Paramparā population were introduced.
 
 ---
@@ -525,6 +527,7 @@ This section records repository progress rather than conversational history.
 - Jīvanta Paramparā methodology v1.0 complete and frozen.
 - JP-001 Owner Approval implemented for repository population.
 - Responsible Sādhaka Journey Foundation frozen as the refined conceptual model for the Sādhaka Guidance System.
+- Ādhāra Śilā Methodology v2.2 accepted as the current approved methodology through DL-054.
 
 ---
 
@@ -538,6 +541,9 @@ This section records repository progress rather than conversational history.
 - Project Handover.md synchronized to Version 5.9 to reflect the post-commit operational state.
 - Codex Synchronization Prompt.md reviewed as the active synchronization prompt for this cycle.
 - Release Notes.md reviewed; no new repository release entry added because repository version remains 5.4.
+- Ādhāra Śilā Methodology.md reconstructed to v2.2 and marked Approved.
+- Decision Ledger.md synchronized to v2.0 with DL-054.
+- Project Status.md and Project Handover.md synchronized after DL-054 while preserving repository version 5.4.
 
 ---
 
@@ -553,7 +559,7 @@ This section records repository progress rather than conversational history.
 
 ## Resume Point
 
-Resume with repository consistency and technical-debt review following the committed Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization. Do not begin implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
+Resume with repository consistency and technical-debt review following the approved Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 governance synchronization. Do not begin implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
 
 ---
 
@@ -568,9 +574,9 @@ Confirm repository readiness following synchronization and before editorial work
 | Repository Synchronized | Yes |
 | Editorial Work Queue Validated | Yes |
 | Repository Maintenance Queue Validated | Yes |
-| Governance Changes Since Handover | Decision Ledger synchronized to v1.9 with DL-053 |
+| Governance Changes Since Handover | Decision Ledger synchronized to v2.0 with DL-054; DL-053 remains in effect |
 | Blocking Issues | None |
-| Ready for Editorial Work | Ready for repository consistency and technical-debt review following committed Sādhaka Guidance System v0.2 frozen foundation synchronization; implementation and future population require explicit approval |
+| Ready for Editorial Work | Ready for repository consistency and technical-debt review following approved Ādhāra Śilā Methodology v2.2 reconstruction; implementation and future population require explicit approval |
 
 ---
 
@@ -583,19 +589,17 @@ Record the outcome of the most recent synchronization.
 | Item | Status |
 |------|--------|
 | Synchronization Status | Completed |
-| Validation Result | Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization completed and committed on Dev_branch at d3cb0e78eb96096128f099047ad9e458b918f1d1. JP-001 remains completed as Pilot #1; repository version remains 5.4; Project Handover updated to v5.9; Decision Ledger updated to v1.9; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
+| Validation Result | Ādhāra Śilā Methodology v2.2 approved through DL-054 as the first substantive current methodology reconstruction. JP-001 remains completed as Pilot #1; Sādhaka Guidance System v0.2 remains the frozen conceptual foundation; repository version remains 5.4; Project Handover updated to v5.10; Decision Ledger updated to v2.0; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
 | Synchronization Timestamp | 2026-08-13 |
 
 ---
 
 ## Files Updated
 
+- Ādhāra Śilā Methodology.md
 - Decision Ledger.md
 - Project Status.md
-- README.md
 - Project Handover.md
-- Sādhaka Guidance System.md
-- Codex Synchronization Prompt.md
 
 ---
 
@@ -644,6 +648,8 @@ Record repository observations that require future attention.
 - Project Status.md now identifies Sādhaka Guidance System v0.2 as the frozen conceptual foundation.
 - Decision Ledger.md now records DL-053 as a frozen conceptual foundation decision.
 - Project Handover.md and Project Status.md now reflect the committed post-synchronization state for d3cb0e78eb96096128f099047ad9e458b918f1d1.
+- Ādhāra Śilā Methodology.md now contains substantive v2.2 methodology content with Revision History.
+- Decision Ledger.md now records DL-054 as the Ādhāra Śilā Methodology v2.2 approval decision.
 
 ---
 
@@ -657,7 +663,6 @@ Record repository observations that require future attention.
 - Research & Citation Policy.md is present but empty.
 - Candidate Resources Under Review.md is present but empty.
 - Release Notes.md and Codex Synchronization Prompt.md are governance/support documents without full standard governance metadata.
-- Ādhāra Śilā Methodology.md is missing a Revision History heading.
 - No concrete Jīvanta Paramparā entry template exists.
 - JP-001 source bibliography is not yet source-complete beyond the Owner-approved editorial record.
 - Sādhaka Guidance System implementation artifacts do not yet exist and are intentionally deferred.
@@ -666,7 +671,7 @@ Record repository observations that require future attention.
 
 ## Recommendations
 
-- Continue with repository consistency and technical-debt review following the committed Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization.
+- Continue with repository consistency and technical-debt review following the approved Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 synchronization.
 - Maintain the frozen state of Sections IV, VII, and VIII unless governance explicitly reopens them.
 - Address technical debt only when it does not interrupt editorial progress.
 - Create or approve Jīvanta Paramparā templates before adding individual entries.
@@ -1012,3 +1017,4 @@ Detailed repository changes are maintained in **Release Notes.md**.
 | 5.7 | 2026-08-10 | Regenerated for Sādhaka Guidance System conceptual architecture synchronization and Repository Owner review before commit. |
 | 5.8 | 2026-08-13 | Regenerated for Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization and Repository Owner review before commit. |
 | 5.9 | 2026-08-13 | Synchronized Handover after the Sādhaka Guidance System v0.2 synchronization was committed on Dev_branch. |
+| 5.10 | 2026-08-13 | Synchronized Handover after Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 governance approval. |
