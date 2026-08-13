@@ -6,7 +6,7 @@ Status: Active
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-10
+Last Updated: 2026-08-13
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -46,7 +46,7 @@ To preserve, organize, and responsibly transmit the authentic knowledge traditio
 
 # Current Phase
 
-**Sādhaka Guidance System — Conceptual Architecture Refinement**
+**Sādhaka Guidance System — Frozen Conceptual Foundation Review**
 
 ---
 
@@ -63,13 +63,13 @@ Next work package: **Repository Owner review of conceptual architecture synchron
 ## Governance
 
 - ✅ Constitution v1.2
-- ✅ Decision Ledger v1.8
+- ✅ Decision Ledger v1.9
 - ✅ Repository Structure
 - ✅ Metadata Standard
 - 🟡 Research & Citation Policy (Framework established; content pending)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
-- ✅ Project Handover v5.7 operational framework
+- ✅ Project Handover v5.8 operational framework
 - ✅ Release Notes workflow adopted
 
 ## Editorial Framework
@@ -95,7 +95,7 @@ Next work package: **Repository Owner review of conceptual architecture synchron
 - ✅ Jīvanta Paramparā Architecture v1.0 Frozen
 - ✅ Jīvanta Paramparā Methodology v1.0 Complete & Frozen
 - ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
-- 🟡 Sādhaka Guidance System v0.1 accepted as conceptual architecture; implementation not begun
+- ✅ Sādhaka Guidance System v0.2 frozen as conceptual foundation; implementation not begun
 
 ---
 
@@ -159,7 +159,11 @@ The conceptual guidance and navigation layer intended to help future Sādhakas m
 
 ### Characteristics
 
-- Conceptual architecture v0.1 only
+- Conceptual architecture v0.2 frozen foundation only
+- Iterative Discover / Ground / Practice / Progress / Continue journey model
+- Intent -> Goal -> Purpose as progressive discovery, not a mandatory questionnaire
+- Stage depth determined by responsible guidance needs, not spiritual advancement
+- Sustainability treated as lived practice/reflection, not a Path Alignment prediction
 - Operates across Ādhāra Śilā, Jīvanta Paramparā, and Dharma Sāgara
 - Preserves the distinction between guidance depth and practice eligibility
 - Preserves Guru / Ācārya, Diksha, Adhikāra, provenance, and practice-boundary requirements
@@ -171,7 +175,7 @@ The conceptual guidance and navigation layer intended to help future Sādhakas m
 
 The repository has completed its governance and editorial framework.
 
-Current effort is focused on **Sādhaka Guidance System — Conceptual Architecture Refinement** after completion of JP-001 as the first controlled Jīvanta Paramparā pilot.
+Current effort is focused on **Repository Owner review of the frozen Sādhaka Guidance System v0.2 conceptual foundation** after completion of JP-001 as the first controlled Jīvanta Paramparā pilot.
 
 ---
 
@@ -186,7 +190,7 @@ Current effort is focused on **Sādhaka Guidance System — Conceptual Architect
 - ✅ Jīvanta Paramparā architecture v1.0 frozen
 - ✅ Jīvanta Paramparā methodology v1.0 complete and frozen
 - ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
-- 🟡 Sādhaka Guidance System conceptual architecture synchronized as the current design phase
+- ✅ Sādhaka Guidance System v0.2 frozen conceptual foundation synchronized as the current design phase
 - ⏳ Final allocation across the Ādhāra Śilā taxonomy
 - ⏳ Selection of the Final Ādhāra Śilā 108
 
@@ -194,13 +198,13 @@ Current effort is focused on **Sādhaka Guidance System — Conceptual Architect
 
 # Open Decisions
 
-- No open governance decisions recorded after DL-052.
+- No open governance decisions recorded after DL-053.
 
 ---
 
 # Next Task
 
-Complete Repository Owner review of the Sādhaka Guidance System conceptual architecture synchronization before any commit. Do not begin implementation or additional Jīvanta Paramparā population without explicit approval.
+Complete Repository Owner review of the Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization before any commit. Do not begin implementation or additional Jīvanta Paramparā population without explicit approval.
 
 ---
 
@@ -210,7 +214,7 @@ Complete Repository Owner review of the Sādhaka Guidance System conceptual arch
 
 ### Deliverables
 
-- Conceptual architecture review
+- Frozen conceptual foundation review
 - Future design refinement under existing governance
 - Preservation of cross-layer boundaries across Ādhāra Śilā, Jīvanta Paramparā, and Dharma Sāgara
 - No executable sādhana pathways or implementation schemas until explicitly authorized
@@ -248,7 +252,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Jīvanta Paramparā Architecture | ✅ Frozen |
 | Jīvanta Paramparā Methodology | ✅ Complete & Frozen |
 | JP-001 — Śrī Vaiṣṇava Sampradāya | ✅ Populated as Pilot #1 |
-| Sādhaka Guidance System | 🟡 Conceptual Architecture v0.1 |
+| Sādhaka Guidance System | ✅ Frozen Conceptual Foundation v0.2 |
 
 ---
 
@@ -269,6 +273,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-08-09 | Updated repository version to 5.4 for the Jīvanta Paramparā architecture and methodology foundation. |
 | 2026-08-09 | Populated JP-001 — Śrī Vaiṣṇava Sampradāya as the first controlled Jīvanta Paramparā pilot without changing repository version 5.4. |
 | 2026-08-10 | Accepted and synchronized Sādhaka Guidance System v0.1 as the current conceptual architecture phase without changing repository version 5.4. |
+| 2026-08-13 | Refined and froze Sādhaka Guidance System v0.2 as the Responsible Sādhaka Journey Foundation without changing repository version 5.4. |
 
 
 ---

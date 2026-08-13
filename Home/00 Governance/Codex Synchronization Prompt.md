@@ -16,29 +16,21 @@ This document is updated for every repository synchronization.
 
 # OBJECTIVE
 
-Synchronize the repository to reflect the newly approved **Sādhaka Guidance System — Conceptual Architecture**.
+Synchronize the repository to reflect the frozen conceptual foundation developed for the:
 
-The project is transitioning from the completed:
+**Sādhaka Guidance System — Responsible Sādhaka Journey Foundation**
 
-**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय**
-
-controlled Jīvanta Paramparā pilot into the next design phase:
+The project direction remains:
 
 > **Design the system that turns the repository into a responsible Sādhaka journey.**
 
-The approved conceptual architecture is maintained separately in:
+The authoritative conceptual architecture document is:
 
 **`Home/00 Governance/Sādhaka Guidance System.md`**
 
-Current architecture version:
+This synchronization is a **conceptual architecture refinement**, not an implementation of the Sādhaka Guidance System.
 
-**v0.1**
-
-This synchronization establishes the new design direction in the repository's governance and operational documents.
-
-This is a **conceptual architecture synchronization**, not an implementation of the Sādhaka Guidance System.
-
-The repository itself remains the **Single Source of Truth** for current repository state.
+The repository remains the **Single Source of Truth** for current repository state.
 
 Do NOT:
 
@@ -47,17 +39,18 @@ Do NOT:
 * create Sādhaka State schemas;
 * create Practice Provenance schemas;
 * create Sādhana Checkpoint templates;
-* create Gate Pass implementations;
+* create Gate Pass implementations or automated gate logic;
 * create automated Sādhaka scoring;
 * create spiritual attainment rankings;
 * prescribe new Mantras or Sādhana practices;
 * populate additional Jīvanta Paramparā entities;
+* create JP-002;
 * modify JP-001 beyond what is required to accurately record its completed status;
 * redesign Ādhāra Śilā;
 * redesign Jīvanta Paramparā Architecture v1.0;
 * redesign Jīvanta Paramparā Methodology v1.0;
 * introduce new religious/editorial analysis;
-* invent Pramāṇa, lineage, Guru, Diksha, ritual or practice requirements;
+* invent Pramāṇa, lineage, Guru, Diksha, ritual, or practice requirements;
 * invent governance decisions;
 * invent repository version numbers;
 * silently resolve governance conflicts through assumption;
@@ -80,271 +73,444 @@ Treat:
 * **`Project Handover.md`** as the operational source of truth;
 * **`Constitution.md`** as the highest governance authority;
 * **`Codex Operating Guide.md`** as the governing operating procedure;
+* **`Sādhaka Guidance System.md`** as the authoritative conceptual architecture document;
 * the repository itself as the Single Source of Truth for current repository state;
-* **`Sādhaka Guidance System.md`** as the authoritative repository document for the approved conceptual architecture.
+* the repository's actual state on `Dev_branch` as authoritative for current files and versions.
 
 Before making any changes:
 
 1. Read the current `Project Handover.md` from the repository.
-2. Read `Codex Operating Guide.md`.
-3. Read the governance documents identified as relevant by the Handover and Operating Guide.
-4. Read `Sādhaka Guidance System.md`.
-5. Inspect the actual current repository state on `Dev_branch`.
-6. Confirm that JP-001 remains the completed first controlled Jīvanta Paramparā pilot.
-7. Confirm that Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 remain frozen.
-8. Confirm that the Ādhāra Śilā foundational state remains intact.
-9. Confirm that no later governance decision supersedes the current transition.
-10. Determine whether the new conceptual direction requires a governance Decision Ledger entry.
+2. Read the current `Project Status.md`.
+3. Read `Constitution.md`.
+4. Read `Decision Ledger.md`.
+5. Read `Codex Operating Guide.md`.
+6. Read the current `Sādhaka Guidance System.md`.
+7. Read any additional governance documents identified by the Handover or Operating Guide as required.
+8. Inspect the actual current repository state on `Dev_branch`.
+9. Confirm that JP-001 remains the completed first controlled Jīvanta Paramparā pilot.
+10. Confirm that Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 remain frozen.
+11. Confirm that the Ādhāra Śilā foundational state remains intact.
+12. Confirm that no later governance decision supersedes this synchronization.
+13. Determine whether any governance conflict exists.
 
 Do NOT use historical ChatGPT conversation context to establish repository state.
+
+If repository documents conflict, stop and report the conflict rather than silently resolving it by assumption.
 
 This prompt defines the approved synchronization scope, but the repository's current Handover remains authoritative for operational state.
 
 ---
 
-# REPOSITORY VERSION
+# APPROVED FROZEN CONCEPTUAL FOUNDATION
+
+The following conceptual decisions have been approved for this synchronization.
+
+They are **design decisions only**. They do **not** authorize implementation.
+
+## 1. Journey Model
+
+The Sādhaka Journey is an **iterative journey**, not a rigid linear pipeline.
+
+The conceptual structure is:
+
+### DISCOVER
+
+**Sādhaka -> Intent -> Goal -> Purpose -> Context -> Path Discovery -> Path Alignment -> Decision**
+
+### GROUND
+
+**Tradition & Context -> Adhikāra & Boundaries -> Preparation**
+
+### PRACTICE
+
+**First Small Practice -> Practice Period -> Observation -> Reflection**
+
+### PROGRESS
+
+**Milestone / Test -> Deepening, where appropriate -> Guru / Ācārya Gateway, where required**
+
+### CONTINUE
+
+**Next Guidance -> appropriate point in the Journey**
+
+The journey may return to an earlier point when new information, experience, reflection, changed aspiration, or required guidance makes that appropriate.
+
+Do not force every Sādhaka through every stage.
+
+## 2. Intent -> Goal -> Purpose
+
+Treat:
+
+**Intent -> Goal -> Purpose**
+
+as a progressive discovery relationship, not a mandatory questionnaire sequence.
+
+The system follows the Sādhaka's expressed pursuit.
+
+It must not invent a deeper or ultimate pursuit on the Sādhaka's behalf.
+
+A Sādhaka may begin without knowing their deeper purpose.
+
+Do not require or manufacture an **"Ultimate Aspiration"** field.
+
+If a Sādhaka explicitly expresses an aspiration such as **Moksha — मोक्ष**, preserve it as their stated aspiration, but do not convert it into a software progression level or AI-certifiable state.
+
+## 3. Context
+
+Context is:
+
+> **The information necessary to make the next responsible journey decision.**
+
+Context is progressive and purpose-driven.
+
+Collect only what is relevant to the next decision.
+
+Do not turn the journey into a universal Sādhaka questionnaire.
+
+Unknown information is acceptable when it is not decision-critical.
+
+If missing information is critical to responsible guidance, clarify before proceeding.
+
+## 4. Path Discovery and Path Alignment
+
+The system must distinguish:
+
+**Path Discovery** — What legitimate traditional pathways could potentially serve this Sādhaka's expressed pursuit?
+
+from:
+
+**Path Alignment** — Which discovered path or paths are appropriately aligned with the Sādhaka's Goal, Purpose, Intent and relevant Context?
+
+The system must not simply convert the Sādhaka's requested technique into the recommended path.
+
+The system may discover multiple legitimate paths.
+
+### Path Alignment Considerations
+
+Where relevant and supported by the tradition/evidence, consider:
+
+* purpose alignment;
+* traditional alignment;
+* context alignment;
+* accessibility;
+* prerequisites;
+* transmission requirements;
+* tradition integrity.
+
+Do not use predicted sustainability as a Path Alignment criterion.
+
+### Accessibility Definition
+
+Use:
+
+> **Accessibility** — Can the Sādhaka legitimately begin this path at this stage, considering its traditional prerequisites, restrictions, transmission requirements, and required guidance?
+
+Accessibility is not a judgment of spiritual advancement or worth.
+
+### Provisional Path Alignment Outcomes
+
+The current working outcomes are:
+
+**Proceed | Multiple Paths | Redirect | Clarify Further | Living Guidance Required**
+
+These outcomes are provisional and must not be treated as permanently frozen governance decisions.
+
+Do not introduce numerical compatibility scores.
+
+## 5. Tradition & Context
+
+After Path Alignment/Decision, establish the actual traditional context required to understand the path responsibly.
+
+Depending on the path, this may include:
+
+* Tradition;
+* Devata;
+* Sampradāya;
+* lineage, where relevant;
+* traditional purpose;
+* practice context;
+* transmission context;
+* what is generally accessible;
+* what is transmitted or restricted.
+
+Do not force every dimension onto every path.
+
+Do not silently combine practices from different traditions into a synthetic universal practice.
+
+The system contextualizes traditions; it does not manufacture a new tradition.
+
+## 6. Adhikāra & Boundaries
+
+Treat these together as a straightforward journey stage.
+
+Adhikāra asks:
+
+> **Is this practice appropriate for this Sādhaka at this point?**
+
+Boundaries ask:
+
+> **Under what conditions may the Sādhaka proceed?**
+
+Adhikāra is practice appropriateness, not spiritual worth.
+
+Do not create spiritual rankings, scores, attainment levels, or AI judgments of inner realization.
+
+## 7. Preparation
+
+Use the following definition:
+
+> **Preparation = the prerequisites required for a specific Sādhana before the Sādhaka begins it.**
+
+Preparation may be required, recommended, or tradition-specific.
+
+Do not convert a practice-specific prerequisite into a universal Sanātana Dharma requirement without evidence.
+
+## 8. First Small Practice
+
+The first practice should be:
+
+* appropriate;
+* legitimate;
+* tradition/source supported;
+* clearly bounded;
+* appropriately small;
+* observable.
+
+The system should prefer:
+
+> **Consistency before intensity.**
+
+Do not define or predict whether the Sādhaka can sustain the practice.
+
+## 9. Sustainability
+
+Sustainability is a Sādhaka-experience question, not a Path Alignment judgment.
+
+The system may explain the demands of a practice.
+
+The Sādhaka discovers through lived experience whether the practice fits their circumstances and can be continued.
+
+Do not pre-judge sustainability.
+
+Sustainability may be reflected upon during Practice Period, Observation, and Reflection.
+
+## 10. Practice Period -> Observation -> Reflection
+
+The Sādhaka's lived experience is central after practice begins.
+
+Observation asks:
+
+> **What happened during the practice?**
+
+Reflection asks:
+
+> **What does the Sādhaka make of that experience?**
+
+The system may help structure and record these.
+
+It must not automatically interpret subjective experiences as signs of spiritual attainment.
+
+Self-report is information about personal experience; it is not automatically Pramāṇa, scholarly evidence, traditional authority, or Guru / Ācārya recognition.
+
+## 11. Milestone / Test
+
+Milestones represent meaningful progression in the journey.
+
+They are not spiritual ranks.
+
+Tests may concern:
+
+* knowledge;
+* practice establishment;
+* reflection;
+* discernment;
+* ability to distinguish source, tradition, interpretation, and personal experience.
+
+A milestone does not automatically authorize deeper practice.
+
+Next Guidance must still determine whether deepening is appropriate.
+
+## 12. Deepening
+
+Deepening means moving to a deeper expression of the current path when supported by:
+
+* the relevant tradition;
+* the Sādhaka's current journey context;
+* appropriate preparation;
+* lived experience;
+* evidence;
+* required guidance.
+
+Deepening does not necessarily mean a more powerful or complex practice.
+
+The system may correctly recommend continuing the current Sādhana without adding anything.
+
+## 13. Guru / Ācārya Gateway
+
+Preserve the existing boundary.
+
+The system may explain, contextualize and guide a Sādhaka toward living tradition.
+
+It must not:
+
+* confer Diksha;
+* replace a Guru;
+* certify realization;
+* certify enlightenment;
+* represent itself as the authoritative voice of a Sampradāya.
+
+Where living guidance is required, the system should clearly identify that boundary rather than simulate it.
+
+**Knowledge transmission is not initiation.**
+
+## 14. Next Guidance
+
+Next Guidance is the feedback mechanism of the journey.
+
+It may result in:
+
+* Continue;
+* Adjust;
+* Pause;
+* Deepen;
+* Revisit Goal/Purpose/Intent;
+* Revisit Path Discovery/Alignment;
+* Seek Living Guidance;
+* seek appropriate professional support where relevant.
+
+Next Guidance may return the Sādhaka to an earlier point in the journey.
+
+There is no artificial "journey completed" state.
+
+Continuing the same Sādhana may itself be the appropriate next guidance.
+
+---
+
+# STAGE DEPTH PRINCIPLE
+
+Make this an explicit architectural principle:
+
+> **Not every Sādhaka needs to traverse every stage with equal depth.**
+
+Stage depth is determined by what is necessary for responsible guidance in the Sādhaka's particular context.
+
+Stage depth is not a measure of spiritual advancement.
+
+A broadly accessible path may require very little contextual depth.
+
+A specialized, transmission-dependent or tradition-specific practice may require substantially more.
+
+Do not manufacture complexity.
+
+---
+
+# REPOSITORY ARCHITECTURE BOUNDARIES
+
+Preserve the existing repository layers.
+
+## Ādhāra Śilā
+
+The foundational 108 resources remain foundational and permanently valuable.
+
+Do not reopen or redesign the frozen 108 architecture.
+
+Do not duplicate canonical content.
+
+Do not move content merely to accommodate the Sādhaka Guidance System.
+
+## Jīvanta Paramparā
+
+Preserve the approved Jīvanta Paramparā architecture and methodology.
+
+Do not redesign them during this synchronization.
+
+**Jīvanta Paramparā Architecture v1.0 remains FROZEN.**
+
+**Jīvanta Paramparā Methodology v1.0 remains COMPLETE & FROZEN.**
+
+## JP-001
+
+**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय** remains the completed first controlled Jīvanta Paramparā pilot.
+
+Do not reopen or independently expand it.
+
+Do not create JP-002.
+
+Any existing JP-001 technical debt or source-completeness limitations must remain accurately recorded.
+
+## Dharma Sāgara
+
+Preserve its role as broader research and contextual knowledge.
+
+## Sādhaka Guidance System
+
+The Sādhaka Guidance System is the navigation and reasoning layer across the repository, not a replacement for the underlying knowledge layers.
+
+---
+
+# VERSIONING
 
 Do NOT assume or invent the next repository version.
 
-Read:
+Read the current:
 
 * `Project Handover.md`
 * `Project Status.md`
-* `Release Notes.md`
 * `Decision Ledger.md`
-* `Codex Operating Guide.md`
+* `Release Notes.md`
 * existing repository version history
 
 Determine whether this synchronization requires:
 
-* a repository version change;
-* a Project Handover revision;
-* a release-note entry;
-* a document revision only;
+* architecture document revision;
+* Project Handover revision;
+* Decision Ledger update;
+* Release Notes update;
+* repository version change;
 * no repository release/version change.
 
 Report the determination explicitly.
 
 Preserve the distinction between:
 
-* repository release/version;
-* Project Handover revision;
+* repository version;
 * architecture version;
 * methodology version;
 * document revision;
-* editorial/pilot version.
+* Handover revision;
+* pilot/editorial version.
 
-The existence of **Sādhaka Guidance System v0.1** does not by itself require a repository version change.
+The existence of this synchronization does not automatically require a repository release/version change.
 
 Follow the repository's established versioning conventions.
 
 ---
 
-# APPROVED PROJECT STATE
-
-## ĀDHĀRA ŚILĀ
-
-The **Ādhāra Śilā Editorial Freeze** remains intact.
-
-The foundational **108 resources remain permanently valuable and foundational** to the project.
-
-Do NOT:
-
-* reopen frozen sections;
-* redesign the 108;
-* reinterpret the 108 as obsolete;
-* replace the 108 with the Sādhaka Guidance System;
-* duplicate canonical content unnecessarily.
-
-The Sādhaka Guidance System is a **guidance/navigation layer over the repository**, not a replacement for Ādhāra Śilā.
-
----
-
-# JĪVANTA PARAMPARĀ
-
-**Jīvanta Paramparā Architecture v1.0 remains FROZEN.**
-
-**Jīvanta Paramparā Methodology v1.0 remains COMPLETE & FROZEN.**
-
-Do not redesign either during this synchronization.
-
-The conceptual Sādhaka Guidance System must operate across the repository without changing the approved Jīvanta Paramparā architecture.
-
----
-
-# JP-001 STATUS
-
-**JP-001 — Śrī Vaiṣṇava Sampradāya — श्रीवैष्णव सम्प्रदाय**
-
-remains the completed first controlled Jīvanta Paramparā pilot.
-
-Its completion must be accurately reflected in:
-
-* Project Status;
-* Project Handover;
-* relevant release/synchronization documentation.
-
-Do NOT:
-
-* reopen JP-001 editorial decisions;
-* independently expand JP-001;
-* create JP-002;
-* populate another tradition;
-* treat the completion of JP-001 as completion of the entire Jīvanta Paramparā population.
-
-Any existing JP-001 technical debt or source-completeness limitations must remain accurately recorded.
-
----
-
-# SĀDHAKA GUIDANCE SYSTEM
-
-The conceptual architecture is maintained in:
-
-**`Home/00 Governance/Sādhaka Guidance System.md`**
-
-Current version:
-
-**v0.1**
-
-This document is the authoritative repository source for the conceptual Sādhaka Guidance System.
-
-The Codex Synchronization Prompt must **not duplicate the full architecture contained in that document**.
-
-Instead, use the document to determine the approved conceptual direction and synchronize the governance/operational state accordingly.
-
-The central project direction is:
-
-> **Design the system that turns the repository into a responsible Sādhaka journey.**
-
-The conceptual architecture includes, among other elements:
-
-* Sādhaka Entry;
-* Intent and Goal Discovery;
-* Pathway Selection;
-* Tradition / Devata Context;
-* Sādhaka State;
-* Adhikāra and Practice Eligibility;
-* Sādhana Precautions and Boundaries;
-* Preparation;
-* Small-step practice;
-* Practice periods;
-* Checkpoints;
-* Milestones;
-* Deepening;
-* Guru / Ācārya boundaries;
-* continuing Sādhaka journey.
-
-Treat these as **conceptual architecture**, not implementation authorization.
-
----
-
-# CORE ARCHITECTURAL DISTINCTIONS
-
-The synchronization must preserve the following conceptual distinctions established by the approved Sādhaka Guidance System:
-
-### Sādhaka State
-
-Sādhaka State is a **guidance-depth and journey-context concept**, not a spiritual certification system.
-
-Do not create universal spiritual rankings.
-
-Do not create:
-
-* spiritual scores;
-* enlightenment percentages;
-* AI-certified realization;
-* AI-certified "Master" status;
-* automatic spiritual attainment levels.
-
-### Guidance Depth
-
-The system is intended eventually to adapt the depth of guidance to the Sādhaka's current context.
-
-Beginner guidance should be appropriately foundational and incremental.
-
-Advanced guidance may eventually include deeper textual material, nuanced interpretation and authentic accounts/experiences of recognized sages where properly sourced.
-
-### Practice Boundary
-
-Sādhaka State does not automatically authorize a specific practice.
-
-Practice eligibility must remain independently governed by:
-
-* tradition;
-* practice provenance;
-* prerequisites;
-* Adhikāra;
-* Guru / Ācārya requirements;
-* Diksha;
-* transmission;
-* restrictions and precautions.
-
-### Ultimate Aspiration
-
-A Sādhaka may identify **Moksha — मोक्ष** as an ultimate aspiration regardless of current journey state.
-
-Do not represent Moksha as a software progression level or AI-certifiable state.
-
-### Sādhana Progression
-
-The conceptual progression is based on:
-
-**small steps → practice → checkpoints → milestones → deepening**
-
-Do not assume that completion of a numerical practice count or elapsed period automatically authorizes a more advanced practice.
-
-### Sādhaka Self-Report
-
-Self-report may be used as a legitimate source of information about matters that cannot reasonably be independently verified.
-
-Do not confuse Sādhaka self-report with:
-
-* Pramāṇa;
-* scholarly evidence;
-* traditional authority;
-* Guru / Ācārya recognition.
-
-### Guru / Ācārya Boundary
-
-The system may eventually educate and guide a Sādhaka toward living tradition.
-
-It must not claim to:
-
-* confer Diksha;
-* replace a Guru;
-* certify spiritual realization;
-* certify enlightenment;
-* represent itself as the authoritative voice of a Sampradāya.
-
-These distinctions are to be preserved in governance documentation and must not be converted into implementation during this synchronization.
-
----
-
 # SYNCHRONIZATION SCOPE
 
-This synchronization authorizes the following repository work:
+Synchronize only what is required to reflect the approved conceptual foundation.
 
-✓ Establish the Sādhaka Guidance System as the current conceptual design phase.
+At minimum, review and reconcile:
 
-✓ Ensure `Sādhaka Guidance System.md` is correctly represented as v0.1.
+* `Home/00 Governance/Sādhaka Guidance System.md`
+* `Home/00 Governance/Project Status.md`
+* `Home/00 Governance/Project Handover.md`
+* `Home/00 Governance/Decision Ledger.md`
+* `Home/00 Governance/Release Notes.md`
+* `Home/00 Governance/README.md`, only if materially stale
+* this `Codex Synchronization Prompt.md`
 
-✓ Synchronize `Project Status.md`.
+Also review any additional affected governance files identified by the current Handover or Codex Operating Guide.
 
-✓ Regenerate `Project Handover.md`.
+The primary document requiring conceptual refinement is:
 
-✓ Update `Decision Ledger.md` if an architectural decision is required under existing governance conventions.
+**`Sādhaka Guidance System.md`**
 
-✓ Review `Release Notes.md` and update only if required by established conventions.
+Do not make unrelated changes.
 
-✓ Update `README.md` only if its current repository status is materially stale.
+Do not implement the system.
 
-✓ Update this `Codex Synchronization Prompt.md` so that future synchronizations operate against the new phase.
-
-✓ Preserve JP-001 as the completed Pilot #1.
-
-✓ Preserve all frozen foundations.
-
-✓ Perform repository validation.
+Do not create schemas, executable Sādhana pathways, scoring systems, automated gate logic, or practice templates.
 
 ---
 
@@ -358,31 +524,33 @@ This synchronization does NOT authorize:
 
 ✗ creation of Practice Provenance schemas;
 
+✗ executable Sādhana pathway implementation;
+
 ✗ creation of Sādhana Pathway templates;
 
 ✗ creation of Sādhana Checkpoint templates;
 
-✗ implementation of Gate Pass logic;
+✗ implementation of Gate Pass logic or automated gate logic;
 
 ✗ automated Sādhaka scoring;
 
-✗ universal Beginner → Advanced → Enlightened ranking;
+✗ spiritual attainment rankings;
+
+✗ AI certification of realization;
 
 ✗ actual Sādhana programs;
 
-✗ new Mantra recommendations;
+✗ new Mantra prescriptions;
 
-✗ new Tantric or Śākta practice instructions;
+✗ new Tantric/Śākta practice instructions;
 
 ✗ new Jīvanta Paramparā population;
 
 ✗ JP-002;
 
-✗ reopening frozen Ādhāra Śilā sections;
+✗ reopening frozen Ādhāra Śilā work;
 
-✗ redesigning Jīvanta Paramparā Architecture v1.0;
-
-✗ redesigning Jīvanta Paramparā Methodology v1.0;
+✗ redesigning frozen Jīvanta Paramparā architecture or methodology;
 
 ✗ new independent religious/editorial research;
 
@@ -390,13 +558,27 @@ This synchronization does NOT authorize:
 
 ✗ new constitutional decision;
 
+✗ invention of Pramāṇa;
+
 ✗ invention of missing evidence;
 
 ✗ invention of traditional requirements;
 
 ✗ invention of Guru/Diksha rules;
 
-✗ creation of a new repository version unless governance explicitly requires it.
+✗ invention of lineage requirements;
+
+✗ invention of repository versions;
+
+✗ silent resolution of governance conflicts;
+
+✗ unrelated editorial or religious research;
+
+✗ Git commit;
+
+✗ Git push.
+
+When uncertain, report the uncertainty.
 
 ---
 
@@ -406,44 +588,38 @@ Synchronize `Project Status.md` with the actual repository state.
 
 The resulting status should accurately show:
 
-* JP-001 as completed;
-* the controlled Jīvanta Paramparā pilot as completed for Pilot #1;
-* the next project phase as **Sādhaka Guidance System — Conceptual Architecture**;
-* the current work package as conceptual architecture refinement/design;
-* the 108 as foundational;
-* Jīvanta Paramparā architecture/methodology as frozen;
-* no additional Jīvanta Paramparā population currently authorized.
+* the current Sādhaka Guidance System phase;
+* the current work package: **Sādhaka Guidance System — Responsible Sādhaka Journey Foundation**;
+* the frozen conceptual foundation;
+* JP-001 completion;
+* frozen Ādhāra Śilā state;
+* frozen Jīvanta Paramparā architecture/methodology;
+* current technical debt and unresolved issues;
+* the fact that implementation has not begun.
 
 Do not imply that implementation has begun.
 
-Do not imply that the Sādhaka Guidance System is complete.
+Do not claim the Sādhaka Guidance System is complete.
 
 ---
 
 # DECISION LEDGER
 
-Review the current `Decision Ledger.md`.
+Review the existing `Decision Ledger.md`.
 
-Determine whether the new conceptual architecture requires an Accepted architectural decision according to existing governance conventions.
+Determine whether this synchronization requires a new accepted architectural decision under existing governance conventions.
 
 If required:
 
-* add the decision using the next valid Decision Ledger numbering/version convention;
-* accurately describe the decision;
-* distinguish conceptual approval from implementation approval;
+* use the next valid numbering convention;
 * preserve all existing decisions;
+* clearly distinguish conceptual approval from implementation approval;
+* record only decisions actually established by the approved foundation;
 * do not modify unrelated decisions.
 
-The decision should establish the Sādhaka Guidance System as a **guidance/navigation layer over the existing repository architecture**.
+Do not invent a governance decision merely because a conceptual refinement exists.
 
-It must not:
-
-* replace Ādhāra Śilā;
-* alter Jīvanta Paramparā;
-* authorize additional population;
-* authorize executable Sādhana implementation.
-
-If existing governance does not require a new Decision Ledger entry, report that determination rather than inventing one.
+If no new decision is required, report that determination.
 
 ---
 
@@ -451,27 +627,27 @@ If existing governance does not require a new Decision Ledger entry, report that
 
 Read the current `Project Handover.md` before making changes.
 
-After synchronization, regenerate/update it so that it accurately describes:
+After synchronization, regenerate/update it according to the repository's established conventions.
 
-* the completed JP-001 Pilot #1;
-* the current repository state;
-* the Sādhaka Guidance System conceptual architecture;
-* the current phase;
-* the current work package;
-* the next design objective;
+The new Handover must accurately capture:
+
+* current repository state;
+* current phase;
+* current work package;
+* frozen Responsible Sādhaka Journey Foundation;
+* affected governance documents;
+* JP-001 status;
 * frozen foundations;
-* governance state;
 * technical debt;
 * unresolved issues;
 * validation results;
 * exact modified/created/removed files;
-* commit-readiness state.
-
-The Handover must remain suitable as the operational starting point for the next ChatGPT session.
+* commit-readiness state;
+* next work objective.
 
 Do not invent a Handover revision number.
 
-Follow the existing Handover revision-history conventions.
+The Handover must remain suitable as the operational starting point for the next ChatGPT session.
 
 ---
 
@@ -479,19 +655,17 @@ Follow the existing Handover revision-history conventions.
 
 Review `Release Notes.md`.
 
-Determine whether this conceptual architecture transition requires a release-note entry under the repository's existing conventions.
+Determine whether this conceptual architecture refinement requires a release-note entry under the repository's existing conventions.
 
 Preserve the distinction between:
 
 * repository release version;
-* document revision;
 * architecture version;
 * methodology version;
+* document revision;
 * Handover revision.
 
-Do not create a new repository version merely because:
-
-**Sādhaka Guidance System.md = v0.1**
+Do not create a new repository version merely because the Sādhaka Guidance System architecture document is revised.
 
 If a release-note entry is appropriate, use the established format and accurately describe the change.
 
@@ -513,7 +687,7 @@ Do not make unrelated editorial changes.
 
 # CROSS-LAYER INTEGRITY
 
-Verify that the new Sādhaka Guidance System does not collapse the existing repository layers.
+Verify that the Sādhaka Guidance System does not collapse the existing repository layers.
 
 Preserve:
 
@@ -529,7 +703,7 @@ Living traditions, transmission, practices, communities, institutions and contem
 
 Broader encyclopedic and research knowledge.
 
-The Sādhaka Guidance System is a **navigation/guidance layer across these knowledge layers**, not a replacement layer that absorbs their responsibilities.
+The Sādhaka Guidance System is a **navigation/reasoning layer across these knowledge layers**, not a replacement layer that absorbs their responsibilities.
 
 Do not duplicate canonical content.
 
@@ -569,7 +743,7 @@ Maintain readability and do not make governance prose unnecessarily Sanskrit-hea
 
 # VALIDATION
 
-Before completing synchronization verify:
+After synchronization:
 
 ## Governance
 
@@ -581,7 +755,13 @@ Before completing synchronization verify:
 
 ✓ Project Handover accurately reflects the resulting repository state.
 
+✓ Project Status and Project Handover are consistent.
+
+✓ Release Notes consistency is checked if modified or reviewed.
+
 ✓ No unauthorized governance decisions were introduced.
+
+✓ Governance conflicts were not silently resolved.
 
 ## Foundations
 
@@ -607,7 +787,13 @@ Before completing synchronization verify:
 
 ✓ Sādhaka State is not represented as spiritual certification.
 
+✓ Stage depth is not represented as spiritual advancement.
+
 ✓ Guidance depth is distinguished from practice eligibility.
+
+✓ Path Discovery remains distinct from Path Alignment.
+
+✓ Sustainability is not used as a Path Alignment prediction.
 
 ✓ Practice boundaries remain preserved.
 
@@ -616,6 +802,8 @@ Before completing synchronization verify:
 ✓ Moksha is not represented as an AI-certifiable level.
 
 ✓ No implementation schemas or executable Sādhana pathways were created without authorization.
+
+✓ No unsupported religious/traditional claims were invented.
 
 ## Cross-Layer
 
@@ -659,7 +847,7 @@ After validation:
 6. Record unresolved issues.
 7. Record the current phase.
 8. Record the next work package.
-9. Record that the Sādhaka Guidance System remains at the conceptual architecture stage.
+9. Record that the Sādhaka Guidance System remains at the conceptual architecture stage unless the repository has explicitly recorded a frozen conceptual foundation revision.
 10. Ensure the Handover can independently onboard the next ChatGPT session.
 
 Do not merely append a generic summary.
@@ -668,53 +856,75 @@ The Handover must reflect the repository as it actually exists after synchroniza
 
 ---
 
-# OUTPUT
+# REQUIRED OUTPUT
 
-Before any commit, provide:
+Return a synchronization summary for human review.
 
-1. **Repository Synchronization Summary**
-2. **Repository Version**
-3. **Release / Synchronization Name**
-4. **Starting Commit / Repository State**
-5. **Modified Files**
-6. **Created Files**
-7. **Removed Files**
-8. **JP-001 Completion Status**
-9. **Sādhaka Guidance System Status**
-10. **Decision Ledger Status**
-11. **Project Handover Status**
-12. **Project Status**
-13. **Release Notes Status**
-14. **Cross-Layer Validation**
-15. **Governance Validation**
-16. **Repository Validation**
-17. **Technical Debt**
-18. **Recommendations**
-19. **Warnings**
-20. **Manual Review Items**
-21. **Commit Readiness**
+The summary must include:
 
-The final Commit Readiness must explicitly state one of:
+1. **Synchronization Status**
 
-**READY FOR HUMAN REVIEW — DO NOT COMMIT**
+   PASS / PARTIAL / BLOCKED
 
-or:
+2. **Conceptual Architecture Changes**
 
-**NOT READY — BLOCKING ISSUES REQUIRE RESOLUTION**
+   Summarize the actual changes made to `Sādhaka Guidance System.md`.
 
-Do not commit or push.
+3. **Governance Changes**
+
+   List changes to:
+
+   * Project Status;
+   * Project Handover;
+   * Decision Ledger;
+   * Release Notes;
+   * other governance files.
+
+4. **Files Changed**
+
+   List exact modified/created/removed files.
+
+5. **Versioning**
+
+   State:
+
+   * repository version;
+   * architecture version;
+   * document revisions;
+   * Handover revision;
+   * whether a release/version changed.
+
+6. **Validation**
+
+   Report validation performed and results.
+
+7. **Unresolved Issues**
+
+   List anything that could not be resolved without human decision.
+
+8. **Commit Readiness**
+
+   Return exactly one of:
+
+   **READY FOR HUMAN REVIEW — DO NOT COMMIT**
+
+   or
+
+   **BLOCKED — HUMAN DECISION REQUIRED**
+
+The synchronization is not complete for commit purposes until the human owner reviews the summary.
 
 ---
 
 # IMPORTANT
 
-Treat **Project Handover.md** as the repository's stable operational control document.
+Treat **`Project Handover.md`** as the repository's stable operational control document.
 
-Treat **Constitution.md** as the highest governance authority.
+Treat **`Constitution.md`** as the highest governance authority.
 
-Treat **Codex Operating Guide.md** as the governing operating procedure.
+Treat **`Codex Operating Guide.md`** as the governing operating procedure.
 
-Treat **Sādhaka Guidance System.md** as the authoritative repository document for the approved conceptual architecture.
+Treat **`Sādhaka Guidance System.md`** as the authoritative repository document for the approved conceptual architecture.
 
 Treat the repository itself as the Single Source of Truth for current repository state.
 
@@ -730,7 +940,7 @@ Do NOT redesign frozen architecture.
 
 Do NOT implement the Sādhaka Guidance System during this synchronization.
 
-The purpose of this synchronization is to establish and document the new conceptual phase while preserving the integrity of everything already built.
+Do NOT commit or push.
 
 After synchronization:
 
@@ -740,4 +950,12 @@ After synchronization:
 
 **Provide the complete Synchronization Summary.**
 
-**Stop for Repository Owner review before any commit.**
+**Stop for Repository Owner review before any Git commit.**
+
+---
+
+# FINAL RULE
+
+Do not commit or push.
+
+The human owner will review the synchronization summary before any Git commit.

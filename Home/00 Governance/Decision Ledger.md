@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 1.8
+Version: 1.9
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-10
+Last Updated: 2026-08-13
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -112,6 +112,7 @@ The following decision states are used throughout this ledger.
 | DL-050 | Classification by Primary Literary Form Adopted Repository-Wide | Frozen |
 | DL-051 | Jīvanta Paramparā Architecture and Methodology Foundation | Frozen |
 | DL-052 | Sādhaka Guidance System as Conceptual Guidance Layer | Accepted |
+| DL-053 | Responsible Sādhaka Journey Foundation | Frozen |
 
 ---
 
@@ -130,6 +131,39 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-053 — Responsible Sādhaka Journey Foundation
+
+**Status:** Frozen
+
+**Date:** 2026-08-13
+
+### Decision
+
+The **Responsible Sādhaka Journey Foundation** is frozen as the current conceptual foundation for the Sādhaka Guidance System.
+
+The foundation defines the Sādhaka Journey as an iterative model:
+
+**Discover -> Ground -> Practice -> Progress -> Continue**
+
+It also establishes the following conceptual rules:
+
+- Intent -> Goal -> Purpose is a progressive discovery relationship, not a mandatory questionnaire.
+- Context is the information necessary for the next responsible journey decision.
+- Path Discovery and Path Alignment are distinct stages.
+- Accessibility concerns whether a Sādhaka may legitimately begin a path at this stage, considering prerequisites, restrictions, transmission requirements, and required guidance.
+- Adhikāra and boundaries concern practice appropriateness and conditions for proceeding, not spiritual worth.
+- Stage depth is determined by what responsible guidance requires in the Sādhaka's context.
+- Sustainability is discovered through lived practice and reflection, not predicted as a Path Alignment judgment.
+- Next Guidance is the feedback mechanism that may continue, adjust, pause, deepen, revisit earlier stages, seek living guidance, or seek appropriate professional support where relevant.
+
+This decision does not authorize implementation, schemas, executable sādhana pathways, automated gate logic, scoring systems, practice templates, new mantra prescriptions, JP-002, or additional Jīvanta Paramparā population.
+
+### Reason
+
+Freezing the conceptual journey foundation stabilizes the next design phase while preserving repository layer boundaries, practice-boundary requirements, Guru / Ācārya limits, and the distinction between conceptual architecture and implementation.
 
 ---
 
@@ -545,3 +579,4 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.6 | 2026-08-08 | Synchronized approved Ādhāra Śilā Editorial Freeze decisions, including permanent freeze status for Sections IV, VII, and VIII; finalized Mantra and Liturgical Literature architecture; repository-wide classification by primary literary form; removal of practice-oriented categories from Ādhāra Śilā; and assignment of practice-oriented material to Jīvanta Paramparā. |
 | 1.7 | 2026-08-09 | Froze the Jīvanta Paramparā architecture v1.0 and methodology v1.0 as the foundation for the next repository phase. |
 | 1.8 | 2026-08-10 | Accepted the Sādhaka Guidance System as a conceptual guidance/navigation layer over the existing repository architecture without authorizing implementation or changing frozen foundations. |
+| 1.9 | 2026-08-13 | Froze the Responsible Sādhaka Journey Foundation as the refined conceptual foundation for the Sādhaka Guidance System without authorizing implementation or changing existing repository layers. |

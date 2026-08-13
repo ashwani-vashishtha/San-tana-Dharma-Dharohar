@@ -126,7 +126,7 @@ For the current operational state, refer to **Project Handover.md**. For the rep
 
 **Current Milestone:** Sādhaka Guidance System — Conceptual Architecture
 
-**Repository Status:** Conceptual architecture refinement; implementation not begun
+**Repository Status:** Sādhaka Guidance System v0.2 frozen conceptual foundation; implementation not begun
 
 **Latest Completed Pilot:** JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 

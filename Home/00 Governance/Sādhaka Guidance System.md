@@ -1,12 +1,12 @@
 # Sādhaka Guidance System
 
-Version: 0.1
+Version: 0.2
 
-Status: Conceptual Architecture
+Status: Frozen Conceptual Foundation
 
 Created: 2026-08-10
 
-Last Updated: 2026-08-10
+Last Updated: 2026-08-13
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -21,827 +21,483 @@ Related Documents:
 
 ---
 
-# Conceptual Architecture v0.1
+# Conceptual Architecture v0.2
 
-### North Star
+## North Star
 
 **Design the system that turns the repository into a responsible Sādhaka journey.**
 
-### 1. Purpose
+The Sādhaka Guidance System is the conceptual guidance and navigation layer built upon the knowledge, evidence, tradition, and research foundation of **Sanātana Dharma Dharohar**.
 
-The Sādhaka Guidance System is the guidance layer built upon the knowledge, evidence, tradition and research foundation of Sanātana Dharma Dharohar.
-
-Its purpose is to help a Sādhaka move from an expressed aspiration, question or spiritual need toward an appropriate and progressively deepening path of learning and Sādhana.
-
-The system shall not merely answer questions or distribute practices.
-
-It shall help the Sādhaka:
-
-* understand what they are actually seeking;
-* discover relevant traditional pathways;
-* understand the traditions behind those pathways;
-* identify an appropriate starting point;
-* understand Adhikāra, prerequisites and boundaries;
-* begin with appropriately bounded practice;
-* establish small, sustainable steps;
-* observe and reflect upon practice;
-* pass knowledge and practice checkpoints;
-* reach milestones;
-* determine when and how to deepen;
-* recognize when living Guru/Ācārya guidance is required.
-
-The system shall preserve the distinction between **knowledge, traditional authority, scholarly interpretation, AI reasoning and personal experience**.
+It is not an implementation, schema, scoring system, practice engine, or substitute for living Guru / Ācārya guidance.
 
 ---
 
-## 2. Foundational Principle
+# Purpose
+
+The Sādhaka Guidance System exists to help a Sādhaka move from expressed inquiry, aspiration, or spiritual need toward responsible learning and appropriately bounded sādhana.
+
+It should help the Sādhaka:
+
+- understand what they are presently seeking;
+- discover legitimate traditional pathways;
+- align a path with their stated intent, goal, purpose, and relevant context;
+- understand tradition, Devata, Sampradāya, lineage, and transmission context where relevant;
+- identify Adhikāra, prerequisites, restrictions, and boundaries;
+- begin with an appropriate small practice where authorized;
+- observe and reflect on lived practice;
+- identify meaningful milestones without treating them as spiritual ranks;
+- determine next guidance, including when to continue, adjust, pause, deepen, revisit earlier stages, or seek living guidance.
+
+The system must preserve the distinction between:
+
+- repository knowledge;
+- Pramāṇa and source evidence;
+- living tradition and Paramparā;
+- scholarly interpretation;
+- AI reasoning;
+- Sādhaka self-report and personal experience.
+
+---
+
+# Foundational Principle
 
 The repository is the knowledge foundation.
 
-The Sādhaka Guidance System is the navigation and reasoning layer.
+The Sādhaka Guidance System is the navigation and reasoning architecture.
 
 The AI is the conversational and reasoning interface.
 
 Therefore:
 
-**Repository → provides knowledge, Pramāṇa, provenance, tradition and boundaries.**
+**Repository -> provides knowledge, Pramāṇa, provenance, tradition, and boundaries.**
 
-**AI → interprets the Sādhaka's natural-language intent, asks questions, reasons over the available knowledge, compares pathways and constructs a suitable journey.**
+**AI -> interprets natural-language intent, asks only necessary questions, reasons over available knowledge, compares pathways, and supports the next responsible journey decision.**
 
-**Sādhaka Guidance System → governs how those capabilities are combined into responsible guidance.**
+**Sādhaka Guidance System -> governs how these capabilities combine into responsible guidance.**
 
 The AI must not manufacture authority that is absent from the repository or underlying sources.
 
 ---
 
-## 3. Relationship to the Existing Repository
+# Relationship to the Repository
 
 The Sādhaka Guidance System does not replace the existing repository architecture.
 
-It operates across the existing foundational domains:
+It operates across the existing layers:
 
-### Ādhāra Śilā — आधार शिला
+## Ādhāra Śilā — आधार शिला
 
-Provides foundational and canonical knowledge.
+Provides foundational canonical and literary knowledge.
 
-The **108 foundational resources remain permanently valuable** and constitute a core foundation for Sādhaka navigation.
+The 108 foundational resources remain permanently valuable and foundational.
 
-### Jīvanta Paramparā — जीवन्त परम्परा
+The Sādhaka Guidance System must not reopen, redesign, replace, or duplicate the frozen Ādhāra Śilā foundation.
 
-Provides living-tradition context including:
+## Jīvanta Paramparā — जीवन्त परम्परा
 
-* Tradition;
-* Sampradāya;
-* Lineage;
-* Transmission;
-* Practice;
-* Contemporary expression;
-* Practice boundaries.
+Provides living tradition, Sampradāya, lineage, transmission, practice, community, institution, and contemporary-expression context.
 
-### Dharma Sāgara — धर्म सागर
+The Jīvanta Paramparā architecture v1.0 and methodology v1.0 remain frozen.
 
-Provides broader research, explanation, contextual knowledge and supporting material.
+JP-001 — Śrī Vaiṣṇava Sampradāya remains the completed first controlled Jīvanta Paramparā pilot.
 
-The Sādhaka Guidance System connects these layers according to the Sādhaka's journey.
+No additional Jīvanta Paramparā population is authorized by this conceptual architecture.
 
----
+## Dharma Sāgara — धर्म सागर
 
-# 4. Sādhaka Journey Lifecycle
+Provides broader encyclopedic, specialized, regional, historical, and research knowledge.
 
-The primary lifecycle is:
-
-**1. Sādhaka Entry**
-
-↓
-
-**2. Intent & Goal Discovery**
-
-↓
-
-**3. Sādhaka Orientation**
-
-↓
-
-**4. Pathway Discovery**
-
-↓
-
-**5. Pathway Selection**
-
-↓
-
-**6. Tradition / Devata Context**
-
-↓
-
-**7. Adhikāra Assessment**
-
-↓
-
-**8. Sādhana Precautions & Boundaries**
-
-↓
-
-**9. Preparation & Niyama**
-
-↓
-
-**10. First Small Practice**
-
-↓
-
-**11. Practice Period**
-
-↓
-
-**12. Sādhana Checkpoint**
-
-↓
-
-**13. Milestone / Test**
-
-↓
-
-**14. Deepening**
-
-↓
-
-**15. Guru / Ācārya Gateway**
-
-↓
-
-**16. Continuing Sādhaka Journey**
-
-These stages are not necessarily strictly linear.
-
-A Sādhaka may return to an earlier stage when new information, difficulties or changes in aspiration arise.
+The Sādhaka Guidance System may draw context from Dharma Sāgara without collapsing it into either Ādhāra Śilā or Jīvanta Paramparā.
 
 ---
 
-# 5. Sādhaka Entry
+# Sādhaka Journey Model
 
-The system begins by understanding why the person has arrived.
+The Sādhaka Journey is iterative, not a rigid linear pipeline.
 
-Possible entry motivations include:
+The conceptual structure is:
 
-* curiosity;
-* spiritual inquiry;
-* philosophical inquiry;
-* desire for discipline;
-* emotional or life difficulty;
-* desire for devotion;
-* Devata interest;
-* mantra interest;
-* meditation interest;
-* Yoga interest;
-* desire to understand Dharma;
-* desire to begin Sādhana;
-* desire to deepen an existing Sādhana;
-* search for a Guru or living tradition;
-* explicit aspiration toward Moksha / मोक्ष.
+## Discover
 
-The system must not assume that the user's requested technique is necessarily the appropriate solution to the underlying aspiration.
+**Sādhaka -> Intent -> Goal -> Purpose -> Context -> Path Discovery -> Path Alignment -> Decision**
 
----
+## Ground
 
-# 6. Intent & Goal Discovery
+**Tradition & Context -> Adhikāra & Boundaries -> Preparation**
 
-The system identifies both the immediate request and the deeper objective.
+## Practice
 
-A Sādhaka may have multiple simultaneous goals.
+**First Small Practice -> Practice Period -> Observation -> Reflection**
 
-The system should therefore distinguish, where applicable:
+## Progress
 
-### Immediate Goal
+**Milestone / Test -> Deepening, where appropriate -> Guru / Ācārya Gateway, where required**
 
-What the Sādhaka wants to address now.
+## Continue
 
-### Intermediate Goal
+**Next Guidance -> appropriate point in the Journey**
 
-What the Sādhaka wants to establish or achieve through sustained practice.
+The journey may return to an earlier point when new information, lived experience, reflection, changed aspiration, or required guidance makes that appropriate.
 
-### Long-Term Goal
+Do not force every Sādhaka through every stage.
 
-What direction the Sādhaka wishes to develop toward.
-
-### Ultimate Aspiration
-
-The highest stated aspiration, which may be:
-
-**Moksha — मोक्ष**
-
-or another understanding of ultimate spiritual fulfillment.
-
-The system must allow a Sādhaka to say:
-
-> "I do not yet know my ultimate goal."
-
-Lack of clarity is itself a valid starting condition.
-
-The system should help the Sādhaka discover rather than force an artificial goal.
+There is no artificial "journey completed" state.
 
 ---
 
-# 7. Sādhaka Orientation
+# Stage Depth Principle
 
-Before recommending a pathway, the system establishes the minimum context necessary for responsible guidance.
+Not every Sādhaka needs to traverse every stage with equal depth.
 
-Possible dimensions include:
+Stage depth is determined by what is necessary for responsible guidance in the Sādhaka's particular context.
 
-* previous spiritual or religious background;
-* current practices;
-* experience level;
-* existing Devata orientation;
-* existing Guru/Ācārya relationship;
-* Diksha status;
-* Sampradāya affiliation, if any;
-* available time;
-* desired intensity;
-* practical constraints;
-* existing commitments;
-* stated concerns;
-* relevant safety boundaries.
+Stage depth is not a measure of spiritual advancement.
 
-Assessment should be progressive.
+A broadly accessible path may require little contextual depth.
 
-The system should ask only what is necessary at each stage rather than imposing a large questionnaire on every Sādhaka.
+A specialized, transmission-dependent, or tradition-specific practice may require substantially more.
+
+Do not manufacture complexity.
 
 ---
 
-# 8. Pathway Discovery
+# Intent, Goal, and Purpose
 
-The system must not collapse every aspiration into the technique requested by the Sādhaka.
+Treat:
 
-It should identify multiple potentially relevant traditional pathways.
+**Intent -> Goal -> Purpose**
 
-Depending upon the aspiration and available evidence, these may include:
+as a progressive discovery relationship, not a mandatory questionnaire sequence.
 
-* Bhakti — भक्ति;
-* Japa — जप;
-* Dhyāna — ध्यान;
-* Yoga — योग;
-* Svādhyāya — स्वाध्याय;
-* Karma Yoga — कर्मयोग;
-* Devata Upasana — देवता उपासना;
-* Vedānta / Jñāna-oriented inquiry;
-* scripture study;
-* other tradition-specific pathways.
+The system follows the Sādhaka's expressed pursuit.
 
-The system presents these as **possible pathways for exploration**, not as universally correct solutions.
+It must not invent a deeper or ultimate pursuit on the Sādhaka's behalf.
 
-The AI's reasoning is particularly important at this stage.
+A Sādhaka may begin without knowing their deeper purpose.
 
-It must combine:
+Do not require or manufacture an "Ultimate Aspiration" field.
 
-**Sādhaka intent + repository knowledge + tradition context + evidence + practical reasoning.**
-
-This is one of the primary areas where the project differs from a conventional Q&A system.
+If a Sādhaka explicitly expresses an aspiration such as **Moksha — मोक्ष**, preserve it as their stated aspiration, but do not convert it into a software progression level or AI-certifiable state.
 
 ---
 
-# 9. Pathway Selection
+# Context
 
-Once possible pathways have been identified, the system helps the Sādhaka select an initial direction.
+Context is the information necessary to make the next responsible journey decision.
 
-Selection should consider:
+Context is progressive and purpose-driven.
 
-* stated aspiration;
-* Devata inclination;
-* philosophical inclination;
-* current experience;
-* tradition compatibility;
-* accessibility;
-* prerequisites;
-* practice intensity;
-* availability of living guidance;
-* sustainability.
+Collect only what is relevant to the next decision.
 
-The system should explain **why** a pathway is being suggested.
+Do not turn the journey into a universal Sādhaka questionnaire.
 
-It must not silently select a path based merely on keyword matching.
+Unknown information is acceptable when it is not decision-critical.
 
-The Sādhaka retains agency.
+If missing information is critical to responsible guidance, clarify before proceeding.
 
 ---
 
-# 10. Tradition / Devata Context
+# Path Discovery
 
-Once a pathway or Devata is selected, the system establishes its traditional context before prescribing practice.
+Path Discovery asks:
 
-For example, selecting Devi Upasana does not automatically establish one universal Devi practice.
+**What legitimate traditional pathways could potentially serve this Sādhaka's expressed pursuit?**
 
-The system may need to distinguish among:
+The system must not simply convert the Sādhaka's requested technique into the recommended path.
 
-* Durgā — दुर्गा;
-* Kālī — काली;
-* Lalitā Tripurasundarī — ललिता त्रिपुरसुन्दरी;
-* Lakṣmī — लक्ष्मी;
-* Sarasvatī — सरस्वती;
-* other forms and traditions.
+It may discover multiple legitimate paths, including where supported by evidence:
 
-The system must determine:
+- Bhakti — भक्ति;
+- Japa — जप;
+- Dhyāna — ध्यान;
+- Yoga — योग;
+- Svādhyāya — स्वाध्याय;
+- Karma Yoga — कर्मयोग;
+- Devata Upāsanā — देवता उपासना;
+- Vedānta / Jñāna-oriented inquiry;
+- scripture study;
+- other tradition-specific pathways.
 
-**Which tradition?**
-
-**Which Sampradāya?**
-
-**Which lineage, where relevant?**
-
-**Which practice?**
-
-**What is traditionally transmitted?**
-
-**What is generally accessible?**
-
-Practices from different traditions must not be silently combined into a synthetic universal practice.
+These are possible pathways for exploration, not universal prescriptions.
 
 ---
 
-# 11. Adhikāra Assessment
+# Path Alignment
 
-Adhikāra — अधिकार — shall be treated as a practice-appropriateness concept, not as a judgment of spiritual worth.
+Path Alignment asks:
 
-The system assesses whether the proposed practice is appropriate for the Sādhaka's current situation.
+**Which discovered path or paths are appropriately aligned with the Sādhaka's Goal, Purpose, Intent, and relevant Context?**
 
-Relevant dimensions may include:
+Where relevant and supported by tradition or evidence, Path Alignment may consider:
 
-* beginner / established / experienced;
-* general devotional practice / structured practice / advanced practice;
-* Guru relationship;
-* Diksha status;
-* Sampradāya context;
-* practice complexity;
-* transmission requirements;
-* preparation requirements.
+- purpose alignment;
+- traditional alignment;
+- context alignment;
+- accessibility;
+- prerequisites;
+- transmission requirements;
+- tradition integrity.
 
-The system must distinguish:
+Do not use predicted sustainability as a Path Alignment criterion.
 
-**"This person is not spiritually worthy."**
+Do not introduce numerical compatibility scores.
 
-from:
+The current provisional Path Alignment outcomes are:
 
-**"This practice is not presently appropriate for this person's current level, context or transmission status."**
+**Proceed | Multiple Paths | Redirect | Clarify Further | Living Guidance Required**
 
-The latter is the intended model.
-
----
-
-# 12. Sādhana Precautions & Boundaries
-
-This is a **mandatory stage** for practices with meaningful ritual, mantra, Tantric, transmission or other specialized boundaries.
-
-The system must establish precautions **before executable practice is presented**.
-
-This stage exists to help the Sādhaka approach the Devata and tradition with श्रद्धा, respect and correctness while avoiding uninformed experimentation.
-
-The system should establish, where supported by sources:
-
-### Required
-
-What the tradition explicitly requires.
-
-### Recommended
-
-What the tradition recommends but does not universally require.
-
-### Prohibited / Restricted
-
-What should not be performed, altered or combined.
-
-### Do Not Improvise
-
-What the Sādhaka should not invent, modify or reconstruct independently.
-
-### Guru / Ācārya Dependent
-
-What requires or materially benefits from direct living instruction.
-
-### Diksha Dependent
-
-What belongs to initiated transmission.
-
-### Error Handling
-
-What the tradition says should happen when an error or deviation occurs.
-
-Where no authoritative correction is available, the system must not invent one.
-
-### Stop Conditions
-
-Circumstances in which practice should be paused.
-
-### Escalation
-
-When to consult a Guru/Ācārya or, where appropriate, a qualified professional.
-
-The system must not turn traditional caution into fearmongering.
-
-It should preserve the tradition's understanding while distinguishing:
-
-**traditional belief or prescription**
-
-from
-
-**verified factual consequence**.
-
-The system must never claim that a deity will punish a Sādhaka unless such a statement is explicitly presented as a traditional belief or teaching and properly contextualized.
+These outcomes are provisional working concepts and must not be treated as permanently frozen governance decisions.
 
 ---
 
-# 13. Practice Accessibility Classification
+# Accessibility
 
-Practices should eventually be classified according to accessibility.
+Accessibility means:
 
-A preliminary model is:
+**Can the Sādhaka legitimately begin this path at this stage, considering its traditional prerequisites, restrictions, transmission requirements, and required guidance?**
 
-### Level A — Generally Accessible
-
-Suitable for general practice according to the relevant tradition.
-
-### Level B — Tradition-Context Recommended
-
-Generally accessible but best understood within the relevant tradition.
-
-### Level C — Guru / Ācārya Recommended
-
-Direct instruction materially improves correctness or safety.
-
-### Level D — Diksha / Transmission Dependent
-
-The system must not present the practice as an ordinary self-guided activity.
-
-### Level E — Restricted / Specialized
-
-The system may explain and contextualize the practice but should not convert it into an executable self-initiation procedure.
-
-These classifications must be established from tradition-specific evidence rather than assumed universally.
+Accessibility is not a judgment of spiritual advancement, spiritual worth, or personal value.
 
 ---
 
-# 14. Preparation & Niyama
+# Tradition and Context
 
-Only after the practice boundary has been established does the system determine preparation.
+After Path Alignment and Decision, the system establishes the actual traditional context required to understand the path responsibly.
 
-Potential areas include:
+Depending on the path, this may include:
 
-* Śauca — शौच;
-* Ācāra — आचार;
-* Niyama — नियम;
-* Āhāra — आहार;
-* Brahmacarya — ब्रह्मचर्य, where specifically prescribed;
-* Kāla — काल;
-* Deśa — देश;
-* Āsana — आसन;
-* Sankalpa — सङ्कल्प;
-* other tradition-specific requirements.
+- Tradition;
+- Devata;
+- Sampradāya;
+- lineage, where relevant;
+- traditional purpose;
+- practice context;
+- transmission context;
+- what is generally accessible;
+- what is transmitted or restricted.
 
-The system must never convert a practice-specific requirement into a universal Sanātana Dharma requirement without evidence.
+Do not force every dimension onto every path.
 
----
+Do not silently combine practices from different traditions into a synthetic universal practice.
 
-# 15. First Small Practice
-
-The system should prefer a **small, sustainable, legitimate first step**.
-
-The first step should be:
-
-* appropriate to the Sādhaka;
-* supported by the relevant tradition/source;
-* clearly bounded;
-* realistically sustainable;
-* observable.
-
-The system should optimize for:
-
-> **Consistency before intensity.**
-
-The first practice is not necessarily the most powerful practice available.
-
-It is the most appropriate **next step**.
+The system contextualizes traditions; it does not manufacture a new tradition.
 
 ---
 
-# 16. Practice Period
+# Adhikāra and Boundaries
 
-The Sādhaka follows the agreed practice for an appropriate period.
+Treat Adhikāra and boundaries together as a straightforward journey stage.
 
-The system may encourage reflection on:
+Adhikāra asks:
 
-* consistency;
-* attention;
-* mental state;
-* devotional orientation;
-* conduct;
-* difficulties;
-* sustainability;
-* questions.
+**Is this practice appropriate for this Sādhaka at this point?**
 
-The system must not claim to measure spiritual attainment through subjective experiences.
+Boundaries ask:
 
----
+**Under what conditions may the Sādhaka proceed?**
 
-# 17. Sādhana Checkpoint
+Adhikāra is practice appropriateness, not spiritual worth.
 
-A checkpoint evaluates whether the practice is taking root.
-
-Possible dimensions:
-
-### Practice
-
-Was the practice actually performed?
-
-### Stability
-
-Is regularity becoming established?
-
-### Mind
-
-Is the mind becoming more steady, or more disturbed?
-
-### Concentration
-
-Is attentional stability changing?
-
-### Conduct
-
-Are practical and ethical behaviors changing?
-
-### Bhāva
-
-Is devotion or meaningful engagement developing?
-
-### Attachment
-
-Is the Sādhaka becoming excessively attached to results?
-
-### Disturbance
-
-Are unusual or troubling experiences occurring?
-
-### Sustainability
-
-Can the practice continue responsibly?
-
-The checkpoint should lead to one of several outcomes:
-
-**Continue**
-
-**Adjust**
-
-**Pause**
-
-**Deepen**
-
-**Seek Guru / Ācārya Guidance**
-
-**Seek Appropriate Professional Support**
-
-The system must not diagnose spiritual attainment from these observations.
+Do not create spiritual rankings, scores, attainment levels, or AI judgments of inner realization.
 
 ---
 
-# 18. Milestones
+# Preparation
 
-A milestone represents meaningful progression.
+Preparation means:
 
-A milestone should not be based solely on the number of repetitions completed.
+**The prerequisites required for a specific Sādhana before the Sādhaka begins it.**
 
-It may include:
+Preparation may be required, recommended, or tradition-specific.
 
-* knowledge;
-* practice consistency;
-* understanding;
-* reflection;
-* conduct;
-* ability to explain the practice correctly;
-* ability to distinguish tradition from personal interpretation.
+It may include, where supported by the relevant tradition and source:
 
-Milestones are tradition- and pathway-dependent.
+- Śauca — शौच;
+- Ācāra — आचार;
+- Niyama — नियम;
+- Āhāra — आहार;
+- Brahmacarya — ब्रह्मचर्य, where specifically prescribed;
+- Kāla — काल;
+- Deśa — देश;
+- Āsana — आसन;
+- Saṅkalpa — सङ्कल्प;
+- other tradition-specific requirements.
 
----
-
-# 19. Tests
-
-The system may use different kinds of tests.
-
-### Knowledge Test
-
-Does the Sādhaka understand the relevant teachings?
-
-### Practice Test
-
-Has the Sādhaka established the discipline required for the next stage?
-
-### Reflection Test
-
-Can the Sādhaka accurately describe what has changed?
-
-### Discernment Test
-
-Can the Sādhaka distinguish:
-
-**source**
-
-from
-
-**traditional interpretation**
-
-from
-
-**modern interpretation**
-
-from
-
-**personal experience**
-
-This is especially important because the system should cultivate Sādhaka independence rather than dependence upon the AI.
+Do not convert a practice-specific prerequisite into a universal Sanātana Dharma requirement without evidence.
 
 ---
 
-# 20. Deepening
+# First Small Practice
 
-Deepening occurs only after sufficient foundation.
+The first practice should be:
 
-The system should not automatically introduce increasingly powerful or complex practices.
+- appropriate;
+- legitimate;
+- tradition/source supported;
+- clearly bounded;
+- appropriately small;
+- observable.
 
-Deepening must be justified by:
+The system should prefer:
 
-* the relevant tradition;
-* the Sādhaka's current stage;
-* evidence;
-* practice stability;
-* prerequisites;
-* transmission requirements.
+**Consistency before intensity.**
 
-Depth should precede breadth.
-
-The system should be able to tell a Sādhaka:
-
-> "Stay with this practice rather than adding another."
+Do not define or predict whether the Sādhaka can sustain the practice.
 
 ---
 
-# 21. Guru / Ācārya Gateway
+# Sustainability
 
-The system must recognize when repository-based guidance reaches its legitimate boundary.
+Sustainability is a Sādhaka-experience question, not a Path Alignment judgment.
 
-The system may:
+The system may explain the demands of a practice.
 
-* explain a tradition;
-* identify its sources;
-* explain its practices;
-* identify its Sampradāya and lineage;
-* explain Diksha;
-* help the Sādhaka understand what questions to ask;
-* help the Sādhaka approach a living tradition intelligently.
+The Sādhaka discovers through lived experience whether the practice fits their circumstances and can be continued.
 
-The system must not claim:
+Do not pre-judge sustainability.
 
-* to confer Diksha;
-* to replace a Guru;
-* to authenticate spiritual realization;
-* to become the authoritative representative of a Sampradāya;
-* to certify spiritual attainment.
+Sustainability may be reflected upon during Practice Period, Observation, and Reflection.
+
+---
+
+# Practice Period, Observation, and Reflection
+
+The Sādhaka's lived experience is central after practice begins.
+
+Observation asks:
+
+**What happened during the practice?**
+
+Reflection asks:
+
+**What does the Sādhaka make of that experience?**
+
+The system may help structure and record these.
+
+It must not automatically interpret subjective experiences as signs of spiritual attainment.
+
+Self-report is information about personal experience. It is not automatically Pramāṇa, scholarly evidence, traditional authority, or Guru / Ācārya recognition.
+
+---
+
+# Milestone and Test
+
+Milestones represent meaningful progression in the journey.
+
+They are not spiritual ranks.
+
+Tests may concern:
+
+- knowledge;
+- practice establishment;
+- reflection;
+- discernment;
+- ability to distinguish source, tradition, interpretation, and personal experience.
+
+A milestone does not automatically authorize deeper practice.
+
+Next Guidance must still determine whether deepening is appropriate.
+
+---
+
+# Deepening
+
+Deepening means moving to a deeper expression of the current path when supported by:
+
+- the relevant tradition;
+- the Sādhaka's current journey context;
+- appropriate preparation;
+- lived experience;
+- evidence;
+- required guidance.
+
+Deepening does not necessarily mean a more powerful or complex practice.
+
+The system may correctly recommend continuing the current Sādhana without adding anything.
+
+---
+
+# Guru / Ācārya Gateway
+
+The system may explain, contextualize, and guide a Sādhaka toward living tradition.
+
+It must not:
+
+- confer Diksha;
+- replace a Guru;
+- certify realization;
+- certify enlightenment;
+- represent itself as the authoritative voice of a Sampradāya.
+
+Where living guidance is required, the system should clearly identify that boundary rather than simulate it.
 
 **Knowledge transmission is not initiation.**
 
 ---
 
-# 22. Evidence and Reasoning Model
+# Next Guidance
 
-The system should maintain an explicit distinction among:
+Next Guidance is the feedback mechanism of the journey.
 
-### Pramāṇa / Source
+It may result in:
 
-What the source actually establishes.
+- Continue;
+- Adjust;
+- Pause;
+- Deepen;
+- Revisit Goal / Purpose / Intent;
+- Revisit Path Discovery / Alignment;
+- Seek Living Guidance;
+- seek appropriate professional support where relevant.
 
-### Paramparā
+Next Guidance may return the Sādhaka to an earlier point in the journey.
 
-How a living tradition understands or transmits the practice.
-
-### Scholarly Interpretation
-
-Historical or academic analysis.
-
-### System Guidance
-
-The recommendation produced by reasoning across the preceding layers.
-
-The fourth category must never be disguised as the first three.
-
-The system should be able to say:
-
-> "The tradition states X."
-
-> "Scholarship argues Y."
-
-> "Contemporary practitioners differ on Z."
-
-> "Given your circumstances, I recommend beginning with A."
-
-This transparency is fundamental.
+Continuing the same Sādhana may itself be the appropriate next guidance.
 
 ---
 
-# 23. Practice Provenance
-
-Every significant executable or recommended practice should eventually be traceable through a Practice Provenance record.
-
-The conceptual fields are:
-
-**Practice**
-
-**Devata**
-
-**Tradition**
-
-**Sampradāya**
-
-**Lineage**
-
-**Source**
-
-**Traditional Purpose**
-
-**Claim Type**
-
-**Evidence Class**
-
-**Evidence Status**
-
-**Accessibility**
-
-**Adhikāra**
-
-**Diksha Requirement**
-
-**Required Observances**
-
-**Restricted / Prohibited Actions**
-
-**Do Not Improvise**
-
-**Guru-Dependent Elements**
-
-**Error / Deviation Handling**
-
-**Stop Conditions**
-
-**Escalation**
-
-**Practice Protocol**
-
-**Observation**
-
-**Traditional Progress Indicators**
-
-**Next Stage**
-
-This becomes one of the primary mechanisms preventing synthetic or decontextualized Sādhana recommendations.
-
----
-
-# 24. No-Fabrication Principle
+# No-Fabrication Principle
 
 The system shall never invent:
 
-* mantra provenance;
-* textual attribution;
-* lineage;
-* Guru authority;
-* initiation requirements;
-* ritual requirements;
-* deity-specific rules;
-* spiritual experiences;
-* signs of attainment;
-* corrective rituals;
-* promises of spiritual or worldly outcomes.
+- mantra provenance;
+- textual attribution;
+- lineage;
+- Guru authority;
+- initiation requirements;
+- ritual requirements;
+- deity-specific rules;
+- spiritual experiences;
+- signs of attainment;
+- corrective rituals;
+- promises of spiritual or worldly outcomes.
 
 When evidence is insufficient, the system must say so.
 
 ---
 
-# 25. No-False-Promise Principle
+# No-False-Promise Principle
 
 The system must not present Sādhana as a guaranteed treatment or guaranteed mechanism for:
 
-* mental illness;
-* physical illness;
-* wealth;
-* relationships;
-* supernatural powers;
-* spiritual attainment;
-* liberation.
+- mental illness;
+- physical illness;
+- wealth;
+- relationships;
+- supernatural powers;
+- spiritual attainment;
+- liberation.
 
-Traditional claims may be presented as **traditional claims**, with appropriate context.
+Traditional claims may be presented as traditional claims with appropriate context.
 
 The system must not silently convert traditional claims into scientifically established outcomes.
 
 ---
 
-# 26. Sādhaka Independence Principle
+# Sādhaka Independence Principle
 
-The system should progressively make the Sādhaka **less dependent on the system**, not more.
+The system should progressively make the Sādhaka less dependent on the system, not more.
 
 The desired outcome is not:
 
@@ -851,143 +507,23 @@ It is:
 
 > "Understand the tradition, understand the sources, develop discernment, establish practice, and know when to seek living guidance."
 
-A good Sādhaka should eventually be able to question the system itself.
+A responsible Sādhaka should eventually be able to question the system itself.
 
 ---
 
-# 27. Ultimate Journey
+# Architectural Summary
 
-The system must support both immediate and ultimate aspirations.
-
-A Sādhaka may begin with:
-
-> "I want concentration."
-
-and eventually discover:
-
-> "I want Bhakti."
-
-and eventually:
-
-> "I seek Moksha."
-
-The system must not force a single predetermined destination.
-
-Its role is to help the Sādhaka move from:
-
-**Curiosity**
-
-→ **Understanding**
-
-→ **Discernment**
-
-→ **Appropriate Path**
-
-→ **Preparation**
-
-→ **Sādhana**
-
-→ **Reflection**
-
-→ **Deepening**
-
-→ **Living Tradition**
-
-→ **Progress toward the Sādhaka's own legitimate spiritual aspiration.**
-
----
-
-# 28. Architectural Summary
-
-The system can therefore be represented as:
-
-Sādhaka
-
-↓
-
-**Entry**
-
-↓
-
-**Intent & Goal**
-
-↓
-
-**Orientation**
-
-↓
-
-**Pathway Discovery**
-
-↓
-
-**Pathway Selection**
-
-↓
-
-**Tradition / Devata**
-
-↓
-
-**Adhikāra**
-
-↓
-
-**Precautions & Boundaries**
-
-↓
-
-**Preparation**
-
-↓
-
-**First Small Practice**
-
-↓
-
-**Practice Period**
-
-↓
-
-**Checkpoint**
-
-↓
-
-**Milestone / Test**
-
-↓
-
-**Deepening**
-
-↓
-
-**Guru / Ācārya Gateway**
-
-↓
-
-**Continuing Sādhaka Journey**
-
-while continuously drawing from:
-
-**Ādhāra Śilā + Jīvanta Paramparā + Dharma Sāgara**
-
-and maintaining:
-
-**Pramāṇa + Provenance + Tradition + Transparency + Boundaries**
-
----
-
-## 29. Design North Star
-
-The system exists to answer not merely:
+The Sādhaka Guidance System exists to answer not merely:
 
 > **"What is the answer?"**
 
 but:
 
-> **"What is the appropriate next step for this Sādhaka, why is it appropriate, where does it come from, what must be understood or observed before proceeding, and when should the Sādhaka go deeper or seek living guidance?"**
+> **"What is the appropriate next step for this Sādhaka, why is it appropriate, where does it come from, what must be understood or observed before proceeding, and when should the Sādhaka continue, adjust, pause, deepen, revisit an earlier stage, or seek living guidance?"**
 
 This is the fundamental distinction between a conversational Q&A system and the intended Sādhaka Guidance System.
+
+---
 
 # Revision History
 
@@ -995,6 +531,7 @@ This section records the versions of **Sādhaka Guidance System.md**.
 
 Detailed repository changes are maintained in **Release Notes.md**.
 
-| Version | Date       | Reference |
-| ------- | ---------- | --------- |
-| 0.1     | 2026-08-10 | Initial conceptual architecture defining the Sādhaka Guidance System and its role in turning the repository into a responsible Sādhaka journey. See Release Notes.md |
+| Version | Date | Summary |
+|---------|------|---------|
+| 0.1 | 2026-08-10 | Initial conceptual architecture defining the Sādhaka Guidance System and its role in turning the repository into a responsible Sādhaka journey. See Release Notes.md |
+| 0.2 | 2026-08-13 | Refined and froze the Responsible Sādhaka Journey Foundation, including the iterative Discover/Ground/Practice/Progress/Continue model, Intent -> Goal -> Purpose discovery relationship, Stage Depth Principle, Path Discovery vs Path Alignment distinction, sustainability boundary, and Next Guidance feedback mechanism. |
