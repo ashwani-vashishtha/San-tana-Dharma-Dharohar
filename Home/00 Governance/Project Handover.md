@@ -1,6 +1,6 @@
 # Project Handover
 
-Version: 5.12
+Version: 5.13
 Status: Approved
 Created: 2026-07-19
 Last Updated: 2026-08-14
@@ -15,6 +15,7 @@ Related Documents:
 - Codex Operating Guide.md
 - Master Candidate List.md
 - Ādhāra Śilā 108.md
+- Jīvanta Paramparā — Entry Template.md
 - Traditions Framework.md
 - Jīvanta Paramparā — Top 10 Coverage Set.md
 - JP-001 Śrī Vaiṣṇava Sampradāya.md
@@ -183,7 +184,7 @@ This section records **how the repository is currently operating**, not its gove
 | Primary Activity | Repository consistency and technical-debt review |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Primary Working File | Sādhaka Guidance System.md |
-| Editorial State | JP-001 completed as Pilot #1; Jīvanta Paramparā Top 10 Coverage Set frozen as strategic coverage; Sādhaka Guidance System v0.2 frozen as conceptual foundation; Ādhāra Śilā freeze intact; Jīvanta Paramparā architecture v1.0 and methodology v1.0 frozen |
+| Editorial State | JP-001 completed as Pilot #1; JP-TM-001 concrete entry template available; Jīvanta Paramparā Top 10 Coverage Set frozen as strategic coverage; Sādhaka Guidance System v0.2 frozen as conceptual foundation; Ādhāra Śilā freeze intact; Jīvanta Paramparā architecture v1.0 and methodology v1.0 frozen |
 
 ---
 
@@ -206,7 +207,7 @@ The following principles govern repository operations during the current milesto
 
 ## Active Editorial Context
 
-The repository has completed the approved **Ādhāra Śilā (आधार शिला)** Editorial Freeze for Sections IV, VII, and VIII, synchronized the **Jīvanta Paramparā** architecture and methodology foundation, populated **JP-001 — Śrī Vaiṣṇava Sampradāya** as the first controlled Jīvanta Paramparā pilot, frozen the **Jīvanta Paramparā — Top 10 Coverage Set** as strategic coverage, and frozen the **Sādhaka Guidance System** v0.2 conceptual foundation.
+The repository has completed the approved **Ādhāra Śilā (आधार शिला)** Editorial Freeze for Sections IV, VII, and VIII, synchronized the **Jīvanta Paramparā** architecture and methodology foundation, populated **JP-001 — Śrī Vaiṣṇava Sampradāya** as the first controlled Jīvanta Paramparā pilot, frozen the **Jīvanta Paramparā — Top 10 Coverage Set** as strategic coverage, completed **JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0**, and frozen the **Sādhaka Guidance System** v0.2 conceptual foundation.
 
 Current editorial assumptions include:
 
@@ -217,6 +218,7 @@ Current editorial assumptions include:
 - Sections IV, VII, and VIII are permanently frozen.
 - Jīvanta Paramparā Architecture v1.0 is frozen.
 - Jīvanta Paramparā Methodology v1.0 is complete and frozen.
+- JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 is completed and available for future approved work packages.
 - JP-001 is the only populated Jīvanta Paramparā entity authorized by the current synchronization prompt.
 - Jīvanta Paramparā — Top 10 Coverage Set is frozen as strategic coverage and does not authorize JP-002 or additional population.
 - Sādhaka Guidance System v0.2 is the frozen Responsible Sādhaka Journey Foundation over existing repository layers, not an implementation authorization.
@@ -237,6 +239,7 @@ The following files serve as the authoritative references for their respective d
 | Editorial Methodology | Ādhāra Śilā Methodology.md |
 | Editorial Standards | Ādhāra Śilā Editorial Guide.md |
 | Jīvanta Paramparā Framework | Traditions Framework.md |
+| Jīvanta Paramparā Entry Template | Jīvanta Paramparā — Entry Template.md |
 | Jīvanta Paramparā Coverage Set | Jīvanta Paramparā — Top 10 Coverage Set.md |
 | JP-001 Pilot Entry | JP-001 Śrī Vaiṣṇava Sampradāya.md |
 | Sādhaka Guidance System Conceptual Architecture | Sādhaka Guidance System.md |
@@ -341,7 +344,7 @@ This section summarizes the repository's current operational state at a glance.
 | Repository Operating Mode | Sādhaka Guidance System Conceptual Architecture |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Current Phase | Post-Commit Synchronization Validation |
-| Current Deliverable | Research & Citation Policy v1.1 approval synchronization |
+| Current Deliverable | JP-TM-001 concrete Jīvanta Paramparā entry template synchronization |
 | Current Editorial Work Package | Repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056 |
 | Repository Maintenance | See Repository Maintenance Queue |
 
@@ -356,7 +359,7 @@ This section summarizes the overall operational health of the repository.
 | Repository Architecture | Stable |
 | Governance | Stable |
 | Editorial Framework | Stable |
-| Editorial Progress | Ādhāra Śilā Frozen; Jīvanta Paramparā Foundation Frozen; JP-001 Completed as Pilot #1; Top 10 Coverage Set Frozen as Strategic Coverage; Sādhaka Guidance System v0.2 Frozen Conceptual Foundation |
+| Editorial Progress | Ādhāra Śilā Frozen; Jīvanta Paramparā Foundation Frozen; JP-TM-001 Template Completed; JP-001 Completed as Pilot #1; Top 10 Coverage Set Frozen as Strategic Coverage; Sādhaka Guidance System v0.2 Frozen Conceptual Foundation |
 | Core Canon Progress | Editorial Freeze Completed |
 | Synchronization | Current |
 | Repository Structure | Stable |
@@ -390,7 +393,7 @@ Track the operational progress of the repository's principal deliverables.
 | Editorial Framework | Complete | Ādhāra Śilā Methodology v2.2 approved through DL-054; Research & Citation Policy v1.1 approved through DL-056 under DL-055; taxonomy and editorial guide remain approved |
 | Master Candidate List | Frozen | Sections IV, VII, and VIII synchronized with editorial freeze |
 | Ādhāra Śilā (आधार शिला) 108 | Frozen | Progress tracker synchronized with editorial freeze |
-| Jīvanta Paramparā | Pilot #1 Completed; Top 10 Coverage Set Frozen | JP-001 populated as Pilot #1; strategic coverage set frozen; architecture v1.0 frozen; methodology v1.0 complete and frozen; no additional population authorized |
+| Jīvanta Paramparā | Pilot #1 Completed; Template Completed; Top 10 Coverage Set Frozen | JP-TM-001 concrete entry template available; JP-001 populated as Pilot #1; strategic coverage set frozen; architecture v1.0 frozen; methodology v1.0 complete and frozen; no additional population authorized |
 | Sādhaka Guidance System | Frozen Conceptual Foundation | v0.2 freezes the iterative Discover / Ground / Practice / Progress / Continue journey foundation; implementation not begun |
 | Dharma Sāgara | Planned | Future milestone |
 | Release Notes | Active | Repository version history |
@@ -520,6 +523,7 @@ This section records repository progress rather than conversational history.
 - Research & Citation Policy v1.1 is a selective reconstruction using historical policy material as source material; it is not a verbatim restoration of the historical policy.
 - Historical S1-S8 and obsolete evidence-ranking structures remain excluded.
 - Jīvanta Paramparā — Top 10 Coverage Set frozen as strategic coverage without authorizing JP-002 or additional Jīvanta Paramparā population.
+- JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 completed and synchronized as a reusable template without creating JP-002 or any populated candidate entry.
 - No implementation schemas, executable sādhana pathways, automated scoring, or additional Jīvanta Paramparā population were introduced.
 
 ---
@@ -557,6 +561,7 @@ This section records repository progress rather than conversational history.
 - Decision Ledger.md synchronized to v2.2 with DL-055 and DL-056.
 - Project Status.md and Project Handover.md synchronized after Research & Citation Policy v1.1 approval while preserving repository version 5.4.
 - Jīvanta Paramparā — Top 10 Coverage Set.md created as a frozen strategic coverage artifact while preserving repository version 5.4 and without creating JP-002 or additional populated entries.
+- Jīvanta Paramparā — Entry Template.md created under Home/08 Templates as JP-TM-001 Concrete Jīvanta Paramparā Entry Template v1.0 while preserving repository version 5.4 and the frozen Jīvanta framework.
 
 ---
 
@@ -572,7 +577,7 @@ This section records repository progress rather than conversational history.
 
 ## Resume Point
 
-Resume with repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056. Do not begin Sādhaka Guidance implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
+Resume with repository consistency and technical-debt review using the completed JP-TM-001 template where relevant. Do not begin Sādhaka Guidance implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
 
 ---
 
@@ -587,9 +592,9 @@ Confirm repository readiness following synchronization and before editorial work
 | Repository Synchronized | Yes |
 | Editorial Work Queue Validated | Yes |
 | Repository Maintenance Queue Validated | Yes |
-| Governance Changes Since Handover | Decision Ledger synchronized to v2.2 with DL-055 and DL-056; Research & Citation Policy v1.1 approved |
+| Governance Changes Since Handover | None; JP-TM-001 is a template synchronization and does not create a governance decision |
 | Blocking Issues | None |
-| Ready for Editorial Work | Ready for repository consistency and technical-debt review following approved Research & Citation Policy v1.1 transition; implementation and future population require explicit approval |
+| Ready for Editorial Work | Ready for repository consistency and technical-debt review with JP-TM-001 available; implementation and future Jīvanta population require explicit approval |
 
 ---
 
@@ -602,7 +607,7 @@ Record the outcome of the most recent synchronization.
 | Item | Status |
 |------|--------|
 | Synchronization Status | Completed |
-| Validation Result | Research & Citation Policy v1.1 approved as the supporting operational research and citation policy under DL-055 and DL-056. Decision Ledger updated to v2.2; Project Handover updated to v5.12; repository version remains 5.4; Jīvanta Paramparā — Top 10 Coverage Set is frozen as strategic coverage; Sādhaka Guidance System v0.2 remains the frozen conceptual foundation; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
+| Validation Result | JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 completed and synchronized. Project Handover updated to v5.13; repository version remains 5.4; Jīvanta Paramparā Architecture v1.0 and Methodology v1.0 remain frozen; Top 10 Coverage Set remains frozen and unchanged; JP-001 remains the only populated Jīvanta entry; no JP-002, implementation schemas, executable sādhana pathways, automated scoring, or additional Jīvanta Paramparā population were introduced. |
 | Synchronization Timestamp | 2026-08-14 |
 
 ---
@@ -616,7 +621,7 @@ Record the outcome of the most recent synchronization.
 
 ## Files Created
 
-- Home/05 Traditions/Jīvanta Paramparā — Top 10 Coverage Set.md
+- Home/08 Templates/Jīvanta Paramparā — Entry Template.md
 
 ---
 
@@ -643,7 +648,6 @@ Record repository observations that require future attention.
 
 ## Confirmed Findings
 
-- No approved concrete Jīvanta Paramparā entry template exists in the repository.
 - Traditions Taxonomy.md remains empty.
 - JP-001 approved editorial record did not include a full bibliography in the repository.
 - Jīvanta Paramparā — Top 10 Coverage Set is a strategic coverage artifact, not a candidate matrix, evidence register, or populated JP entry.
@@ -665,6 +669,7 @@ Record repository observations that require future attention.
 - Research & Citation Policy.md now contains approved v1.1 operational research and citation policy content.
 - Decision Ledger.md now records DL-055 as the Research & Citation Policy scope and authority decision.
 - Decision Ledger.md now records DL-056 as the Research & Citation Policy v1.1 approval decision.
+- JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 is now available at Home/08 Templates/Jīvanta Paramparā — Entry Template.md.
 
 ---
 
@@ -678,7 +683,6 @@ Record repository observations that require future attention.
 - Research & Citation Policy.md v1.1 is approved; future technical debt should focus on source-record completeness and citation consistency across repository entries.
 - Candidate Resources Under Review.md is present but empty.
 - Release Notes.md and Codex Synchronization Prompt.md are governance/support documents without full standard governance metadata.
-- No concrete Jīvanta Paramparā entry template exists.
 - JP-001 source bibliography is not yet source-complete beyond the Owner-approved editorial record.
 - Sādhaka Guidance System implementation artifacts do not yet exist and are intentionally deferred.
 
@@ -689,7 +693,7 @@ Record repository observations that require future attention.
 - Continue with repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056.
 - Maintain the frozen state of Sections IV, VII, and VIII unless governance explicitly reopens them.
 - Address technical debt only when it does not interrupt editorial progress.
-- Create or approve Jīvanta Paramparā templates before adding individual entries.
+- Use JP-TM-001 for future Jīvanta Paramparā entry drafting only after a separate controlled work package is approved.
 - Complete JP-001 source bibliography before treating the entry as fully source-complete.
 - Keep future Sādhaka Guidance System implementation planning separate from conceptual architecture approval.
 
@@ -699,6 +703,7 @@ Record repository observations that require future attention.
 
 - No new editorial analysis was performed during synchronization.
 - No Jīvanta Paramparā entity beyond JP-001 was populated.
+- JP-TM-001 is a reusable template only; it is not a populated Jīvanta Paramparā entity.
 - Jīvanta Paramparā — Top 10 Coverage Set was frozen as strategic coverage without creating JP-002 or candidate entries.
 - JP-001 relationship claims rely on the Owner-approved editorial record; detailed bibliographic source completion remains pending.
 - No new repository version was created during JP-001 synchronization.
@@ -1036,3 +1041,4 @@ Detailed repository changes are maintained in **Release Notes.md**.
 | 5.10 | 2026-08-13 | Synchronized Handover after Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 governance approval. |
 | 5.11 | 2026-08-14 | Synchronized Handover after Research & Citation Policy v1.1 approval under DL-055 and DL-056 while preserving repository version 5.4 and the frozen Sādhaka Guidance System v0.2 conceptual foundation. |
 | 5.12 | 2026-08-14 | Synchronized Handover after freezing the Jīvanta Paramparā Top 10 Coverage Set as strategic coverage while preserving repository version 5.4, JP-001-only population status, and frozen architecture/methodology boundaries. |
+| 5.13 | 2026-08-14 | Synchronized Handover after JP-TM-001 Concrete Jīvanta Paramparā Entry Template v1.0 completion while preserving repository version 5.4, frozen Top 10 status, JP-001-only population, and frozen Jīvanta architecture/methodology boundaries. |

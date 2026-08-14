@@ -20,6 +20,7 @@ Related Documents:
 - Ādhāra Śilā Editorial Guide.md
 - Master Candidate List.md
 - Ādhāra Śilā 108.md
+- Jīvanta Paramparā — Entry Template.md
 - Traditions Framework.md
 - Jīvanta Paramparā — Top 10 Coverage Set.md
 - JP-001 Śrī Vaiṣṇava Sampradāya.md
@@ -95,6 +96,7 @@ Next work package: **Validated repository synchronization findings and technical
 - ⏳ Sādhana Sheets
 - ✅ Jīvanta Paramparā Architecture v1.0 Frozen
 - ✅ Jīvanta Paramparā Methodology v1.0 Complete & Frozen
+- ✅ JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 completed and synchronized
 - ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 - ✅ Jīvanta Paramparā — Top 10 Coverage Set frozen as strategic coverage; JP-002 onward not authorized
 - ✅ Sādhaka Guidance System v0.2 frozen as conceptual foundation; implementation not begun
@@ -132,10 +134,13 @@ The living-traditions layer representing how Sanātana Dharma is preserved, tran
 - Inclusion criteria and mandatory gates defined
 - Entity metadata and relationship schema defined
 - Editorial workflow and quality-control process defined
+- Concrete entry template available through JP-TM-001
 
 JP-001 — Śrī Vaiṣṇava Sampradāya has been populated as the first controlled Jīvanta Paramparā pilot. No additional tradition, sampradāya, lineage, teacher, practice, institution, community, or movement has been populated.
 
 Jīvanta Paramparā — Top 10 Coverage Set is frozen as a representative strategic coverage set for future controlled research. Inclusion in that set does not authorize JP-002 or any additional Jīvanta Paramparā population.
+
+JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 is completed and synchronized as a reusable template. The template is not a populated Jīvanta Paramparā entity and does not authorize JP-002 or subsequent population.
 
 ## Dharma Sāgara
 
@@ -193,6 +198,7 @@ Current effort is focused on **post-approval repository consistency and technica
 - ✅ JP-001 repository synchronization and QA completed for Pilot #1
 - ✅ Jīvanta Paramparā architecture v1.0 frozen
 - ✅ Jīvanta Paramparā methodology v1.0 complete and frozen
+- ✅ JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 completed and synchronized
 - ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
 - ✅ Sādhaka Guidance System v0.2 frozen conceptual foundation synchronized and committed on Dev_branch at d3cb0e78eb96096128f099047ad9e458b918f1d1
 - ✅ Ādhāra Śilā Methodology v2.2 reconstructed and approved through DL-054
@@ -259,6 +265,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Ādhāra Śilā 108 | ✅ Editorial freeze synchronized |
 | Jīvanta Paramparā Architecture | ✅ Frozen |
 | Jīvanta Paramparā Methodology | ✅ Complete & Frozen |
+| JP-TM-001 — Concrete Entry Template | ✅ Completed & Synchronized |
 | JP-001 — Śrī Vaiṣṇava Sampradāya | ✅ Populated as Pilot #1 |
 | Jīvanta Paramparā — Top 10 Coverage Set | ✅ Frozen strategic coverage |
 | Sādhaka Guidance System | ✅ Frozen Conceptual Foundation v0.2 |
@@ -286,6 +293,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-08-13 | Reconstructed and approved Ādhāra Śilā Methodology v2.2 through DL-054 without changing repository version 5.4. |
 | 2026-08-14 | Approved Research & Citation Policy v1.1 through DL-056 under the scope and authority established by DL-055 without changing repository version 5.4. |
 | 2026-08-14 | Froze Jīvanta Paramparā — Top 10 Coverage Set as strategic coverage without authorizing JP-002 or additional Jīvanta Paramparā population and without changing repository version 5.4. |
+| 2026-08-14 | Completed and synchronized JP-TM-001 — Concrete Jīvanta Paramparā Entry Template v1.0 without creating JP-002, population records, or a new repository version. |
 
 
 ---
