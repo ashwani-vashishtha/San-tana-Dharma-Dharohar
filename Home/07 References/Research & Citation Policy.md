@@ -1,0 +1,406 @@
+# Research & Citation Policy
+
+**Version:** 1.1
+**Status:** Approved
+**Project:** Sanātana Dharma Dharohar
+**Owner:** Sanātana Dharma Dharohar Project
+**Last Updated:** 2026-08-14
+
+---
+
+# Purpose
+
+This policy defines the operational standards for research, source verification, citation, attribution, translation references, and research provenance throughout the Sanātana Dharma Dharohar repository.
+
+Its purpose is to ensure that repository content is traceable to identifiable and appropriately verified sources and that readers can distinguish source material from commentary, interpretation, historical analysis, and repository editorial summary.
+
+This policy supports the Constitution, Ādhāra Śilā Methodology, and Ādhāra Śilā Editorial Guide.
+
+It does not replace or override them.
+
+---
+
+# Authority and Scope
+
+This policy applies to research and citation practices across the repository.
+
+The following documents remain authoritative for their respective responsibilities:
+
+| Document | Authority |
+|---|---|
+| Constitution.md | Governance and evidence hierarchy |
+| Decision Ledger.md | Accepted governance and architectural decisions |
+| Ādhāra Śilā Methodology.md | Evaluation of Ādhāra Śilā foundational sources |
+| Ādhāra Śilā Taxonomy.md | Classification and organization |
+| Ādhāra Śilā Editorial Guide.md | Writing, metadata, presentation, and editorial standards |
+| Research & Citation Policy.md | Operational research and citation practices |
+| Bibliography.md | Repository source records |
+| Research Journal.md | Working research record |
+
+Where a conflict exists, the higher-authority document takes precedence.
+
+This policy does not create a separate Pramāṇa hierarchy.
+
+---
+
+# Core Research Principles
+
+## Pramāṇa First
+
+Research should begin, wherever reasonably possible, with the most authoritative and directly relevant sources available under the Constitution's evidence hierarchy.
+
+The Constitution Article 6 evidence hierarchy remains authoritative:
+
+1. Primary Scriptures
+2. Traditional Commentaries
+3. Classical Scholarly Works
+4. Living Traditional Practice
+5. Modern Academic Research
+
+This policy does not modify that hierarchy.
+
+## Scripture Before Interpretation
+
+Where a textual claim is being documented, the underlying primary text should be consulted wherever reasonably possible before relying on summaries or interpretations.
+
+Interpretation must not be presented as scripture.
+
+## Evidence Over Popularity
+
+Popularity does not establish authenticity or authority.
+
+The following are not authoritative merely because they are widely circulated:
+
+- social media posts;
+- viral articles;
+- blogs;
+- quote collections;
+- unattributed translations;
+- videos or podcasts without identifiable source attribution;
+- AI-generated material.
+
+Such material may occasionally assist discovery, but it requires verification against appropriate sources before being used as factual repository evidence.
+
+## Tradition-Aware Research
+
+Sanātana Dharma contains multiple authentic traditions and interpretive lineages.
+
+Where legitimate differences exist:
+
+- identify the relevant tradition or sampradāya where material;
+- identify the commentator or source;
+- distinguish the tradition-specific position from broader consensus;
+- avoid presenting one interpretation as universally accepted without adequate support.
+
+## Transparency
+
+Research should clearly distinguish between:
+
+- Primary Source
+- Traditional Commentary
+- Historical Evidence
+- Academic Scholarship
+- Traditional Interpretation
+- Repository Editorial Summary
+
+Readers should be able to understand where a significant claim originates.
+
+---
+
+# Source Types
+
+The repository uses source categories for research and citation purposes.
+
+These categories describe the nature of a source. They do not create a new authority ranking.
+
+## Primary Sources
+
+Examples include:
+
+- Vedas
+- Brāhmaṇas
+- Āraṇyakas
+- Upaniṣads
+- Bhagavad Gītā
+- Mahābhārata
+- Vālmīki Rāmāyaṇa
+- Purāṇas
+- Āgamas
+- Tantras
+- Yoga scriptures
+- other identifiable primary textual works
+
+When citing a primary source, identify the work and the relevant textual location whenever reasonably possible.
+
+## Traditional Commentaries
+
+These include recognized traditional bhāṣyas, ṭīkās, and other identifiable commentary traditions.
+
+Commentators should be explicitly attributed.
+
+## Classical and Scholarly Works
+
+These include classical scholarly works, philological studies, critical editions, manuscript studies, and relevant academic publications.
+
+Their use should be appropriate to the question being researched.
+
+## Living Traditional Sources
+
+Living teachers, institutions, traditional publications, and contemporary practitioners may provide evidence concerning living practice, interpretation, transmission, and current tradition.
+
+They should not be presented as equivalent to primary scripture.
+
+## Modern Academic Research
+
+Academic books, peer-reviewed research, university publications, and related scholarship may be used particularly for:
+
+- textual history;
+- manuscript studies;
+- chronology;
+- historical development;
+- linguistic analysis;
+- comparative studies.
+
+Academic interpretation should be identified as such.
+
+## General Reference Sources
+
+Encyclopedias, educational websites, general reference works, and similar sources may assist orientation and discovery.
+
+They should not normally serve as the sole authority for significant claims when stronger sources are reasonably available.
+
+## AI-Assisted Material
+
+AI may assist with:
+
+- discovery;
+- organization;
+- summarization;
+- comparison;
+- drafting;
+- language refinement.
+
+AI-generated material is not an authoritative source.
+
+AI output must be verified against appropriate source material before being treated as repository evidence.
+
+---
+
+# Source Verification
+
+Before using a source as substantive evidence, contributors should verify, where reasonably possible:
+
+- source identity;
+- author or attribution;
+- title;
+- edition or publication;
+- publisher or institution;
+- date, where relevant;
+- textual location;
+- translation identity, where applicable;
+- commentary identity, where applicable.
+
+The authority of a digital platform does not automatically establish the authority of the material it hosts.
+
+Where possible, evaluate the underlying edition or publication rather than merely the hosting platform.
+
+---
+
+# Citation Standards
+
+Permanent repository notes should provide sufficient citation information for an independent reader to identify and verify the source.
+
+Where applicable, record:
+
+- Work / Scripture
+- Chapter / Section
+- Verse / Passage
+- Edition
+- Publisher
+- Publication Year
+- Translator
+- Commentary
+- Page or location
+- Digital resource or stable identifier where relevant
+
+Not every source will contain every field.
+
+The standard is sufficient traceability, not mechanical completion of every field.
+
+---
+
+# Citation Categories
+
+Repository citations should distinguish clearly between:
+
+### Primary Sources
+
+The underlying textual work or scripture.
+
+### Traditional Commentaries
+
+Traditional explanations or commentarial works associated with an identifiable commentator or lineage.
+
+### Modern Scholarship
+
+Academic or modern scholarly analysis.
+
+These categories should not be blended in a way that obscures the origin of a claim.
+
+---
+
+# Translation and Textual Presentation
+
+Where textual precision matters, the original text should be preferred over relying exclusively on translation.
+
+Where practical, repository entries may provide:
+
+- original Sanskrit;
+- IAST;
+- translation;
+- traditional commentary;
+- repository summary.
+
+Translations should be identified by translator or edition where known.
+
+Where materially different translations affect interpretation, the relevant difference should be noted rather than silently harmonized.
+
+A translation must not be presented as the original scripture.
+
+---
+
+# Commentary and Interpretation
+
+Traditional commentaries should be explicitly attributed.
+
+Where multiple authentic commentarial traditions provide materially different interpretations:
+
+- identify the commentator;
+- identify the tradition where relevant;
+- cite the supporting source;
+- present the positions fairly;
+- distinguish agreement from divergence.
+
+The repository should document authentic positions rather than artificially harmonizing legitimate differences.
+
+---
+
+# Conflicting or Disputed Evidence
+
+When credible sources disagree:
+
+1. identify the disagreement;
+2. identify the relevant sources;
+3. distinguish textual evidence from interpretation;
+4. avoid presenting disputed claims as settled fact;
+5. record meaningful uncertainty where necessary.
+
+The policy does not establish a new conflict-resolution hierarchy beyond the Constitution's evidence framework and applicable repository governance.
+
+---
+
+# Evidence Gaps and Uncertainty
+
+Research gaps should be visible rather than silently filled.
+
+Where evidence is incomplete:
+
+- state what is known;
+- identify what is uncertain;
+- identify the source limitation where relevant;
+- avoid speculative completion;
+- mark claims requiring further research where appropriate.
+
+Absence of available evidence should not automatically be presented as evidence of absence.
+
+---
+
+# Research Provenance
+
+Significant research should remain traceable to its underlying sources.
+
+Where research contributes to a permanent repository entry, the contributor should be able to identify:
+
+- what source was consulted;
+- what claim it supports;
+- whether the statement is direct textual evidence, traditional interpretation, historical analysis, academic interpretation, or editorial synthesis.
+
+Research provenance should be preserved through appropriate citations, bibliography records, and research notes.
+
+---
+
+# Approved and Preferred Sources
+
+The repository may maintain examples of useful publishers, libraries, institutions, and editions.
+
+Such examples are guidance, not a replacement for evaluating the actual source.
+
+A hosting platform does not automatically confer authority on every work it contains.
+
+When selecting between editions, consider:
+
+- textual reliability;
+- provenance;
+- edition quality;
+- scholarly or traditional standing;
+- relevance to the research question;
+- availability of identifiable bibliographic information.
+
+No publisher, website, or institution is automatically authoritative for every subject.
+
+---
+
+# Research vs Editorial Guidance
+
+This policy defines research and citation handling.
+
+It does not define:
+
+- Ādhāra Śilā inclusion criteria;
+- taxonomy;
+- repository-layer assignment;
+- editorial writing style;
+- Sādhana instructions;
+- Guru or Diksha requirements;
+- spiritual authority;
+- Sādhaka Guidance.
+
+Those responsibilities remain with the appropriate governing documents and repository layers.
+
+---
+
+# Editorial Research Checklist
+
+Before approving a research-dependent permanent note, verify where applicable:
+
+- [ ] Primary or most appropriate source identified
+- [ ] Source identity verified
+- [ ] Relevant textual location recorded
+- [ ] Commentary attributed
+- [ ] Translation identified
+- [ ] Source type clearly distinguished
+- [ ] Significant claims traceable to sources
+- [ ] Conflicting interpretations identified where material
+- [ ] Uncertainty recorded where necessary
+- [ ] Bibliographic information captured where appropriate
+- [ ] AI-generated material independently verified
+- [ ] Citation categories not mixed misleadingly
+- [ ] Repository editorial standards followed
+
+---
+
+# Amendment and Maintenance
+
+Minor corrections to citation metadata, spelling, links, or bibliographic details may be made through normal editorial maintenance.
+
+Substantive changes to this policy should follow the repository's governance process and be recorded in the Decision Ledger where required.
+
+Changes must remain compatible with the Constitution, Ādhāra Śilā Methodology, and Editorial Guide.
+
+---
+
+# Revision History
+
+| Version | Date | Summary |
+|---|---|---|
+| 1.1 | 2026-08-14 | Approved as the supporting operational Research & Citation Policy under DL-055. This version is a selective reconstruction using historical Research & Citation Policy material as source material, not a verbatim restoration of the historical policy. Historical S1–S8 hierarchy and obsolete governance structures intentionally not restored. |

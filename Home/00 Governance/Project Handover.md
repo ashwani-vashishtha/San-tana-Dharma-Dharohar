@@ -1,9 +1,9 @@
 # Project Handover
 
-Version: 5.10
+Version: 5.11
 Status: Approved
 Created: 2026-07-19
-Last Updated: 2026-08-13
+Last Updated: 2026-08-14
 Owner: Sanātana Dharma Dharohar Project
 Related Documents:
 
@@ -179,7 +179,7 @@ This section records **how the repository is currently operating**, not its gove
 
 | Item | Current State |
 |------|---------------|
-| Primary Activity | Post-commit repository synchronization validation |
+| Primary Activity | Repository consistency and technical-debt review |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Primary Working File | Sādhaka Guidance System.md |
 | Editorial State | JP-001 completed as Pilot #1; Sādhaka Guidance System v0.2 frozen as conceptual foundation; Ādhāra Śilā freeze intact; Jīvanta Paramparā architecture v1.0 and methodology v1.0 frozen |
@@ -338,8 +338,8 @@ This section summarizes the repository's current operational state at a glance.
 | Repository Operating Mode | Sādhaka Guidance System Conceptual Architecture |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Current Phase | Post-Commit Synchronization Validation |
-| Current Deliverable | Ādhāra Śilā Methodology v2.2 approval synchronization |
-| Current Editorial Work Package | Repository consistency and technical-debt review following Ādhāra Śilā Methodology v2.2 approval |
+| Current Deliverable | Research & Citation Policy v1.1 approval synchronization |
+| Current Editorial Work Package | Repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056 |
 | Repository Maintenance | See Repository Maintenance Queue |
 
 ---
@@ -369,9 +369,9 @@ Summarize the repository's governance state without duplicating governance docum
 | Item | Status |
 |------|--------|
 | Constitution Version | 1.2 |
-| Decision Ledger Version | 2.0 |
+| Decision Ledger Version | 2.2 |
 | Governance Status | Stable |
-| Governance Changes Since Previous Session | DL-054 accepted Ādhāra Śilā Methodology v2.2 as the first substantive current methodology reconstruction; DL-053 remains in effect |
+| Governance Changes Since Previous Session | DL-055 established Research & Citation Policy scope and authority; DL-056 approved Research & Citation Policy v1.1; Decision Ledger synchronized to v2.2 |
 
 ---
 
@@ -384,7 +384,7 @@ Track the operational progress of the repository's principal deliverables.
 | Deliverable | Status | Remarks |
 |-------------|--------|---------|
 | Governance Framework | Complete | Frozen |
-| Editorial Framework | Complete | Ādhāra Śilā Methodology v2.2 approved through DL-054; taxonomy and editorial guide remain approved |
+| Editorial Framework | Complete | Ādhāra Śilā Methodology v2.2 approved through DL-054; Research & Citation Policy v1.1 approved through DL-056 under DL-055; taxonomy and editorial guide remain approved |
 | Master Candidate List | Frozen | Sections IV, VII, and VIII synchronized with editorial freeze |
 | Ādhāra Śilā (आधार शिला) 108 | Frozen | Progress tracker synchronized with editorial freeze |
 | Jīvanta Paramparā | Pilot #1 Completed | JP-001 populated as Pilot #1; architecture v1.0 frozen; methodology v1.0 complete and frozen; no additional population authorized |
@@ -409,19 +409,19 @@ The Synchronization Assistant shall synchronize this section, but shall never in
 
 ## Current Work Package
 
-Perform repository consistency and technical-debt review following the approved **Ādhāra Śilā Methodology v2.2** reconstruction and **DL-054** governance synchronization.
+Perform repository consistency and technical-debt review following the approved **Research & Citation Policy v1.1** transition through **DL-055** and **DL-056**, while preserving the existing Sādhaka Guidance System conceptual milestone.
 
 ---
 
 ## Current Editorial Focus
 
-Post-approval repository synchronization validation
+Post-approval repository consistency and technical-debt review
 
 ---
 
 ## Next Recommended Work Package
 
-Address validated repository synchronization findings and technical debt without interrupting editorial progress; future Sādhaka Guidance System implementation planning only after explicit approval; future Jīvanta Paramparā population only through explicitly approved controlled work packages
+Address validated repository synchronization findings and technical debt within the existing audit/maintenance track; future Sādhaka Guidance System implementation planning only after explicit approval; future Jīvanta Paramparā population only through explicitly approved controlled work packages
 
 ---
 
@@ -513,6 +513,9 @@ This section records repository progress rather than conversational history.
 - Repository transitioned from conceptual architecture refinement through committed synchronization of the frozen Sādhaka Guidance System foundation.
 - Ādhāra Śilā Methodology v2.2 reconstructed as the first substantive current methodology after repository audit found no substantive v2.1 body in current files or Git history.
 - Historical Core Canon methodology material was used only where compatible with current Ādhāra Śilā governance and terminology; v2.2 is not a restored v2.1 document.
+- Research & Citation Policy v1.1 approved as the supporting operational research and citation policy under DL-055 and DL-056.
+- Research & Citation Policy v1.1 is a selective reconstruction using historical policy material as source material; it is not a verbatim restoration of the historical policy.
+- Historical S1-S8 and obsolete evidence-ranking structures remain excluded.
 - No implementation schemas, executable sādhana pathways, automated scoring, or additional Jīvanta Paramparā population were introduced.
 
 ---
@@ -528,6 +531,8 @@ This section records repository progress rather than conversational history.
 - JP-001 Owner Approval implemented for repository population.
 - Responsible Sādhaka Journey Foundation frozen as the refined conceptual model for the Sādhaka Guidance System.
 - Ādhāra Śilā Methodology v2.2 accepted as the current approved methodology through DL-054.
+- Research & Citation Policy scope and authority accepted through DL-055.
+- Research & Citation Policy v1.1 approved through DL-056.
 
 ---
 
@@ -544,6 +549,9 @@ This section records repository progress rather than conversational history.
 - Ādhāra Śilā Methodology.md reconstructed to v2.2 and marked Approved.
 - Decision Ledger.md synchronized to v2.0 with DL-054.
 - Project Status.md and Project Handover.md synchronized after DL-054 while preserving repository version 5.4.
+- Research & Citation Policy.md approved as v1.1 under DL-055 and DL-056.
+- Decision Ledger.md synchronized to v2.2 with DL-055 and DL-056.
+- Project Status.md and Project Handover.md synchronized after Research & Citation Policy v1.1 approval while preserving repository version 5.4.
 
 ---
 
@@ -559,7 +567,7 @@ This section records repository progress rather than conversational history.
 
 ## Resume Point
 
-Resume with repository consistency and technical-debt review following the approved Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 governance synchronization. Do not begin implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
+Resume with repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056. Do not begin Sādhaka Guidance implementation, JP-002, or additional Jīvanta Paramparā population without explicit approval.
 
 ---
 
@@ -574,9 +582,9 @@ Confirm repository readiness following synchronization and before editorial work
 | Repository Synchronized | Yes |
 | Editorial Work Queue Validated | Yes |
 | Repository Maintenance Queue Validated | Yes |
-| Governance Changes Since Handover | Decision Ledger synchronized to v2.0 with DL-054; DL-053 remains in effect |
+| Governance Changes Since Handover | Decision Ledger synchronized to v2.2 with DL-055 and DL-056; Research & Citation Policy v1.1 approved |
 | Blocking Issues | None |
-| Ready for Editorial Work | Ready for repository consistency and technical-debt review following approved Ādhāra Śilā Methodology v2.2 reconstruction; implementation and future population require explicit approval |
+| Ready for Editorial Work | Ready for repository consistency and technical-debt review following approved Research & Citation Policy v1.1 transition; implementation and future population require explicit approval |
 
 ---
 
@@ -589,15 +597,13 @@ Record the outcome of the most recent synchronization.
 | Item | Status |
 |------|--------|
 | Synchronization Status | Completed |
-| Validation Result | Ādhāra Śilā Methodology v2.2 approved through DL-054 as the first substantive current methodology reconstruction. JP-001 remains completed as Pilot #1; Sādhaka Guidance System v0.2 remains the frozen conceptual foundation; repository version remains 5.4; Project Handover updated to v5.10; Decision Ledger updated to v2.0; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
-| Synchronization Timestamp | 2026-08-13 |
+| Validation Result | Research & Citation Policy v1.1 approved as the supporting operational research and citation policy under DL-055 and DL-056. Decision Ledger updated to v2.2; Project Handover updated to v5.11; repository version remains 5.4; Sādhaka Guidance System v0.2 remains the frozen conceptual foundation; Constitution remains v1.2; no implementation schemas, executable sādhana pathways, automated scoring, JP-002, or additional Jīvanta Paramparā population were introduced. |
+| Synchronization Timestamp | 2026-08-14 |
 
 ---
 
 ## Files Updated
 
-- Ādhāra Śilā Methodology.md
-- Decision Ledger.md
 - Project Status.md
 - Project Handover.md
 
@@ -650,6 +656,9 @@ Record repository observations that require future attention.
 - Project Handover.md and Project Status.md now reflect the committed post-synchronization state for d3cb0e78eb96096128f099047ad9e458b918f1d1.
 - Ādhāra Śilā Methodology.md now contains substantive v2.2 methodology content with Revision History.
 - Decision Ledger.md now records DL-054 as the Ādhāra Śilā Methodology v2.2 approval decision.
+- Research & Citation Policy.md now contains approved v1.1 operational research and citation policy content.
+- Decision Ledger.md now records DL-055 as the Research & Citation Policy scope and authority decision.
+- Decision Ledger.md now records DL-056 as the Research & Citation Policy v1.1 approval decision.
 
 ---
 
@@ -660,7 +669,7 @@ Record repository observations that require future attention.
 - Broken cross references.
 - Repository metadata consistency.
 - Traditions Taxonomy.md is present but empty.
-- Research & Citation Policy.md is present but empty.
+- Research & Citation Policy.md v1.1 is approved; future technical debt should focus on source-record completeness and citation consistency across repository entries.
 - Candidate Resources Under Review.md is present but empty.
 - Release Notes.md and Codex Synchronization Prompt.md are governance/support documents without full standard governance metadata.
 - No concrete Jīvanta Paramparā entry template exists.
@@ -671,7 +680,7 @@ Record repository observations that require future attention.
 
 ## Recommendations
 
-- Continue with repository consistency and technical-debt review following the approved Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 synchronization.
+- Continue with repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056.
 - Maintain the frozen state of Sections IV, VII, and VIII unless governance explicitly reopens them.
 - Address technical debt only when it does not interrupt editorial progress.
 - Create or approve Jīvanta Paramparā templates before adding individual entries.
@@ -1018,3 +1027,4 @@ Detailed repository changes are maintained in **Release Notes.md**.
 | 5.8 | 2026-08-13 | Regenerated for Sādhaka Guidance System v0.2 frozen conceptual foundation synchronization and Repository Owner review before commit. |
 | 5.9 | 2026-08-13 | Synchronized Handover after the Sādhaka Guidance System v0.2 synchronization was committed on Dev_branch. |
 | 5.10 | 2026-08-13 | Synchronized Handover after Ādhāra Śilā Methodology v2.2 reconstruction and DL-054 governance approval. |
+| 5.11 | 2026-08-14 | Synchronized Handover after Research & Citation Policy v1.1 approval under DL-055 and DL-056 while preserving repository version 5.4 and the frozen Sādhaka Guidance System v0.2 conceptual foundation. |

@@ -1,12 +1,12 @@
 # Decision Ledger
 
-Version: 2.0
+Version: 2.2
 
 Status: Approved
 
 Created: 2026-07-19
 
-Last Updated: 2026-08-13
+Last Updated: 2026-08-14
 
 Owner: Sanātana Dharma Dharohar Project
 
@@ -114,6 +114,8 @@ The following decision states are used throughout this ledger.
 | DL-052 | Sādhaka Guidance System as Conceptual Guidance Layer | Accepted |
 | DL-053 | Responsible Sādhaka Journey Foundation | Frozen |
 | DL-054 | Ādhāra Śilā Methodology v2.2 Approval | Accepted |
+| DL-055 | Research & Citation Policy Scope and Authority | Accepted |
+| DL-056 | Research & Citation Policy v1.1 Approval | Accepted |
 
 ---
 
@@ -132,6 +134,145 @@ Each decision should contain, where applicable:
 ---
 
 # Decisions
+
+---
+
+## DL-056 — Research & Citation Policy v1.1 Approval
+
+**Status:** Accepted
+
+**Date:** 2026-08-14
+
+### Decision
+
+Research & Citation Policy v1.1 is approved as the repository's supporting operational policy for research and citation practice.
+
+The policy operates under DL-055 — Research & Citation Policy Scope and Authority.
+
+The policy supports:
+
+- source verification;
+- citation and attribution;
+- research provenance;
+- bibliographic consistency;
+- evidence gaps and uncertainty;
+- distinction between source types;
+- research transparency.
+
+### Authority
+
+Constitution Article 6 remains authoritative for the evidence hierarchy.
+
+Constitution Article 7 remains authoritative for Ādhāra Śilā evaluation criteria.
+
+Ādhāra Śilā Methodology v2.2 remains authoritative for foundational-source evaluation.
+
+Ādhāra Śilā Editorial Guide.md remains authoritative for editorial presentation and writing standards.
+
+Bibliography.md remains the source-record layer.
+
+Research Journal.md remains the working research record.
+
+### Historical Provenance
+
+Research & Citation Policy v1.1 is a selective reconstruction using historical Research & Citation Policy material as source material.
+
+It is not a verbatim restoration of the historical policy.
+
+### Boundaries
+
+This decision does not:
+
+- restore S1-S8;
+- create another Pramāṇa hierarchy;
+- introduce scoring or source ratings;
+- modify the Constitution;
+- modify Ādhāra Śilā Methodology;
+- modify Taxonomy;
+- alter Jīvanta Paramparā;
+- alter Dharma Sāgara;
+- implement Sādhaka Guidance.
+
+Repository Version remains unchanged.
+
+### Reason
+
+Research & Citation Policy v1.1 has passed compliance review against DL-055, Constitution Articles 6 and 7, Ādhāra Śilā Methodology v2.2, and Ādhāra Śilā Editorial Guide.md. Approval formalizes the policy as the repository's current operational standard for research and citation practice while preserving all higher-authority governance boundaries.
+
+---
+
+## DL-055 — Research & Citation Policy Scope and Authority
+
+**Status:** Accepted
+
+**Date:** 2026-08-14
+
+### Decision
+
+Research & Citation Policy.md is established as a supporting operational policy for:
+
+- source verification;
+- citation and attribution;
+- research provenance;
+- bibliographic consistency;
+- evidence gaps and uncertainty;
+- distinction between source types;
+- research transparency.
+
+This decision establishes the policy's role and authority only.
+
+This decision does not approve Research & Citation Policy v1.1.
+
+Research & Citation Policy v1.1 remains:
+
+- **Version:** 1.1
+- **Status:** Proposed
+
+### Authority
+
+Constitution Article 6 remains authoritative for the evidence hierarchy.
+
+Constitution Article 7 remains authoritative for Ādhāra Śilā evaluation criteria.
+
+Ādhāra Śilā Methodology v2.2 remains authoritative for foundational-source evaluation.
+
+Ādhāra Śilā Editorial Guide.md remains authoritative for editorial presentation and writing standards.
+
+Bibliography.md remains the source-record layer.
+
+Research Journal.md remains the working research record.
+
+Research & Citation Policy.md must not create a competing evidence or Pramāṇa hierarchy.
+
+### Historical Boundary
+
+Historical Research & Citation Policy material was used only as source material for the current reconstruction.
+
+This decision does not restore or revive:
+
+- historical S1-S8 hierarchy;
+- separate Pramāṇa hierarchy;
+- numerical or priority ratings;
+- historical Approved Reference Sources authority;
+- obsolete evidence-ranking rules.
+
+### Boundaries
+
+This decision does not change:
+
+- Constitution Article 6;
+- Constitution Article 7;
+- Ādhāra Śilā Methodology v2.2;
+- Taxonomy;
+- Editorial Guide;
+- Jīvanta Paramparā;
+- Dharma Sāgara;
+- Sādhāka Guidance System;
+- Repository Version.
+
+### Reason
+
+The reconstructed Research & Citation Policy v1.1 requires a clear governance boundary before future review. This decision records that the policy is a supporting operational research and citation policy, not an authority that replaces the Constitution, Ādhāra Śilā Methodology, Editorial Guide, Bibliography, or Research Journal.
 
 ---
 
@@ -643,3 +784,5 @@ This principle establishes a stable editorial rule for classifying works accordi
 | 1.8 | 2026-08-10 | Accepted the Sādhaka Guidance System as a conceptual guidance/navigation layer over the existing repository architecture without authorizing implementation or changing frozen foundations. |
 | 1.9 | 2026-08-13 | Froze the Responsible Sādhaka Journey Foundation as the refined conceptual foundation for the Sādhaka Guidance System without authorizing implementation or changing existing repository layers. |
 | 2.0 | 2026-08-13 | Accepted Ādhāra Śilā Methodology v2.2 as the first substantive current methodology reconstruction, preserving current governance, taxonomy, three-layer architecture, and practice boundaries. |
+| 2.1 | 2026-08-14 | Added DL-055 establishing the scope and authority of Research & Citation Policy.md as a supporting operational policy without approving Research & Citation Policy v1.1 or changing current governing documents and repository layers. |
+| 2.2 | 2026-08-14 | Added DL-056 approving Research & Citation Policy v1.1 as the repository's supporting operational policy for research and citation practice under DL-055 without changing higher-authority governance, repository layers, or Repository Version. |
