@@ -21,6 +21,7 @@ Related Documents:
 - Master Candidate List.md
 - Ādhāra Śilā 108.md
 - Traditions Framework.md
+- Jīvanta Paramparā — Top 10 Coverage Set.md
 - JP-001 Śrī Vaiṣṇava Sampradāya.md
 - Sādhaka Guidance System.md
 
@@ -95,6 +96,7 @@ Next work package: **Validated repository synchronization findings and technical
 - ✅ Jīvanta Paramparā Architecture v1.0 Frozen
 - ✅ Jīvanta Paramparā Methodology v1.0 Complete & Frozen
 - ✅ JP-001 — Śrī Vaiṣṇava Sampradāya populated as Pilot #1
+- ✅ Jīvanta Paramparā — Top 10 Coverage Set frozen as strategic coverage; JP-002 onward not authorized
 - ✅ Sādhaka Guidance System v0.2 frozen as conceptual foundation; implementation not begun
 
 ---
@@ -132,6 +134,8 @@ The living-traditions layer representing how Sanātana Dharma is preserved, tran
 - Editorial workflow and quality-control process defined
 
 JP-001 — Śrī Vaiṣṇava Sampradāya has been populated as the first controlled Jīvanta Paramparā pilot. No additional tradition, sampradāya, lineage, teacher, practice, institution, community, or movement has been populated.
+
+Jīvanta Paramparā — Top 10 Coverage Set is frozen as a representative strategic coverage set for future controlled research. Inclusion in that set does not authorize JP-002 or any additional Jīvanta Paramparā population.
 
 ## Dharma Sāgara
 
@@ -256,6 +260,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | Jīvanta Paramparā Architecture | ✅ Frozen |
 | Jīvanta Paramparā Methodology | ✅ Complete & Frozen |
 | JP-001 — Śrī Vaiṣṇava Sampradāya | ✅ Populated as Pilot #1 |
+| Jīvanta Paramparā — Top 10 Coverage Set | ✅ Frozen strategic coverage |
 | Sādhaka Guidance System | ✅ Frozen Conceptual Foundation v0.2 |
 
 ---
@@ -280,6 +285,7 @@ These items are intentionally deferred and shall not affect the current mileston
 | 2026-08-13 | Refined and froze Sādhaka Guidance System v0.2 as the Responsible Sādhaka Journey Foundation without changing repository version 5.4. |
 | 2026-08-13 | Reconstructed and approved Ādhāra Śilā Methodology v2.2 through DL-054 without changing repository version 5.4. |
 | 2026-08-14 | Approved Research & Citation Policy v1.1 through DL-056 under the scope and authority established by DL-055 without changing repository version 5.4. |
+| 2026-08-14 | Froze Jīvanta Paramparā — Top 10 Coverage Set as strategic coverage without authorizing JP-002 or additional Jīvanta Paramparā population and without changing repository version 5.4. |
 
 
 ---
