@@ -71,7 +71,7 @@ Next work package: **Validated repository synchronization findings and technical
 - ✅ Research & Citation Policy v1.1 (Approved under DL-055 and DL-056)
 - ✅ Evidence Hierarchy
 - ✅ Project Philosophy & Vision
-- ✅ Project Handover v5.11 operational framework
+- ✅ Project Handover v5.13 operational framework
 - ✅ Release Notes workflow adopted
 
 ## Editorial Framework

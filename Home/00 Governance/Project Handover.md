@@ -344,7 +344,7 @@ This section summarizes the repository's current operational state at a glance.
 | Repository Operating Mode | Sādhaka Guidance System Conceptual Architecture |
 | Current Milestone | Sādhaka Guidance System — Conceptual Architecture |
 | Current Phase | Post-Commit Synchronization Validation |
-| Current Deliverable | JP-TM-001 concrete Jīvanta Paramparā entry template synchronization |
+| Current Deliverable | Repository consistency and technical-debt review |
 | Current Editorial Work Package | Repository consistency and technical-debt review following the approved Research & Citation Policy v1.1 transition through DL-055 and DL-056 |
 | Repository Maintenance | See Repository Maintenance Queue |
 
